@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "produce": {
+                "common.geography.country.name": [
+                    "USA",
+                    "Russia",
+                    "Japan",
+                    "Canada"
+                ]
+            }
+        }
+    ]
+}
