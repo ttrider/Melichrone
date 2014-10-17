@@ -1,0 +1,57 @@
+{
+    "rules": [
+        {
+            "output": {
+                "Global.Address.Country": [
+                    "USA",
+                    "Russia",
+                    "Japan",
+                    "Canada"
+                ]
+            }
+        },
+        {
+            "input": {
+                "Global.Address.Country": "USA"
+            },
+            "output": {
+                "Global.Address.State": [ 
+					"WA","DC","OR"
+                ]
+            }
+        },
+
+
+        {
+            "input": {
+                "Global.Address.Country": "USA",
+                "Global.Address.State": "Washington",
+                "Global.Address.City": "Bellevue"
+            },
+            "output": {
+                "Global.Person.Entinicity": {
+                    "Russian": "20",
+                    "Asian": "10",
+                    "Hebruew": "2",
+                    "Indian": "60"
+                }
+            }
+        },
+        {
+            "input": {
+                "Global.Address.Country": "USA",
+                "Global.Address.State": "Washington",
+                "Global.Address.City": "Mercer Island"
+            },
+            "output": {
+                "Global.Person.Entinicity": {
+                    "Russian": "5",
+                    "Asian": "20",
+                    "Hebruew": "40",
+                    "Indian": "30"
+                }
+            }
+        }
+
+    ]
+}
