@@ -1,0 +1,8 @@
+E:\src\Melichrone\tools\DataCollector\bin\Debug\DataCollector.exe.config
+E:\src\Melichrone\tools\DataCollector\bin\Debug\DataCollector.exe
+E:\src\Melichrone\tools\DataCollector\bin\Debug\DataCollector.pdb
+E:\src\Melichrone\tools\DataCollector\bin\Debug\Newtonsoft.Json.dll
+E:\src\Melichrone\tools\DataCollector\bin\Debug\Newtonsoft.Json.xml
+E:\src\Melichrone\tools\DataCollector\obj\Debug\DataCollector.csprojResolveAssemblyReference.cache
+E:\src\Melichrone\tools\DataCollector\obj\Debug\DataCollector.exe
+E:\src\Melichrone\tools\DataCollector\obj\Debug\DataCollector.pdb
