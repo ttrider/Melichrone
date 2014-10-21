@@ -1,0 +1,4444 @@
+{
+  "rules": [
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Wilmington"
+      },
+      "produce": {
+        "common.geography.city.population": "71119",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3840
+          },
+          {
+            "African American": 5508
+          },
+          {
+            "Asian": 78
+          },
+          {
+            "American Indian": 45
+          },
+          {
+            "Native Hawaiian": 1
+          },
+          {
+            "Mixed race": 257
+          },
+          {
+            "Other race": 270
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Dover"
+      },
+      "produce": {
+        "common.geography.city.population": "36259",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4825
+          },
+          {
+            "African American": 4390
+          },
+          {
+            "Asian": 210
+          },
+          {
+            "American Indian": 26
+          },
+          {
+            "Native Hawaiian": 28
+          },
+          {
+            "Mixed race": 390
+          },
+          {
+            "Other race": 130
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Newark"
+      },
+      "produce": {
+        "common.geography.city.population": "31655",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8231
+          },
+          {
+            "African American": 699
+          },
+          {
+            "Asian": 743
+          },
+          {
+            "American Indian": 30
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 211
+          },
+          {
+            "Other race": 86
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Middletown"
+      },
+      "produce": {
+        "common.geography.city.population": "18495",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6222
+          },
+          {
+            "African American": 2663
+          },
+          {
+            "Asian": 508
+          },
+          {
+            "American Indian": 16
+          },
+          {
+            "Native Hawaiian": 10
+          },
+          {
+            "Mixed race": 354
+          },
+          {
+            "Other race": 227
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Bear"
+      },
+      "produce": {
+        "common.geography.city.population": "19751",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5758
+          },
+          {
+            "African American": 3197
+          },
+          {
+            "Asian": 424
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 198
+          },
+          {
+            "Other race": 423
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Brookside"
+      },
+      "produce": {
+        "common.geography.city.population": "14321",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7047
+          },
+          {
+            "African American": 1985
+          },
+          {
+            "Asian": 348
+          },
+          {
+            "American Indian": 15
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 159
+          },
+          {
+            "Other race": 446
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Glasgow"
+      },
+      "produce": {
+        "common.geography.city.population": "14780",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6109
+          },
+          {
+            "African American": 3086
+          },
+          {
+            "Asian": 516
+          },
+          {
+            "American Indian": 41
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 84
+          },
+          {
+            "Other race": 164
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Pike Creek Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "11268",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8169
+          },
+          {
+            "African American": 816
+          },
+          {
+            "Asian": 650
+          },
+          {
+            "American Indian": 4
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 185
+          },
+          {
+            "Other race": 177
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Hockessin"
+      },
+      "produce": {
+        "common.geography.city.population": "13287",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8106
+          },
+          {
+            "African American": 447
+          },
+          {
+            "Asian": 1269
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 174
+          },
+          {
+            "Other race": 3
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Milford"
+      },
+      "produce": {
+        "common.geography.city.population": "9513",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7025
+          },
+          {
+            "African American": 2402
+          },
+          {
+            "Asian": 49
+          },
+          {
+            "American Indian": 20
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 145
+          },
+          {
+            "Other race": 358
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Smyrna"
+      },
+      "produce": {
+        "common.geography.city.population": "10065",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6859
+          },
+          {
+            "African American": 2601
+          },
+          {
+            "Asian": 65
+          },
+          {
+            "American Indian": 177
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 262
+          },
+          {
+            "Other race": 36
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Claymont"
+      },
+      "produce": {
+        "common.geography.city.population": "8043",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6452
+          },
+          {
+            "African American": 2725
+          },
+          {
+            "Asian": 285
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 332
+          },
+          {
+            "Other race": 206
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Wilmington Manor"
+      },
+      "produce": {
+        "common.geography.city.population": "8562",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7345
+          },
+          {
+            "African American": 1641
+          },
+          {
+            "Asian": 25
+          },
+          {
+            "American Indian": 20
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 286
+          },
+          {
+            "Other race": 682
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "North Star"
+      },
+      "produce": {
+        "common.geography.city.population": "7845",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8979
+          },
+          {
+            "African American": 168
+          },
+          {
+            "Asian": 714
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 139
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Pike Creek"
+      },
+      "produce": {
+        "common.geography.city.population": "7642",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8383
+          },
+          {
+            "African American": 476
+          },
+          {
+            "Asian": 1086
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 55
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Georgetown"
+      },
+      "produce": {
+        "common.geography.city.population": "6429",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6233
+          },
+          {
+            "African American": 1545
+          },
+          {
+            "Asian": 200
+          },
+          {
+            "American Indian": 90
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 383
+          },
+          {
+            "Other race": 1549
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Seaford"
+      },
+      "produce": {
+        "common.geography.city.population": "7018",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5586
+          },
+          {
+            "African American": 3769
+          },
+          {
+            "Asian": 301
+          },
+          {
+            "American Indian": 70
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 164
+          },
+          {
+            "Other race": 111
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Edgemoor"
+      },
+      "produce": {
+        "common.geography.city.population": "5889",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6106
+          },
+          {
+            "African American": 3515
+          },
+          {
+            "Asian": 25
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 187
+          },
+          {
+            "Other race": 166
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Elsmere"
+      },
+      "produce": {
+        "common.geography.city.population": "6131",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8221
+          },
+          {
+            "African American": 1205
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 155
+          },
+          {
+            "Other race": 419
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "New Castle"
+      },
+      "produce": {
+        "common.geography.city.population": "5309",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6191
+          },
+          {
+            "African American": 3202
+          },
+          {
+            "Asian": 72
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 315
+          },
+          {
+            "Other race": 220
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Millsboro"
+      },
+      "produce": {
+        "common.geography.city.population": "3855",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7601
+          },
+          {
+            "African American": 1284
+          },
+          {
+            "Asian": 49
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 628
+          },
+          {
+            "Other race": 438
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Highland Acres"
+      },
+      "produce": {
+        "common.geography.city.population": "3838",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8387
+          },
+          {
+            "African American": 802
+          },
+          {
+            "Asian": 492
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 221
+          },
+          {
+            "Other race": 96
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Harrington"
+      },
+      "produce": {
+        "common.geography.city.population": "3582",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6459
+          },
+          {
+            "African American": 2753
+          },
+          {
+            "Asian": 151
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 617
+          },
+          {
+            "Other race": 20
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Laurel"
+      },
+      "produce": {
+        "common.geography.city.population": "3761",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5227
+          },
+          {
+            "African American": 3954
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 463
+          },
+          {
+            "Other race": 356
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Camden"
+      },
+      "produce": {
+        "common.geography.city.population": "3418",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6520
+          },
+          {
+            "African American": 2270
+          },
+          {
+            "Asian": 492
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 187
+          },
+          {
+            "Other race": 530
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Dover Base Housing"
+      },
+      "produce": {
+        "common.geography.city.population": "3164",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7259
+          },
+          {
+            "African American": 1438
+          },
+          {
+            "Asian": 227
+          },
+          {
+            "American Indian": 284
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 689
+          },
+          {
+            "Other race": 101
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Selbyville"
+      },
+      "produce": {
+        "common.geography.city.population": "2960",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8101
+          },
+          {
+            "African American": 635
+          },
+          {
+            "Asian": 14
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 27
+          },
+          {
+            "Mixed race": 274
+          },
+          {
+            "Other race": 949
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Rising Sun-Lebanon"
+      },
+      "produce": {
+        "common.geography.city.population": "3145",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7141
+          },
+          {
+            "African American": 1488
+          },
+          {
+            "Asian": 254
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 1008
+          },
+          {
+            "Other race": 108
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Riverview"
+      },
+      "produce": {
+        "common.geography.city.population": "2859",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9290
+          },
+          {
+            "African American": 581
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 129
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Lewes"
+      },
+      "produce": {
+        "common.geography.city.population": "2803",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9504
+          },
+          {
+            "African American": 378
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 118
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Clayton"
+      },
+      "produce": {
+        "common.geography.city.population": "2884",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5967
+          },
+          {
+            "African American": 3596
+          },
+          {
+            "Asian": 80
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 250
+          },
+          {
+            "Other race": 107
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Milton"
+      },
+      "produce": {
+        "common.geography.city.population": "2578",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7397
+          },
+          {
+            "African American": 1598
+          },
+          {
+            "Asian": 23
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 12
+          },
+          {
+            "Mixed race": 283
+          },
+          {
+            "Other race": 687
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Bridgeville"
+      },
+      "produce": {
+        "common.geography.city.population": "2337",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6483
+          },
+          {
+            "African American": 1827
+          },
+          {
+            "Asian": 77
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 291
+          },
+          {
+            "Other race": 1322
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Greenville"
+      },
+      "produce": {
+        "common.geography.city.population": "2505",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8551
+          },
+          {
+            "African American": 299
+          },
+          {
+            "Asian": 1054
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 92
+          },
+          {
+            "Other race": 4
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Long Neck"
+      },
+      "produce": {
+        "common.geography.city.population": "1996",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9649
+          },
+          {
+            "African American": 30
+          },
+          {
+            "Asian": 20
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 301
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Woodside East"
+      },
+      "produce": {
+        "common.geography.city.population": "2091",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5681
+          },
+          {
+            "African American": 4142
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 114
+          },
+          {
+            "Other race": 62
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Townsend"
+      },
+      "produce": {
+        "common.geography.city.population": "1871",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6815
+          },
+          {
+            "African American": 2619
+          },
+          {
+            "Asian": 75
+          },
+          {
+            "American Indian": 27
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 465
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Ocean View"
+      },
+      "produce": {
+        "common.geography.city.population": "1968",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9370
+          },
+          {
+            "African American": 66
+          },
+          {
+            "Asian": 447
+          },
+          {
+            "American Indian": 36
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 81
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Kent Acres"
+      },
+      "produce": {
+        "common.geography.city.population": "1779",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6903
+          },
+          {
+            "African American": 1473
+          },
+          {
+            "Asian": 748
+          },
+          {
+            "American Indian": 180
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 590
+          },
+          {
+            "Other race": 107
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Delaware City"
+      },
+      "produce": {
+        "common.geography.city.population": "1784",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9058
+          },
+          {
+            "African American": 762
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 45
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 135
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Cheswold"
+      },
+      "produce": {
+        "common.geography.city.population": "1480",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6628
+          },
+          {
+            "African American": 2108
+          },
+          {
+            "Asian": 459
+          },
+          {
+            "American Indian": 284
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 304
+          },
+          {
+            "Other race": 216
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Delmar"
+      },
+      "produce": {
+        "common.geography.city.population": "1588",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7770
+          },
+          {
+            "African American": 1322
+          },
+          {
+            "Asian": 82
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 705
+          },
+          {
+            "Other race": 120
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Blades"
+      },
+      "produce": {
+        "common.geography.city.population": "1430",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4406
+          },
+          {
+            "African American": 2133
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 77
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 748
+          },
+          {
+            "Other race": 2636
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Wyoming"
+      },
+      "produce": {
+        "common.geography.city.population": "1469",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7277
+          },
+          {
+            "African American": 1804
+          },
+          {
+            "Asian": 327
+          },
+          {
+            "American Indian": 61
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 497
+          },
+          {
+            "Other race": 34
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Ardencroft"
+      },
+      "produce": {
+        "common.geography.city.population": "231",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9264
+          },
+          {
+            "African American": 563
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 173
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Arden"
+      },
+      "produce": {
+        "common.geography.city.population": "559",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9624
+          },
+          {
+            "African American": 54
+          },
+          {
+            "Asian": 250
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 72
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Bear"
+      },
+      "produce": {
+        "common.geography.city.population": "19751",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5758
+          },
+          {
+            "African American": 3197
+          },
+          {
+            "Asian": 424
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 198
+          },
+          {
+            "Other race": 423
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Ardentown"
+      },
+      "produce": {
+        "common.geography.city.population": "276",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9275
+          },
+          {
+            "African American": 326
+          },
+          {
+            "Asian": 217
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 181
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Bellefonte"
+      },
+      "produce": {
+        "common.geography.city.population": "1360",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9463
+          },
+          {
+            "African American": 199
+          },
+          {
+            "Asian": 125
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 176
+          },
+          {
+            "Other race": 37
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Bethany Beach"
+      },
+      "produce": {
+        "common.geography.city.population": "679",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9705
+          },
+          {
+            "African American": 74
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 221
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Bethel"
+      },
+      "produce": {
+        "common.geography.city.population": "206",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9563
+          },
+          {
+            "African American": 243
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 194
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Bowers"
+      },
+      "produce": {
+        "common.geography.city.population": "199",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8492
+          },
+          {
+            "African American": 704
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 302
+          },
+          {
+            "Other race": 503
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Blades"
+      },
+      "produce": {
+        "common.geography.city.population": "1430",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4406
+          },
+          {
+            "African American": 2133
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 77
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 748
+          },
+          {
+            "Other race": 2636
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Bridgeville"
+      },
+      "produce": {
+        "common.geography.city.population": "2337",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6483
+          },
+          {
+            "African American": 1827
+          },
+          {
+            "Asian": 77
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 291
+          },
+          {
+            "Other race": 1322
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Brookside"
+      },
+      "produce": {
+        "common.geography.city.population": "14321",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7047
+          },
+          {
+            "African American": 1985
+          },
+          {
+            "Asian": 348
+          },
+          {
+            "American Indian": 15
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 159
+          },
+          {
+            "Other race": 446
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Cheswold"
+      },
+      "produce": {
+        "common.geography.city.population": "1480",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6628
+          },
+          {
+            "African American": 2108
+          },
+          {
+            "Asian": 459
+          },
+          {
+            "American Indian": 284
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 304
+          },
+          {
+            "Other race": 216
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Camden"
+      },
+      "produce": {
+        "common.geography.city.population": "3418",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6520
+          },
+          {
+            "African American": 2270
+          },
+          {
+            "Asian": 492
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 187
+          },
+          {
+            "Other race": 530
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Clayton"
+      },
+      "produce": {
+        "common.geography.city.population": "2884",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5967
+          },
+          {
+            "African American": 3596
+          },
+          {
+            "Asian": 80
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 250
+          },
+          {
+            "Other race": 107
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Claymont"
+      },
+      "produce": {
+        "common.geography.city.population": "8043",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6452
+          },
+          {
+            "African American": 2725
+          },
+          {
+            "Asian": 285
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 332
+          },
+          {
+            "Other race": 206
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Delaware City"
+      },
+      "produce": {
+        "common.geography.city.population": "1784",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9058
+          },
+          {
+            "African American": 762
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 45
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 135
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Dagsboro"
+      },
+      "produce": {
+        "common.geography.city.population": "980",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7786
+          },
+          {
+            "African American": 408
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 71
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 1622
+          },
+          {
+            "Other race": 112
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Dewey Beach"
+      },
+      "produce": {
+        "common.geography.city.population": "264",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8636
+          },
+          {
+            "African American": 568
+          },
+          {
+            "Asian": 795
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Delmar"
+      },
+      "produce": {
+        "common.geography.city.population": "1588",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7770
+          },
+          {
+            "African American": 1322
+          },
+          {
+            "Asian": 82
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 705
+          },
+          {
+            "Other race": 120
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Dover Base Housing"
+      },
+      "produce": {
+        "common.geography.city.population": "3164",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7259
+          },
+          {
+            "African American": 1438
+          },
+          {
+            "Asian": 227
+          },
+          {
+            "American Indian": 284
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 689
+          },
+          {
+            "Other race": 101
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Dover"
+      },
+      "produce": {
+        "common.geography.city.population": "36259",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4825
+          },
+          {
+            "African American": 4390
+          },
+          {
+            "Asian": 210
+          },
+          {
+            "American Indian": 26
+          },
+          {
+            "Native Hawaiian": 28
+          },
+          {
+            "Mixed race": 390
+          },
+          {
+            "Other race": 130
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Ellendale"
+      },
+      "produce": {
+        "common.geography.city.population": "305",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6066
+          },
+          {
+            "African American": 2721
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 393
+          },
+          {
+            "Other race": 819
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Edgemoor"
+      },
+      "produce": {
+        "common.geography.city.population": "5889",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6106
+          },
+          {
+            "African American": 3515
+          },
+          {
+            "Asian": 25
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 187
+          },
+          {
+            "Other race": 166
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Elsmere"
+      },
+      "produce": {
+        "common.geography.city.population": "6131",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8221
+          },
+          {
+            "African American": 1205
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 155
+          },
+          {
+            "Other race": 419
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Farmington"
+      },
+      "produce": {
+        "common.geography.city.population": "71",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Felton"
+      },
+      "produce": {
+        "common.geography.city.population": "1420",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7831
+          },
+          {
+            "African American": 1739
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 352
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 77
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Frankford"
+      },
+      "produce": {
+        "common.geography.city.population": "885",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5458
+          },
+          {
+            "African American": 3446
+          },
+          {
+            "Asian": 124
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 294
+          },
+          {
+            "Other race": 678
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Fenwick Island"
+      },
+      "produce": {
+        "common.geography.city.population": "323",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9598
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 186
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 217
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Georgetown"
+      },
+      "produce": {
+        "common.geography.city.population": "6429",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6233
+          },
+          {
+            "African American": 1545
+          },
+          {
+            "Asian": 200
+          },
+          {
+            "American Indian": 90
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 383
+          },
+          {
+            "Other race": 1549
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Frederica"
+      },
+      "produce": {
+        "common.geography.city.population": "830",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5952
+          },
+          {
+            "African American": 3096
+          },
+          {
+            "Asian": 434
+          },
+          {
+            "American Indian": 133
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 386
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Greenville"
+      },
+      "produce": {
+        "common.geography.city.population": "2505",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8551
+          },
+          {
+            "African American": 299
+          },
+          {
+            "Asian": 1054
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 92
+          },
+          {
+            "Other race": 4
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Glasgow"
+      },
+      "produce": {
+        "common.geography.city.population": "14780",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6109
+          },
+          {
+            "African American": 3086
+          },
+          {
+            "Asian": 516
+          },
+          {
+            "American Indian": 41
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 84
+          },
+          {
+            "Other race": 164
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Harrington"
+      },
+      "produce": {
+        "common.geography.city.population": "3582",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6459
+          },
+          {
+            "African American": 2753
+          },
+          {
+            "Asian": 151
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 617
+          },
+          {
+            "Other race": 20
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Greenwood"
+      },
+      "produce": {
+        "common.geography.city.population": "881",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7469
+          },
+          {
+            "African American": 1759
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 602
+          },
+          {
+            "Other race": 170
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Henlopen Acres"
+      },
+      "produce": {
+        "common.geography.city.population": "116",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Hartly"
+      },
+      "produce": {
+        "common.geography.city.population": "42",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Hockessin"
+      },
+      "produce": {
+        "common.geography.city.population": "13287",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8106
+          },
+          {
+            "African American": 447
+          },
+          {
+            "Asian": 1269
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 174
+          },
+          {
+            "Other race": 3
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Highland Acres"
+      },
+      "produce": {
+        "common.geography.city.population": "3838",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8387
+          },
+          {
+            "African American": 802
+          },
+          {
+            "Asian": 492
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 221
+          },
+          {
+            "Other race": 96
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Kent Acres"
+      },
+      "produce": {
+        "common.geography.city.population": "1779",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6903
+          },
+          {
+            "African American": 1473
+          },
+          {
+            "Asian": 748
+          },
+          {
+            "American Indian": 180
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 590
+          },
+          {
+            "Other race": 107
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Houston"
+      },
+      "produce": {
+        "common.geography.city.population": "465",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9183
+          },
+          {
+            "African American": 495
+          },
+          {
+            "Asian": 108
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 215
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Laurel"
+      },
+      "produce": {
+        "common.geography.city.population": "3761",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5227
+          },
+          {
+            "African American": 3954
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 463
+          },
+          {
+            "Other race": 356
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Kenton"
+      },
+      "produce": {
+        "common.geography.city.population": "189",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8677
+          },
+          {
+            "African American": 212
+          },
+          {
+            "Asian": 212
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 159
+          },
+          {
+            "Mixed race": 582
+          },
+          {
+            "Other race": 159
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Lewes"
+      },
+      "produce": {
+        "common.geography.city.population": "2803",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9504
+          },
+          {
+            "African American": 378
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 118
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Little Creek"
+      },
+      "produce": {
+        "common.geography.city.population": "231",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Leipsic"
+      },
+      "produce": {
+        "common.geography.city.population": "97",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9381
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 206
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 412
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Long Neck"
+      },
+      "produce": {
+        "common.geography.city.population": "1996",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9649
+          },
+          {
+            "African American": 30
+          },
+          {
+            "Asian": 20
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 301
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Magnolia"
+      },
+      "produce": {
+        "common.geography.city.population": "154",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8247
+          },
+          {
+            "African American": 1558
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 195
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Middletown"
+      },
+      "produce": {
+        "common.geography.city.population": "18495",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6222
+          },
+          {
+            "African American": 2663
+          },
+          {
+            "Asian": 508
+          },
+          {
+            "American Indian": 16
+          },
+          {
+            "Native Hawaiian": 10
+          },
+          {
+            "Mixed race": 354
+          },
+          {
+            "Other race": 227
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Millsboro"
+      },
+      "produce": {
+        "common.geography.city.population": "3855",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7601
+          },
+          {
+            "African American": 1284
+          },
+          {
+            "Asian": 49
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 628
+          },
+          {
+            "Other race": 438
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Milford"
+      },
+      "produce": {
+        "common.geography.city.population": "9513",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7025
+          },
+          {
+            "African American": 2402
+          },
+          {
+            "Asian": 49
+          },
+          {
+            "American Indian": 20
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 145
+          },
+          {
+            "Other race": 358
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Milton"
+      },
+      "produce": {
+        "common.geography.city.population": "2578",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7397
+          },
+          {
+            "African American": 1598
+          },
+          {
+            "Asian": 23
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 12
+          },
+          {
+            "Mixed race": 283
+          },
+          {
+            "Other race": 687
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Millville"
+      },
+      "produce": {
+        "common.geography.city.population": "808",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8577
+          },
+          {
+            "African American": 235
+          },
+          {
+            "Asian": 111
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 1077
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Newark"
+      },
+      "produce": {
+        "common.geography.city.population": "31655",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8231
+          },
+          {
+            "African American": 699
+          },
+          {
+            "Asian": 743
+          },
+          {
+            "American Indian": 30
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 211
+          },
+          {
+            "Other race": 86
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "New Castle"
+      },
+      "produce": {
+        "common.geography.city.population": "5309",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6191
+          },
+          {
+            "African American": 3202
+          },
+          {
+            "Asian": 72
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 315
+          },
+          {
+            "Other race": 220
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Newport"
+      },
+      "produce": {
+        "common.geography.city.population": "1076",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6598
+          },
+          {
+            "African American": 2035
+          },
+          {
+            "Asian": 214
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 753
+          },
+          {
+            "Other race": 400
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "North Star"
+      },
+      "produce": {
+        "common.geography.city.population": "7845",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8979
+          },
+          {
+            "African American": 168
+          },
+          {
+            "Asian": 714
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 139
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Ocean View"
+      },
+      "produce": {
+        "common.geography.city.population": "1968",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9370
+          },
+          {
+            "African American": 66
+          },
+          {
+            "Asian": 447
+          },
+          {
+            "American Indian": 36
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 81
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Pike Creek"
+      },
+      "produce": {
+        "common.geography.city.population": "7642",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8383
+          },
+          {
+            "African American": 476
+          },
+          {
+            "Asian": 1086
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 55
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Odessa"
+      },
+      "produce": {
+        "common.geography.city.population": "363",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9697
+          },
+          {
+            "African American": 303
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Rehoboth Beach"
+      },
+      "produce": {
+        "common.geography.city.population": "1105",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9928
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 27
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 45
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Pike Creek Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "11268",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8169
+          },
+          {
+            "African American": 816
+          },
+          {
+            "Asian": 650
+          },
+          {
+            "American Indian": 4
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 185
+          },
+          {
+            "Other race": 177
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Riverview"
+      },
+      "produce": {
+        "common.geography.city.population": "2859",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9290
+          },
+          {
+            "African American": 581
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 129
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Rising Sun-Lebanon"
+      },
+      "produce": {
+        "common.geography.city.population": "3145",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7141
+          },
+          {
+            "African American": 1488
+          },
+          {
+            "Asian": 254
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 1008
+          },
+          {
+            "Other race": 108
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Seaford"
+      },
+      "produce": {
+        "common.geography.city.population": "7018",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5586
+          },
+          {
+            "African American": 3769
+          },
+          {
+            "Asian": 301
+          },
+          {
+            "American Indian": 70
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 164
+          },
+          {
+            "Other race": 111
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Rodney Village"
+      },
+      "produce": {
+        "common.geography.city.population": "1309",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3568
+          },
+          {
+            "African American": 4545
+          },
+          {
+            "Asian": 1276
+          },
+          {
+            "American Indian": 191
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 344
+          },
+          {
+            "Other race": 76
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Selbyville"
+      },
+      "produce": {
+        "common.geography.city.population": "2960",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8101
+          },
+          {
+            "African American": 635
+          },
+          {
+            "Asian": 14
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 27
+          },
+          {
+            "Mixed race": 274
+          },
+          {
+            "Other race": 949
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Slaughter Beach"
+      },
+      "produce": {
+        "common.geography.city.population": "119",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Smyrna"
+      },
+      "produce": {
+        "common.geography.city.population": "10065",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6859
+          },
+          {
+            "African American": 2601
+          },
+          {
+            "Asian": 65
+          },
+          {
+            "American Indian": 177
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 262
+          },
+          {
+            "Other race": 36
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "South Bethany"
+      },
+      "produce": {
+        "common.geography.city.population": "342",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9649
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 351
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Townsend"
+      },
+      "produce": {
+        "common.geography.city.population": "1871",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6815
+          },
+          {
+            "African American": 2619
+          },
+          {
+            "Asian": 75
+          },
+          {
+            "American Indian": 27
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 465
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Wilmington"
+      },
+      "produce": {
+        "common.geography.city.population": "71119",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3840
+          },
+          {
+            "African American": 5508
+          },
+          {
+            "Asian": 78
+          },
+          {
+            "American Indian": 45
+          },
+          {
+            "Native Hawaiian": 1
+          },
+          {
+            "Mixed race": 257
+          },
+          {
+            "Other race": 270
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Viola"
+      },
+      "produce": {
+        "common.geography.city.population": "184",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9674
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 326
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Woodside"
+      },
+      "produce": {
+        "common.geography.city.population": "162",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9691
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 309
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Wilmington Manor"
+      },
+      "produce": {
+        "common.geography.city.population": "8562",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7345
+          },
+          {
+            "African American": 1641
+          },
+          {
+            "Asian": 25
+          },
+          {
+            "American Indian": 20
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 286
+          },
+          {
+            "Other race": 682
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Wyoming"
+      },
+      "produce": {
+        "common.geography.city.population": "1469",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7277
+          },
+          {
+            "African American": 1804
+          },
+          {
+            "Asian": 327
+          },
+          {
+            "American Indian": 61
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 497
+          },
+          {
+            "Other race": 34
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE",
+        "common.geography.city.name": "Woodside East"
+      },
+      "produce": {
+        "common.geography.city.population": "2091",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5681
+          },
+          {
+            "African American": 4142
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 114
+          },
+          {
+            "Other race": 62
+          }
+        ]
+      }
+    }
+  ]
+}

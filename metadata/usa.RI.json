@@ -1,0 +1,2520 @@
+{
+  "rules": [
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Providence"
+      },
+      "produce": {
+        "common.geography.city.population": "178185",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4936
+          },
+          {
+            "African American": 1555
+          },
+          {
+            "Asian": 649
+          },
+          {
+            "American Indian": 108
+          },
+          {
+            "Native Hawaiian": 9
+          },
+          {
+            "Mixed race": 408
+          },
+          {
+            "Other race": 2336
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Cranston"
+      },
+      "produce": {
+        "common.geography.city.population": "80446",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8189
+          },
+          {
+            "African American": 501
+          },
+          {
+            "Asian": 495
+          },
+          {
+            "American Indian": 83
+          },
+          {
+            "Native Hawaiian": 1
+          },
+          {
+            "Mixed race": 221
+          },
+          {
+            "Other race": 509
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Pawtucket"
+      },
+      "produce": {
+        "common.geography.city.population": "71246",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6706
+          },
+          {
+            "African American": 1678
+          },
+          {
+            "Asian": 178
+          },
+          {
+            "American Indian": 18
+          },
+          {
+            "Native Hawaiian": 1
+          },
+          {
+            "Mixed race": 434
+          },
+          {
+            "Other race": 984
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "East Providence"
+      },
+      "produce": {
+        "common.geography.city.population": "47145",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8488
+          },
+          {
+            "African American": 591
+          },
+          {
+            "Asian": 182
+          },
+          {
+            "American Indian": 26
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 490
+          },
+          {
+            "Other race": 224
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Warwick"
+      },
+      "produce": {
+        "common.geography.city.population": "82698",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9215
+          },
+          {
+            "African American": 182
+          },
+          {
+            "Asian": 304
+          },
+          {
+            "American Indian": 11
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 170
+          },
+          {
+            "Other race": 118
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Woonsocket"
+      },
+      "produce": {
+        "common.geography.city.population": "41244",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8184
+          },
+          {
+            "African American": 624
+          },
+          {
+            "Asian": 520
+          },
+          {
+            "American Indian": 26
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 290
+          },
+          {
+            "Other race": 356
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Newport"
+      },
+      "produce": {
+        "common.geography.city.population": "24376",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8682
+          },
+          {
+            "African American": 736
+          },
+          {
+            "Asian": 94
+          },
+          {
+            "American Indian": 11
+          },
+          {
+            "Native Hawaiian": 11
+          },
+          {
+            "Mixed race": 315
+          },
+          {
+            "Other race": 152
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Central Falls"
+      },
+      "produce": {
+        "common.geography.city.population": "19374",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6486
+          },
+          {
+            "African American": 1676
+          },
+          {
+            "Asian": 4
+          },
+          {
+            "American Indian": 9
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 225
+          },
+          {
+            "Other race": 1599
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Valley Falls"
+      },
+      "produce": {
+        "common.geography.city.population": "11533",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9266
+          },
+          {
+            "African American": 160
+          },
+          {
+            "Asian": 134
+          },
+          {
+            "American Indian": 20
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 74
+          },
+          {
+            "Other race": 347
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Westerly"
+      },
+      "produce": {
+        "common.geography.city.population": "17712",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9328
+          },
+          {
+            "African American": 98
+          },
+          {
+            "Asian": 252
+          },
+          {
+            "American Indian": 40
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 243
+          },
+          {
+            "Other race": 40
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Greenville"
+      },
+      "produce": {
+        "common.geography.city.population": "8928",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9694
+          },
+          {
+            "African American": 123
+          },
+          {
+            "Asian": 47
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 90
+          },
+          {
+            "Other race": 46
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Newport East"
+      },
+      "produce": {
+        "common.geography.city.population": "11177",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8077
+          },
+          {
+            "African American": 660
+          },
+          {
+            "Asian": 480
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 71
+          },
+          {
+            "Mixed race": 552
+          },
+          {
+            "Other race": 159
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Cumberland Hill"
+      },
+      "produce": {
+        "common.geography.city.population": "8356",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9720
+          },
+          {
+            "African American": 4
+          },
+          {
+            "Asian": 87
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 60
+          },
+          {
+            "Other race": 129
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Wakefield-Peacedale"
+      },
+      "produce": {
+        "common.geography.city.population": "8511",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8934
+          },
+          {
+            "African American": 271
+          },
+          {
+            "Asian": 132
+          },
+          {
+            "American Indian": 516
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 120
+          },
+          {
+            "Other race": 27
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Tiverton"
+      },
+      "produce": {
+        "common.geography.city.population": "7358",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9855
+          },
+          {
+            "African American": 38
+          },
+          {
+            "Asian": 35
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 72
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Narragansett Pier"
+      },
+      "produce": {
+        "common.geography.city.population": "4025",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9769
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 65
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 102
+          },
+          {
+            "Other race": 65
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Kingston"
+      },
+      "produce": {
+        "common.geography.city.population": "6709",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8563
+          },
+          {
+            "African American": 511
+          },
+          {
+            "Asian": 288
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 374
+          },
+          {
+            "Other race": 264
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Pascoag"
+      },
+      "produce": {
+        "common.geography.city.population": "3814",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9187
+          },
+          {
+            "African American": 8
+          },
+          {
+            "Asian": 254
+          },
+          {
+            "American Indian": 105
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 223
+          },
+          {
+            "Other race": 223
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Melville"
+      },
+      "produce": {
+        "common.geography.city.population": "1813",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7275
+          },
+          {
+            "African American": 1837
+          },
+          {
+            "Asian": 199
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 403
+          },
+          {
+            "Mixed race": 199
+          },
+          {
+            "Other race": 88
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Harrisville"
+      },
+      "produce": {
+        "common.geography.city.population": "2525",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9826
+          },
+          {
+            "African American": 55
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 59
+          },
+          {
+            "Other race": 59
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Bradford"
+      },
+      "produce": {
+        "common.geography.city.population": "1574",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8367
+          },
+          {
+            "African American": 781
+          },
+          {
+            "Asian": 202
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 165
+          },
+          {
+            "Other race": 483
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Hope Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "1649",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Carolina"
+      },
+      "produce": {
+        "common.geography.city.population": "1394",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9907
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 93
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Ashaway"
+      },
+      "produce": {
+        "common.geography.city.population": "1483",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9663
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 337
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Harmony"
+      },
+      "produce": {
+        "common.geography.city.population": "1218",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Chepachet"
+      },
+      "produce": {
+        "common.geography.city.population": "1317",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Greene"
+      },
+      "produce": {
+        "common.geography.city.population": "1016",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9990
+          },
+          {
+            "African American": 10
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Quonochontaug"
+      },
+      "produce": {
+        "common.geography.city.population": "441",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Weekapaug"
+      },
+      "produce": {
+        "common.geography.city.population": "320",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9906
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 94
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Misquamicut"
+      },
+      "produce": {
+        "common.geography.city.population": "412",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9466
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 534
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Clayville"
+      },
+      "produce": {
+        "common.geography.city.population": "216",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Foster Center"
+      },
+      "produce": {
+        "common.geography.city.population": "316",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Wyoming"
+      },
+      "produce": {
+        "common.geography.city.population": "154",
+        "common.person.gender": {
+          "male": 210,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Watch Hill"
+      },
+      "produce": {
+        "common.geography.city.population": "207",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9952
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 48
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Bradford"
+      },
+      "produce": {
+        "common.geography.city.population": "1574",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8367
+          },
+          {
+            "African American": 781
+          },
+          {
+            "Asian": 202
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 165
+          },
+          {
+            "Other race": 483
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Ashaway"
+      },
+      "produce": {
+        "common.geography.city.population": "1483",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9663
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 337
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Central Falls"
+      },
+      "produce": {
+        "common.geography.city.population": "19374",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6486
+          },
+          {
+            "African American": 1676
+          },
+          {
+            "Asian": 4
+          },
+          {
+            "American Indian": 9
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 225
+          },
+          {
+            "Other race": 1599
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Carolina"
+      },
+      "produce": {
+        "common.geography.city.population": "1394",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9907
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 93
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Chepachet"
+      },
+      "produce": {
+        "common.geography.city.population": "1317",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Clayville"
+      },
+      "produce": {
+        "common.geography.city.population": "216",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Cumberland Hill"
+      },
+      "produce": {
+        "common.geography.city.population": "8356",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9720
+          },
+          {
+            "African American": 4
+          },
+          {
+            "Asian": 87
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 60
+          },
+          {
+            "Other race": 129
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Cranston"
+      },
+      "produce": {
+        "common.geography.city.population": "80446",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8189
+          },
+          {
+            "African American": 501
+          },
+          {
+            "Asian": 495
+          },
+          {
+            "American Indian": 83
+          },
+          {
+            "Native Hawaiian": 1
+          },
+          {
+            "Mixed race": 221
+          },
+          {
+            "Other race": 509
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "East Providence"
+      },
+      "produce": {
+        "common.geography.city.population": "47145",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8488
+          },
+          {
+            "African American": 591
+          },
+          {
+            "Asian": 182
+          },
+          {
+            "American Indian": 26
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 490
+          },
+          {
+            "Other race": 224
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Foster Center"
+      },
+      "produce": {
+        "common.geography.city.population": "316",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Harmony"
+      },
+      "produce": {
+        "common.geography.city.population": "1218",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Greene"
+      },
+      "produce": {
+        "common.geography.city.population": "1016",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9990
+          },
+          {
+            "African American": 10
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Greenville"
+      },
+      "produce": {
+        "common.geography.city.population": "8928",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9694
+          },
+          {
+            "African American": 123
+          },
+          {
+            "Asian": 47
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 90
+          },
+          {
+            "Other race": 46
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Harrisville"
+      },
+      "produce": {
+        "common.geography.city.population": "2525",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9826
+          },
+          {
+            "African American": 55
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 59
+          },
+          {
+            "Other race": 59
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Melville"
+      },
+      "produce": {
+        "common.geography.city.population": "1813",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7275
+          },
+          {
+            "African American": 1837
+          },
+          {
+            "Asian": 199
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 403
+          },
+          {
+            "Mixed race": 199
+          },
+          {
+            "Other race": 88
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Hope Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "1649",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Misquamicut"
+      },
+      "produce": {
+        "common.geography.city.population": "412",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9466
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 534
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Kingston"
+      },
+      "produce": {
+        "common.geography.city.population": "6709",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8563
+          },
+          {
+            "African American": 511
+          },
+          {
+            "Asian": 288
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 374
+          },
+          {
+            "Other race": 264
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Newport"
+      },
+      "produce": {
+        "common.geography.city.population": "24376",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8682
+          },
+          {
+            "African American": 736
+          },
+          {
+            "Asian": 94
+          },
+          {
+            "American Indian": 11
+          },
+          {
+            "Native Hawaiian": 11
+          },
+          {
+            "Mixed race": 315
+          },
+          {
+            "Other race": 152
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Narragansett Pier"
+      },
+      "produce": {
+        "common.geography.city.population": "4025",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9769
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 65
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 102
+          },
+          {
+            "Other race": 65
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Pascoag"
+      },
+      "produce": {
+        "common.geography.city.population": "3814",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9187
+          },
+          {
+            "African American": 8
+          },
+          {
+            "Asian": 254
+          },
+          {
+            "American Indian": 105
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 223
+          },
+          {
+            "Other race": 223
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Providence"
+      },
+      "produce": {
+        "common.geography.city.population": "178185",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4936
+          },
+          {
+            "African American": 1555
+          },
+          {
+            "Asian": 649
+          },
+          {
+            "American Indian": 108
+          },
+          {
+            "Native Hawaiian": 9
+          },
+          {
+            "Mixed race": 408
+          },
+          {
+            "Other race": 2336
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Newport East"
+      },
+      "produce": {
+        "common.geography.city.population": "11177",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8077
+          },
+          {
+            "African American": 660
+          },
+          {
+            "Asian": 480
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 71
+          },
+          {
+            "Mixed race": 552
+          },
+          {
+            "Other race": 159
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Quonochontaug"
+      },
+      "produce": {
+        "common.geography.city.population": "441",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Pawtucket"
+      },
+      "produce": {
+        "common.geography.city.population": "71246",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6706
+          },
+          {
+            "African American": 1678
+          },
+          {
+            "Asian": 178
+          },
+          {
+            "American Indian": 18
+          },
+          {
+            "Native Hawaiian": 1
+          },
+          {
+            "Mixed race": 434
+          },
+          {
+            "Other race": 984
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Valley Falls"
+      },
+      "produce": {
+        "common.geography.city.population": "11533",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9266
+          },
+          {
+            "African American": 160
+          },
+          {
+            "Asian": 134
+          },
+          {
+            "American Indian": 20
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 74
+          },
+          {
+            "Other race": 347
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Tiverton"
+      },
+      "produce": {
+        "common.geography.city.population": "7358",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9855
+          },
+          {
+            "African American": 38
+          },
+          {
+            "Asian": 35
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 72
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Warwick"
+      },
+      "produce": {
+        "common.geography.city.population": "82698",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9215
+          },
+          {
+            "African American": 182
+          },
+          {
+            "Asian": 304
+          },
+          {
+            "American Indian": 11
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 170
+          },
+          {
+            "Other race": 118
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Weekapaug"
+      },
+      "produce": {
+        "common.geography.city.population": "320",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9906
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 94
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Wakefield-Peacedale"
+      },
+      "produce": {
+        "common.geography.city.population": "8511",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8934
+          },
+          {
+            "African American": 271
+          },
+          {
+            "Asian": 132
+          },
+          {
+            "American Indian": 516
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 120
+          },
+          {
+            "Other race": 27
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Westerly"
+      },
+      "produce": {
+        "common.geography.city.population": "17712",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9328
+          },
+          {
+            "African American": 98
+          },
+          {
+            "Asian": 252
+          },
+          {
+            "American Indian": 40
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 243
+          },
+          {
+            "Other race": 40
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Wyoming"
+      },
+      "produce": {
+        "common.geography.city.population": "154",
+        "common.person.gender": {
+          "male": 210,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Watch Hill"
+      },
+      "produce": {
+        "common.geography.city.population": "207",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9952
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 48
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI",
+        "common.geography.city.name": "Woonsocket"
+      },
+      "produce": {
+        "common.geography.city.population": "41244",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8184
+          },
+          {
+            "African American": 624
+          },
+          {
+            "Asian": 520
+          },
+          {
+            "American Indian": 26
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 290
+          },
+          {
+            "Other race": 356
+          }
+        ]
+      }
+    }
+  ]
+}

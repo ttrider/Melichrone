@@ -1,0 +1,8960 @@
+{
+  "rules": [
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Cheyenne"
+      },
+      "produce": {
+        "common.geography.city.population": "59582",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8546
+          },
+          {
+            "African American": 299
+          },
+          {
+            "Asian": 135
+          },
+          {
+            "American Indian": 122
+          },
+          {
+            "Native Hawaiian": 2
+          },
+          {
+            "Mixed race": 390
+          },
+          {
+            "Other race": 505
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Laramie"
+      },
+      "produce": {
+        "common.geography.city.population": "30728",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8869
+          },
+          {
+            "African American": 113
+          },
+          {
+            "Asian": 344
+          },
+          {
+            "American Indian": 42
+          },
+          {
+            "Native Hawaiian": 9
+          },
+          {
+            "Mixed race": 309
+          },
+          {
+            "Other race": 313
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Rock Springs"
+      },
+      "produce": {
+        "common.geography.city.population": "23125",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9108
+          },
+          {
+            "African American": 64
+          },
+          {
+            "Asian": 93
+          },
+          {
+            "American Indian": 38
+          },
+          {
+            "Native Hawaiian": 3
+          },
+          {
+            "Mixed race": 578
+          },
+          {
+            "Other race": 115
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Casper"
+      },
+      "produce": {
+        "common.geography.city.population": "55729",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9276
+          },
+          {
+            "African American": 86
+          },
+          {
+            "Asian": 99
+          },
+          {
+            "American Indian": 103
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 329
+          },
+          {
+            "Other race": 107
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Sheridan"
+      },
+      "produce": {
+        "common.geography.city.population": "17421",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9346
+          },
+          {
+            "African American": 26
+          },
+          {
+            "Asian": 98
+          },
+          {
+            "American Indian": 86
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 206
+          },
+          {
+            "Other race": 238
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Gillette"
+      },
+      "produce": {
+        "common.geography.city.population": "29472",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9036
+          },
+          {
+            "African American": 76
+          },
+          {
+            "Asian": 91
+          },
+          {
+            "American Indian": 165
+          },
+          {
+            "Native Hawaiian": 5
+          },
+          {
+            "Mixed race": 108
+          },
+          {
+            "Other race": 518
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Evanston"
+      },
+      "produce": {
+        "common.geography.city.population": "12250",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9409
+          },
+          {
+            "African American": 15
+          },
+          {
+            "Asian": 6
+          },
+          {
+            "American Indian": 35
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 472
+          },
+          {
+            "Other race": 64
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Green River"
+      },
+      "produce": {
+        "common.geography.city.population": "12534",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9225
+          },
+          {
+            "African American": 18
+          },
+          {
+            "Asian": 7
+          },
+          {
+            "American Indian": 10
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 430
+          },
+          {
+            "Other race": 310
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Jackson"
+      },
+      "produce": {
+        "common.geography.city.population": "9646",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9292
+          },
+          {
+            "African American": 3
+          },
+          {
+            "Asian": 95
+          },
+          {
+            "American Indian": 50
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 320
+          },
+          {
+            "Other race": 239
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Cody"
+      },
+      "produce": {
+        "common.geography.city.population": "9531",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9632
+          },
+          {
+            "African American": 46
+          },
+          {
+            "Asian": 65
+          },
+          {
+            "American Indian": 190
+          },
+          {
+            "Native Hawaiian": 2
+          },
+          {
+            "Mixed race": 51
+          },
+          {
+            "Other race": 14
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Riverton"
+      },
+      "produce": {
+        "common.geography.city.population": "10646",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7922
+          },
+          {
+            "African American": 121
+          },
+          {
+            "Asian": 66
+          },
+          {
+            "American Indian": 1354
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 362
+          },
+          {
+            "Other race": 176
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Rawlins"
+      },
+      "produce": {
+        "common.geography.city.population": "9185",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8639
+          },
+          {
+            "African American": 124
+          },
+          {
+            "Asian": 163
+          },
+          {
+            "American Indian": 85
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 432
+          },
+          {
+            "Other race": 556
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Torrington"
+      },
+      "produce": {
+        "common.geography.city.population": "6552",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9499
+          },
+          {
+            "African American": 27
+          },
+          {
+            "Asian": 40
+          },
+          {
+            "American Indian": 28
+          },
+          {
+            "Native Hawaiian": 3
+          },
+          {
+            "Mixed race": 180
+          },
+          {
+            "Other race": 221
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Lander"
+      },
+      "produce": {
+        "common.geography.city.population": "7495",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8691
+          },
+          {
+            "African American": 11
+          },
+          {
+            "Asian": 44
+          },
+          {
+            "American Indian": 1098
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 156
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Powell"
+      },
+      "produce": {
+        "common.geography.city.population": "6261",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9574
+          },
+          {
+            "African American": 32
+          },
+          {
+            "Asian": 22
+          },
+          {
+            "American Indian": 28
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 252
+          },
+          {
+            "Other race": 91
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Ranchettes"
+      },
+      "produce": {
+        "common.geography.city.population": "6263",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9467
+          },
+          {
+            "African American": 125
+          },
+          {
+            "Asian": 19
+          },
+          {
+            "American Indian": 148
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 198
+          },
+          {
+            "Other race": 43
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Worland"
+      },
+      "produce": {
+        "common.geography.city.population": "5426",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9556
+          },
+          {
+            "African American": 55
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 48
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 166
+          },
+          {
+            "Other race": 175
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Douglas"
+      },
+      "produce": {
+        "common.geography.city.population": "6117",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9371
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 93
+          },
+          {
+            "American Indian": 173
+          },
+          {
+            "Native Hawaiian": 16
+          },
+          {
+            "Mixed race": 65
+          },
+          {
+            "Other race": 281
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "South Greeley"
+      },
+      "produce": {
+        "common.geography.city.population": "4426",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7725
+          },
+          {
+            "African American": 746
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 221
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 300
+          },
+          {
+            "Other race": 1008
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Buffalo"
+      },
+      "produce": {
+        "common.geography.city.population": "4595",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9351
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 137
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 307
+          },
+          {
+            "Other race": 204
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Wheatland"
+      },
+      "produce": {
+        "common.geography.city.population": "3620",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9334
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 52
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 323
+          },
+          {
+            "Other race": 290
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Fox Farm-College"
+      },
+      "produce": {
+        "common.geography.city.population": "3629",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9228
+          },
+          {
+            "African American": 33
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 107
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 306
+          },
+          {
+            "Other race": 325
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Mills"
+      },
+      "produce": {
+        "common.geography.city.population": "3449",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9472
+          },
+          {
+            "African American": 57
+          },
+          {
+            "Asian": 38
+          },
+          {
+            "American Indian": 151
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 130
+          },
+          {
+            "Other race": 151
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Newcastle"
+      },
+      "produce": {
+        "common.geography.city.population": "3516",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8914
+          },
+          {
+            "African American": 11
+          },
+          {
+            "Asian": 142
+          },
+          {
+            "American Indian": 68
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 503
+          },
+          {
+            "Other race": 361
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Warren AFB"
+      },
+      "produce": {
+        "common.geography.city.population": "2812",
+        "common.person.gender": {
+          "male": 140,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7486
+          },
+          {
+            "African American": 1156
+          },
+          {
+            "Asian": 153
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 530
+          },
+          {
+            "Other race": 676
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Thermopolis"
+      },
+      "produce": {
+        "common.geography.city.population": "2836",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9944
+          },
+          {
+            "African American": 4
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 7
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 32
+          },
+          {
+            "Other race": 14
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Kemmerer"
+      },
+      "produce": {
+        "common.geography.city.population": "2657",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9578
+          },
+          {
+            "African American": 15
+          },
+          {
+            "Asian": 8
+          },
+          {
+            "American Indian": 218
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 117
+          },
+          {
+            "Other race": 64
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "North Rock Springs"
+      },
+      "produce": {
+        "common.geography.city.population": "2772",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8698
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 36
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 267
+          },
+          {
+            "Other race": 999
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Moose Wilson Road"
+      },
+      "produce": {
+        "common.geography.city.population": "2551",
+        "common.person.gender": {
+          "male": 150,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Evansville"
+      },
+      "produce": {
+        "common.geography.city.population": "2651",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9295
+          },
+          {
+            "African American": 128
+          },
+          {
+            "Asian": 19
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 475
+          },
+          {
+            "Other race": 83
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Afton"
+      },
+      "produce": {
+        "common.geography.city.population": "2459",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9435
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 16
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 53
+          },
+          {
+            "Mixed race": 480
+          },
+          {
+            "Other race": 16
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Glenrock"
+      },
+      "produce": {
+        "common.geography.city.population": "2548",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9604
+          },
+          {
+            "African American": 165
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 12
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 220
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Bar Nunn"
+      },
+      "produce": {
+        "common.geography.city.population": "2223",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9393
+          },
+          {
+            "African American": 31
+          },
+          {
+            "Asian": 31
+          },
+          {
+            "American Indian": 94
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 409
+          },
+          {
+            "Other race": 40
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Lovell"
+      },
+      "produce": {
+        "common.geography.city.population": "2385",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9514
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 21
+          },
+          {
+            "American Indian": 130
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 96
+          },
+          {
+            "Other race": 239
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Lyman"
+      },
+      "produce": {
+        "common.geography.city.population": "2093",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9532
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 401
+          },
+          {
+            "Other race": 67
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Wright"
+      },
+      "produce": {
+        "common.geography.city.population": "2216",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9328
+          },
+          {
+            "African American": 18
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 501
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 99
+          },
+          {
+            "Other race": 54
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Ethete"
+      },
+      "produce": {
+        "common.geography.city.population": "2036",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 480
+          },
+          {
+            "African American": 28
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 9258
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 172
+          },
+          {
+            "Other race": 59
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Pinedale"
+      },
+      "produce": {
+        "common.geography.city.population": "2068",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9188
+          },
+          {
+            "African American": 5
+          },
+          {
+            "Asian": 382
+          },
+          {
+            "American Indian": 121
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 290
+          },
+          {
+            "Other race": 15
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Saratoga"
+      },
+      "produce": {
+        "common.geography.city.population": "1856",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9758
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 59
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 183
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Greybull"
+      },
+      "produce": {
+        "common.geography.city.population": "1889",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9524
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 42
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 312
+          },
+          {
+            "Other race": 122
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Lusk"
+      },
+      "produce": {
+        "common.geography.city.population": "1772",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9244
+          },
+          {
+            "African American": 102
+          },
+          {
+            "Asian": 51
+          },
+          {
+            "American Indian": 68
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 536
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Antelope Valley-Crestview"
+      },
+      "produce": {
+        "common.geography.city.population": "1837",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9750
+          },
+          {
+            "African American": 54
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 5
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 191
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "South Park"
+      },
+      "produce": {
+        "common.geography.city.population": "1556",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Fort Washakie"
+      },
+      "produce": {
+        "common.geography.city.population": "1637",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1197
+          },
+          {
+            "African American": 49
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 8583
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 171
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Albany"
+      },
+      "produce": {
+        "common.geography.city.population": "34",
+        "common.person.gender": {
+          "male": 210,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Afton"
+      },
+      "produce": {
+        "common.geography.city.population": "2459",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9435
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 16
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 53
+          },
+          {
+            "Mixed race": 480
+          },
+          {
+            "Other race": 16
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Alcova"
+      },
+      "produce": {
+        "common.geography.city.population": "0",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": []
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Albin"
+      },
+      "produce": {
+        "common.geography.city.population": "139",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8273
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 1727
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Alpine Northeast"
+      },
+      "produce": {
+        "common.geography.city.population": "11",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Alpine"
+      },
+      "produce": {
+        "common.geography.city.population": "861",
+        "common.person.gender": {
+          "male": 170,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9907
+          },
+          {
+            "African American": 57
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 35
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Alta"
+      },
+      "produce": {
+        "common.geography.city.population": "233",
+        "common.person.gender": {
+          "male": 229,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Alpine Northwest"
+      },
+      "produce": {
+        "common.geography.city.population": "252",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Antelope Valley-Crestview"
+      },
+      "produce": {
+        "common.geography.city.population": "1837",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9750
+          },
+          {
+            "African American": 54
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 5
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 191
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Antelope Hills"
+      },
+      "produce": {
+        "common.geography.city.population": "40",
+        "common.person.gender": {
+          "male": 150,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Arlington"
+      },
+      "produce": {
+        "common.geography.city.population": "75",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Arapahoe"
+      },
+      "produce": {
+        "common.geography.city.population": "1496",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1992
+          },
+          {
+            "African American": 13
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 7701
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 274
+          },
+          {
+            "Other race": 20
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Arvada"
+      },
+      "produce": {
+        "common.geography.city.population": "20",
+        "common.person.gender": {
+          "male": 150,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Arrowhead Springs"
+      },
+      "produce": {
+        "common.geography.city.population": "67",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Atlantic City"
+      },
+      "produce": {
+        "common.geography.city.population": "45",
+        "common.person.gender": {
+          "male": 150,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Auburn"
+      },
+      "produce": {
+        "common.geography.city.population": "225",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Baggs"
+      },
+      "produce": {
+        "common.geography.city.population": "388",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9613
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 206
+          },
+          {
+            "Mixed race": 26
+          },
+          {
+            "Other race": 155
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Bar Nunn"
+      },
+      "produce": {
+        "common.geography.city.population": "2223",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9393
+          },
+          {
+            "African American": 31
+          },
+          {
+            "Asian": 31
+          },
+          {
+            "American Indian": 94
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 409
+          },
+          {
+            "Other race": 40
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Bairoil"
+      },
+      "produce": {
+        "common.geography.city.population": "116",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9914
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 86
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Bear River"
+      },
+      "produce": {
+        "common.geography.city.population": "897",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9810
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 22
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 145
+          },
+          {
+            "Other race": 22
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Basin"
+      },
+      "produce": {
+        "common.geography.city.population": "1094",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9598
+          },
+          {
+            "African American": 9
+          },
+          {
+            "Asian": 110
+          },
+          {
+            "American Indian": 64
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 219
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Bedford"
+      },
+      "produce": {
+        "common.geography.city.population": "46",
+        "common.person.gender": {
+          "male": 140,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Bessemer Bend"
+      },
+      "produce": {
+        "common.geography.city.population": "143",
+        "common.person.gender": {
+          "male": 140,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Beulah"
+      },
+      "produce": {
+        "common.geography.city.population": "102",
+        "common.person.gender": {
+          "male": 470,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Big Piney"
+      },
+      "produce": {
+        "common.geography.city.population": "634",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9353
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 647
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Big Horn"
+      },
+      "produce": {
+        "common.geography.city.population": "684",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Bondurant"
+      },
+      "produce": {
+        "common.geography.city.population": "73",
+        "common.person.gender": {
+          "male": 40,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Boulder"
+      },
+      "produce": {
+        "common.geography.city.population": "196",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Boulder Flats"
+      },
+      "produce": {
+        "common.geography.city.population": "372",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2554
+          },
+          {
+            "African American": 134
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 7070
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 134
+          },
+          {
+            "Other race": 108
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Buffalo"
+      },
+      "produce": {
+        "common.geography.city.population": "4595",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9351
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 137
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 307
+          },
+          {
+            "Other race": 204
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Brookhurst"
+      },
+      "produce": {
+        "common.geography.city.population": "151",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Burns"
+      },
+      "produce": {
+        "common.geography.city.population": "337",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8368
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 919
+          },
+          {
+            "Other race": 712
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Burlington"
+      },
+      "produce": {
+        "common.geography.city.population": "217",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9032
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 369
+          },
+          {
+            "Native Hawaiian": 92
+          },
+          {
+            "Mixed race": 507
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Byron"
+      },
+      "produce": {
+        "common.geography.city.population": "678",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9204
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 59
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 236
+          },
+          {
+            "Other race": 501
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Carpenter"
+      },
+      "produce": {
+        "common.geography.city.population": "117",
+        "common.person.gender": {
+          "male": 20,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5128
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 1368
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 3504
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Carter"
+      },
+      "produce": {
+        "common.geography.city.population": "0",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": []
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Casper Mountain"
+      },
+      "produce": {
+        "common.geography.city.population": "376",
+        "common.person.gender": {
+          "male": 150,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9388
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 612
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Casper"
+      },
+      "produce": {
+        "common.geography.city.population": "55729",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9276
+          },
+          {
+            "African American": 86
+          },
+          {
+            "Asian": 99
+          },
+          {
+            "American Indian": 103
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 329
+          },
+          {
+            "Other race": 107
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Cheyenne"
+      },
+      "produce": {
+        "common.geography.city.population": "59582",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8546
+          },
+          {
+            "African American": 299
+          },
+          {
+            "Asian": 135
+          },
+          {
+            "American Indian": 122
+          },
+          {
+            "Native Hawaiian": 2
+          },
+          {
+            "Mixed race": 390
+          },
+          {
+            "Other race": 505
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Centennial"
+      },
+      "produce": {
+        "common.geography.city.population": "333",
+        "common.person.gender": {
+          "male": 270,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7718
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 1952
+          },
+          {
+            "Other race": 330
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Chugcreek"
+      },
+      "produce": {
+        "common.geography.city.population": "378",
+        "common.person.gender": {
+          "male": 150,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Chugwater"
+      },
+      "produce": {
+        "common.geography.city.population": "190",
+        "common.person.gender": {
+          "male": 170,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9579
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 53
+          },
+          {
+            "Other race": 368
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Clearmont"
+      },
+      "produce": {
+        "common.geography.city.population": "134",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9776
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 224
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Cody"
+      },
+      "produce": {
+        "common.geography.city.population": "9531",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9632
+          },
+          {
+            "African American": 46
+          },
+          {
+            "Asian": 65
+          },
+          {
+            "American Indian": 190
+          },
+          {
+            "Native Hawaiian": 2
+          },
+          {
+            "Mixed race": 51
+          },
+          {
+            "Other race": 14
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Clearview Acres"
+      },
+      "produce": {
+        "common.geography.city.population": "695",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9410
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 459
+          },
+          {
+            "Other race": 129
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Cora"
+      },
+      "produce": {
+        "common.geography.city.population": "131",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Cokeville"
+      },
+      "produce": {
+        "common.geography.city.population": "807",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9703
+          },
+          {
+            "African American": 37
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 260
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Cowley"
+      },
+      "produce": {
+        "common.geography.city.population": "596",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9966
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 34
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Crowheart"
+      },
+      "produce": {
+        "common.geography.city.population": "170",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4529
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 3176
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 2294
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Daniel"
+      },
+      "produce": {
+        "common.geography.city.population": "273",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8388
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 1612
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Deaver"
+      },
+      "produce": {
+        "common.geography.city.population": "163",
+        "common.person.gender": {
+          "male": 140,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9325
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 368
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 245
+          },
+          {
+            "Other race": 61
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Dayton"
+      },
+      "produce": {
+        "common.geography.city.population": "720",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8333
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 736
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 931
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Diamondville"
+      },
+      "produce": {
+        "common.geography.city.population": "645",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9581
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 16
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 264
+          },
+          {
+            "Other race": 140
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Dixon"
+      },
+      "produce": {
+        "common.geography.city.population": "92",
+        "common.person.gender": {
+          "male": 160,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9565
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 434
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Douglas"
+      },
+      "produce": {
+        "common.geography.city.population": "6117",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9371
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 93
+          },
+          {
+            "American Indian": 173
+          },
+          {
+            "Native Hawaiian": 16
+          },
+          {
+            "Mixed race": 65
+          },
+          {
+            "Other race": 281
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "East Thermopolis"
+      },
+      "produce": {
+        "common.geography.city.population": "315",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9619
+          },
+          {
+            "African American": 32
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 222
+          },
+          {
+            "Native Hawaiian": 32
+          },
+          {
+            "Mixed race": 95
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Dubois"
+      },
+      "produce": {
+        "common.geography.city.population": "770",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9818
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 143
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 39
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Edgerton"
+      },
+      "produce": {
+        "common.geography.city.population": "306",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Eden"
+      },
+      "produce": {
+        "common.geography.city.population": "373",
+        "common.person.gender": {
+          "male": 170,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Elk Mountain"
+      },
+      "produce": {
+        "common.geography.city.population": "229",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9520
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 131
+          },
+          {
+            "Other race": 349
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Encampment"
+      },
+      "produce": {
+        "common.geography.city.population": "277",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9639
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 36
+          },
+          {
+            "Native Hawaiian": 289
+          },
+          {
+            "Mixed race": 36
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Esterbrook"
+      },
+      "produce": {
+        "common.geography.city.population": "62",
+        "common.person.gender": {
+          "male": 270,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Etna"
+      },
+      "produce": {
+        "common.geography.city.population": "25",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Ethete"
+      },
+      "produce": {
+        "common.geography.city.population": "2036",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 480
+          },
+          {
+            "African American": 28
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 9258
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 172
+          },
+          {
+            "Other race": 59
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Evansville"
+      },
+      "produce": {
+        "common.geography.city.population": "2651",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9295
+          },
+          {
+            "African American": 128
+          },
+          {
+            "Asian": 19
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 475
+          },
+          {
+            "Other race": 83
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Evanston"
+      },
+      "produce": {
+        "common.geography.city.population": "12250",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9409
+          },
+          {
+            "African American": 15
+          },
+          {
+            "Asian": 6
+          },
+          {
+            "American Indian": 35
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 472
+          },
+          {
+            "Other race": 64
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Fairview"
+      },
+      "produce": {
+        "common.geography.city.population": "283",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Farson"
+      },
+      "produce": {
+        "common.geography.city.population": "619",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Fontenelle"
+      },
+      "produce": {
+        "common.geography.city.population": "0",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": []
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Fort Laramie"
+      },
+      "produce": {
+        "common.geography.city.population": "165",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Fort Bridger"
+      },
+      "produce": {
+        "common.geography.city.population": "238",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8613
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 1387
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Fort Washakie"
+      },
+      "produce": {
+        "common.geography.city.population": "1637",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1197
+          },
+          {
+            "African American": 49
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 8583
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 171
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Fox Farm-College"
+      },
+      "produce": {
+        "common.geography.city.population": "3629",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9228
+          },
+          {
+            "African American": 33
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 107
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 306
+          },
+          {
+            "Other race": 325
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Frannie"
+      },
+      "produce": {
+        "common.geography.city.population": "214",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8178
+          },
+          {
+            "African American": 187
+          },
+          {
+            "Asian": 748
+          },
+          {
+            "American Indian": 701
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 187
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Garland"
+      },
+      "produce": {
+        "common.geography.city.population": "84",
+        "common.person.gender": {
+          "male": 140,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7619
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 2381
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Freedom"
+      },
+      "produce": {
+        "common.geography.city.population": "93",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Glendo"
+      },
+      "produce": {
+        "common.geography.city.population": "247",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Gillette"
+      },
+      "produce": {
+        "common.geography.city.population": "29472",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9036
+          },
+          {
+            "African American": 76
+          },
+          {
+            "Asian": 91
+          },
+          {
+            "American Indian": 165
+          },
+          {
+            "Native Hawaiian": 5
+          },
+          {
+            "Mixed race": 108
+          },
+          {
+            "Other race": 518
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Glenrock"
+      },
+      "produce": {
+        "common.geography.city.population": "2548",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9604
+          },
+          {
+            "African American": 165
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 12
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 220
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Granger"
+      },
+      "produce": {
+        "common.geography.city.population": "136",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8971
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 74
+          },
+          {
+            "Other race": 956
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Green River"
+      },
+      "produce": {
+        "common.geography.city.population": "12534",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9225
+          },
+          {
+            "African American": 18
+          },
+          {
+            "Asian": 7
+          },
+          {
+            "American Indian": 10
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 430
+          },
+          {
+            "Other race": 310
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Grover"
+      },
+      "produce": {
+        "common.geography.city.population": "193",
+        "common.person.gender": {
+          "male": 180,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Greybull"
+      },
+      "produce": {
+        "common.geography.city.population": "1889",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9524
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 42
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 312
+          },
+          {
+            "Other race": 122
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Guernsey"
+      },
+      "produce": {
+        "common.geography.city.population": "1169",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9222
+          },
+          {
+            "African American": 9
+          },
+          {
+            "Asian": 34
+          },
+          {
+            "American Indian": 86
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 86
+          },
+          {
+            "Other race": 565
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Hanna"
+      },
+      "produce": {
+        "common.geography.city.population": "801",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9064
+          },
+          {
+            "African American": 125
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 162
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 62
+          },
+          {
+            "Other race": 587
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Hartrandt"
+      },
+      "produce": {
+        "common.geography.city.population": "662",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Hawk Springs"
+      },
+      "produce": {
+        "common.geography.city.population": "62",
+        "common.person.gender": {
+          "male": 140,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Hartville"
+      },
+      "produce": {
+        "common.geography.city.population": "39",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9487
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 513
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Hill View Heights"
+      },
+      "produce": {
+        "common.geography.city.population": "133",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Hillsdale"
+      },
+      "produce": {
+        "common.geography.city.population": "0",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": []
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Hoback"
+      },
+      "produce": {
+        "common.geography.city.population": "1538",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9948
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 52
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Hudson"
+      },
+      "produce": {
+        "common.geography.city.population": "414",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8527
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 821
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 652
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Homa Hills"
+      },
+      "produce": {
+        "common.geography.city.population": "401",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Huntley"
+      },
+      "produce": {
+        "common.geography.city.population": "0",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": []
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Hulett"
+      },
+      "produce": {
+        "common.geography.city.population": "512",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9883
+          },
+          {
+            "African American": 78
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 39
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Hyattville"
+      },
+      "produce": {
+        "common.geography.city.population": "28",
+        "common.person.gender": {
+          "male": 459,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7500
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 2500
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Jackson"
+      },
+      "produce": {
+        "common.geography.city.population": "9646",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9292
+          },
+          {
+            "African American": 3
+          },
+          {
+            "Asian": 95
+          },
+          {
+            "American Indian": 50
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 320
+          },
+          {
+            "Other race": 239
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "James Town"
+      },
+      "produce": {
+        "common.geography.city.population": "575",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9513
+          },
+          {
+            "African American": 278
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 209
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Johnstown"
+      },
+      "produce": {
+        "common.geography.city.population": "356",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4579
+          },
+          {
+            "African American": 112
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 5028
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 281
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Jeffrey City"
+      },
+      "produce": {
+        "common.geography.city.population": "0",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": []
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Kelly"
+      },
+      "produce": {
+        "common.geography.city.population": "55",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Kaycee"
+      },
+      "produce": {
+        "common.geography.city.population": "275",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9782
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 109
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 109
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Kirby"
+      },
+      "produce": {
+        "common.geography.city.population": "100",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Kemmerer"
+      },
+      "produce": {
+        "common.geography.city.population": "2657",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9578
+          },
+          {
+            "African American": 15
+          },
+          {
+            "Asian": 8
+          },
+          {
+            "American Indian": 218
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 117
+          },
+          {
+            "Other race": 64
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "La Barge"
+      },
+      "produce": {
+        "common.geography.city.population": "544",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9320
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 37
+          },
+          {
+            "American Indian": 515
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 129
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "La Grange"
+      },
+      "produce": {
+        "common.geography.city.population": "288",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9757
+          },
+          {
+            "African American": 69
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 174
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Lakeview North"
+      },
+      "produce": {
+        "common.geography.city.population": "12",
+        "common.person.gender": {
+          "male": 0,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Lander"
+      },
+      "produce": {
+        "common.geography.city.population": "7495",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8691
+          },
+          {
+            "African American": 11
+          },
+          {
+            "Asian": 44
+          },
+          {
+            "American Indian": 1098
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 156
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Lance Creek"
+      },
+      "produce": {
+        "common.geography.city.population": "17",
+        "common.person.gender": {
+          "male": 40,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Lingle"
+      },
+      "produce": {
+        "common.geography.city.population": "529",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9962
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 38
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Laramie"
+      },
+      "produce": {
+        "common.geography.city.population": "30728",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8869
+          },
+          {
+            "African American": 113
+          },
+          {
+            "Asian": 344
+          },
+          {
+            "American Indian": 42
+          },
+          {
+            "Native Hawaiian": 9
+          },
+          {
+            "Mixed race": 309
+          },
+          {
+            "Other race": 313
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Lonetree"
+      },
+      "produce": {
+        "common.geography.city.population": "4",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Little America"
+      },
+      "produce": {
+        "common.geography.city.population": "15",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Lovell"
+      },
+      "produce": {
+        "common.geography.city.population": "2385",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9514
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 21
+          },
+          {
+            "American Indian": 130
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 96
+          },
+          {
+            "Other race": 239
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Lost Springs"
+      },
+      "produce": {
+        "common.geography.city.population": "6",
+        "common.person.gender": {
+          "male": 0,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Lusk"
+      },
+      "produce": {
+        "common.geography.city.population": "1772",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9244
+          },
+          {
+            "African American": 102
+          },
+          {
+            "Asian": 51
+          },
+          {
+            "American Indian": 68
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 536
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Lucerne"
+      },
+      "produce": {
+        "common.geography.city.population": "633",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9637
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 316
+          },
+          {
+            "American Indian": 47
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Mammoth"
+      },
+      "produce": {
+        "common.geography.city.population": "332",
+        "common.person.gender": {
+          "male": 310,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9458
+          },
+          {
+            "African American": 60
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 482
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Lyman"
+      },
+      "produce": {
+        "common.geography.city.population": "2093",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9532
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 401
+          },
+          {
+            "Other race": 67
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Manville"
+      },
+      "produce": {
+        "common.geography.city.population": "46",
+        "common.person.gender": {
+          "male": 320,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9348
+          },
+          {
+            "African American": 652
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Manderson"
+      },
+      "produce": {
+        "common.geography.city.population": "73",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9315
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 685
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "McKinnon"
+      },
+      "produce": {
+        "common.geography.city.population": "0",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": []
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Marbleton"
+      },
+      "produce": {
+        "common.geography.city.population": "1074",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8920
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 1080
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Meadow Acres"
+      },
+      "produce": {
+        "common.geography.city.population": "220",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 3000
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Medicine Bow"
+      },
+      "produce": {
+        "common.geography.city.population": "231",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9567
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 346
+          },
+          {
+            "Other race": 87
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Meeteetse"
+      },
+      "produce": {
+        "common.geography.city.population": "347",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9481
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 144
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 375
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Mills"
+      },
+      "produce": {
+        "common.geography.city.population": "3449",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9472
+          },
+          {
+            "African American": 57
+          },
+          {
+            "Asian": 38
+          },
+          {
+            "American Indian": 151
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 130
+          },
+          {
+            "Other race": 151
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Moose Wilson Road"
+      },
+      "produce": {
+        "common.geography.city.population": "2551",
+        "common.person.gender": {
+          "male": 150,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Moorcroft"
+      },
+      "produce": {
+        "common.geography.city.population": "1525",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9882
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 72
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 46
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Mountain View"
+      },
+      "produce": {
+        "common.geography.city.population": "1295",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9081
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 919
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Midwest"
+      },
+      "produce": {
+        "common.geography.city.population": "436",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9610
+          },
+          {
+            "African American": 92
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 206
+          },
+          {
+            "Other race": 92
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Mountain View"
+      },
+      "produce": {
+        "common.geography.city.population": "1295",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9081
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 919
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Nordic"
+      },
+      "produce": {
+        "common.geography.city.population": "450",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9044
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 956
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Newcastle"
+      },
+      "produce": {
+        "common.geography.city.population": "3516",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8914
+          },
+          {
+            "African American": 11
+          },
+          {
+            "Asian": 142
+          },
+          {
+            "American Indian": 68
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 503
+          },
+          {
+            "Other race": 361
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Oakley"
+      },
+      "produce": {
+        "common.geography.city.population": "70",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Orin"
+      },
+      "produce": {
+        "common.geography.city.population": "49",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "North Rock Springs"
+      },
+      "produce": {
+        "common.geography.city.population": "2772",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8698
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 36
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 267
+          },
+          {
+            "Other race": 999
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Osage"
+      },
+      "produce": {
+        "common.geography.city.population": "240",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9792
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 208
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Opal"
+      },
+      "produce": {
+        "common.geography.city.population": "57",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9298
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 702
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Owl Creek"
+      },
+      "produce": {
+        "common.geography.city.population": "0",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": []
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Osmond"
+      },
+      "produce": {
+        "common.geography.city.population": "258",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Pavillion"
+      },
+      "produce": {
+        "common.geography.city.population": "166",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9036
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 241
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 723
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Pine Haven"
+      },
+      "produce": {
+        "common.geography.city.population": "399",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9624
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 100
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 200
+          },
+          {
+            "Other race": 75
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Parkman"
+      },
+      "produce": {
+        "common.geography.city.population": "117",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Pinedale"
+      },
+      "produce": {
+        "common.geography.city.population": "2068",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9188
+          },
+          {
+            "African American": 5
+          },
+          {
+            "Asian": 382
+          },
+          {
+            "American Indian": 121
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 290
+          },
+          {
+            "Other race": 15
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Pine Bluffs"
+      },
+      "produce": {
+        "common.geography.city.population": "994",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9054
+          },
+          {
+            "African American": 20
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 91
+          },
+          {
+            "Mixed race": 342
+          },
+          {
+            "Other race": 493
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Powell"
+      },
+      "produce": {
+        "common.geography.city.population": "6261",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9574
+          },
+          {
+            "African American": 32
+          },
+          {
+            "Asian": 22
+          },
+          {
+            "American Indian": 28
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 252
+          },
+          {
+            "Other race": 91
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Powder River"
+      },
+      "produce": {
+        "common.geography.city.population": "13",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Rafter J Ranch"
+      },
+      "produce": {
+        "common.geography.city.population": "1307",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9648
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 92
+          },
+          {
+            "American Indian": 168
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 92
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Ranchester"
+      },
+      "produce": {
+        "common.geography.city.population": "683",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9927
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 73
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Purple Sage"
+      },
+      "produce": {
+        "common.geography.city.population": "328",
+        "common.person.gender": {
+          "male": 150,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Ranchettes"
+      },
+      "produce": {
+        "common.geography.city.population": "6263",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9467
+          },
+          {
+            "African American": 125
+          },
+          {
+            "Asian": 19
+          },
+          {
+            "American Indian": 148
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 198
+          },
+          {
+            "Other race": 43
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Ralston"
+      },
+      "produce": {
+        "common.geography.city.population": "282",
+        "common.person.gender": {
+          "male": 210,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9716
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 284
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Red Butte"
+      },
+      "produce": {
+        "common.geography.city.population": "537",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9832
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 168
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Rawlins"
+      },
+      "produce": {
+        "common.geography.city.population": "9185",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8639
+          },
+          {
+            "African American": 124
+          },
+          {
+            "Asian": 163
+          },
+          {
+            "American Indian": 85
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 432
+          },
+          {
+            "Other race": 556
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Riverside"
+      },
+      "produce": {
+        "common.geography.city.population": "44",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9773
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 227
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Robertson"
+      },
+      "produce": {
+        "common.geography.city.population": "153",
+        "common.person.gender": {
+          "male": 180,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Reliance"
+      },
+      "produce": {
+        "common.geography.city.population": "834",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Rock River"
+      },
+      "produce": {
+        "common.geography.city.population": "264",
+        "common.person.gender": {
+          "male": 150,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7423
+          },
+          {
+            "African American": 871
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 1402
+          },
+          {
+            "Other race": 303
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Riverton"
+      },
+      "produce": {
+        "common.geography.city.population": "10646",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7922
+          },
+          {
+            "African American": 121
+          },
+          {
+            "Asian": 66
+          },
+          {
+            "American Indian": 1354
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 362
+          },
+          {
+            "Other race": 176
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Rolling Hills"
+      },
+      "produce": {
+        "common.geography.city.population": "571",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9597
+          },
+          {
+            "African American": 18
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 35
+          },
+          {
+            "Mixed race": 350
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Rock Springs"
+      },
+      "produce": {
+        "common.geography.city.population": "23125",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9108
+          },
+          {
+            "African American": 64
+          },
+          {
+            "Asian": 93
+          },
+          {
+            "American Indian": 38
+          },
+          {
+            "Native Hawaiian": 3
+          },
+          {
+            "Mixed race": 578
+          },
+          {
+            "Other race": 115
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Saratoga"
+      },
+      "produce": {
+        "common.geography.city.population": "1856",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9758
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 59
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 183
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Ryan Park"
+      },
+      "produce": {
+        "common.geography.city.population": "0",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": []
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Sheridan"
+      },
+      "produce": {
+        "common.geography.city.population": "17421",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9346
+          },
+          {
+            "African American": 26
+          },
+          {
+            "Asian": 98
+          },
+          {
+            "American Indian": 86
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 206
+          },
+          {
+            "Other race": 238
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Shoshoni"
+      },
+      "produce": {
+        "common.geography.city.population": "672",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9613
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 208
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 134
+          },
+          {
+            "Other race": 45
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Shell"
+      },
+      "produce": {
+        "common.geography.city.population": "41",
+        "common.person.gender": {
+          "male": 190,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6584
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 3415
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Slater"
+      },
+      "produce": {
+        "common.geography.city.population": "121",
+        "common.person.gender": {
+          "male": 30,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Sinclair"
+      },
+      "produce": {
+        "common.geography.city.population": "477",
+        "common.person.gender": {
+          "male": 160,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Smoot"
+      },
+      "produce": {
+        "common.geography.city.population": "110",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Sleepy Hollow"
+      },
+      "produce": {
+        "common.geography.city.population": "1112",
+        "common.person.gender": {
+          "male": 140,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9793
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 206
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "South Park"
+      },
+      "produce": {
+        "common.geography.city.population": "1556",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "South Greeley"
+      },
+      "produce": {
+        "common.geography.city.population": "4426",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7725
+          },
+          {
+            "African American": 746
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 221
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 300
+          },
+          {
+            "Other race": 1008
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Story"
+      },
+      "produce": {
+        "common.geography.city.population": "645",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Superior"
+      },
+      "produce": {
+        "common.geography.city.population": "200",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9400
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 50
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 150
+          },
+          {
+            "Other race": 400
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Star Valley Ranch"
+      },
+      "produce": {
+        "common.geography.city.population": "1547",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9580
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 420
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Table Rock"
+      },
+      "produce": {
+        "common.geography.city.population": "0",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": []
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Sundance"
+      },
+      "produce": {
+        "common.geography.city.population": "1363",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9905
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 44
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 51
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Ten Sleep"
+      },
+      "produce": {
+        "common.geography.city.population": "180",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9778
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 222
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Taylor"
+      },
+      "produce": {
+        "common.geography.city.population": "48",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Thayne"
+      },
+      "produce": {
+        "common.geography.city.population": "470",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9426
+          },
+          {
+            "African American": 21
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 85
+          },
+          {
+            "Other race": 468
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Torrington"
+      },
+      "produce": {
+        "common.geography.city.population": "6552",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9499
+          },
+          {
+            "African American": 27
+          },
+          {
+            "Asian": 40
+          },
+          {
+            "American Indian": 28
+          },
+          {
+            "Native Hawaiian": 3
+          },
+          {
+            "Mixed race": 180
+          },
+          {
+            "Other race": 221
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Teton Village"
+      },
+      "produce": {
+        "common.geography.city.population": "147",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Turnerville"
+      },
+      "produce": {
+        "common.geography.city.population": "208",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Thermopolis"
+      },
+      "produce": {
+        "common.geography.city.population": "2836",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9944
+          },
+          {
+            "African American": 4
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 7
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 32
+          },
+          {
+            "Other race": 14
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Urie"
+      },
+      "produce": {
+        "common.geography.city.population": "357",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8880
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 1120
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Veteran"
+      },
+      "produce": {
+        "common.geography.city.population": "24",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Vista West"
+      },
+      "produce": {
+        "common.geography.city.population": "1060",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Van Tassell"
+      },
+      "produce": {
+        "common.geography.city.population": "6",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Wamsutter"
+      },
+      "produce": {
+        "common.geography.city.population": "340",
+        "common.person.gender": {
+          "male": 140,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8588
+          },
+          {
+            "African American": 118
+          },
+          {
+            "Asian": 176
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 1118
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Upton"
+      },
+      "produce": {
+        "common.geography.city.population": "951",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9727
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 115
+          },
+          {
+            "Native Hawaiian": 21
+          },
+          {
+            "Mixed race": 42
+          },
+          {
+            "Other race": 95
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Warren AFB"
+      },
+      "produce": {
+        "common.geography.city.population": "2812",
+        "common.person.gender": {
+          "male": 140,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7486
+          },
+          {
+            "African American": 1156
+          },
+          {
+            "Asian": 153
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 530
+          },
+          {
+            "Other race": 676
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Westview Circle"
+      },
+      "produce": {
+        "common.geography.city.population": "34",
+        "common.person.gender": {
+          "male": 0,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Washam"
+      },
+      "produce": {
+        "common.geography.city.population": "18",
+        "common.person.gender": {
+          "male": 0,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Whiting"
+      },
+      "produce": {
+        "common.geography.city.population": "145",
+        "common.person.gender": {
+          "male": 160,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Wheatland"
+      },
+      "produce": {
+        "common.geography.city.population": "3620",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9334
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 52
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 323
+          },
+          {
+            "Other race": 290
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Woods Landing-Jelm"
+      },
+      "produce": {
+        "common.geography.city.population": "91",
+        "common.person.gender": {
+          "male": 150,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Wilson"
+      },
+      "produce": {
+        "common.geography.city.population": "1173",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9787
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 102
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 111
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Wright"
+      },
+      "produce": {
+        "common.geography.city.population": "2216",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9328
+          },
+          {
+            "African American": 18
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 501
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 99
+          },
+          {
+            "Other race": 54
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Worland"
+      },
+      "produce": {
+        "common.geography.city.population": "5426",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9556
+          },
+          {
+            "African American": 55
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 48
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 166
+          },
+          {
+            "Other race": 175
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Yoder"
+      },
+      "produce": {
+        "common.geography.city.population": "149",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9933
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 67
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Y-O Ranch"
+      },
+      "produce": {
+        "common.geography.city.population": "223",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9327
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 673
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Midwest"
+      },
+      "produce": {
+        "common.geography.city.population": "436",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9610
+          },
+          {
+            "African American": 92
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 206
+          },
+          {
+            "Other race": 92
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY",
+        "common.geography.city.name": "Upton"
+      },
+      "produce": {
+        "common.geography.city.population": "951",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9727
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 115
+          },
+          {
+            "Native Hawaiian": 21
+          },
+          {
+            "Mixed race": 42
+          },
+          {
+            "Other race": 95
+          }
+        ]
+      }
+    }
+  ]
+}

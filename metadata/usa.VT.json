@@ -1,0 +1,6072 @@
+{
+  "rules": [
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Burlington"
+      },
+      "produce": {
+        "common.geography.city.population": "42259",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8838
+          },
+          {
+            "African American": 310
+          },
+          {
+            "Asian": 463
+          },
+          {
+            "American Indian": 65
+          },
+          {
+            "Native Hawaiian": 1
+          },
+          {
+            "Mixed race": 293
+          },
+          {
+            "Other race": 30
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Rutland"
+      },
+      "produce": {
+        "common.geography.city.population": "16478",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9603
+          },
+          {
+            "African American": 73
+          },
+          {
+            "Asian": 72
+          },
+          {
+            "American Indian": 25
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 225
+          },
+          {
+            "Other race": 2
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "South Burlington"
+      },
+      "produce": {
+        "common.geography.city.population": "17913",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9184
+          },
+          {
+            "African American": 126
+          },
+          {
+            "Asian": 353
+          },
+          {
+            "American Indian": 13
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 299
+          },
+          {
+            "Other race": 25
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Barre"
+      },
+      "produce": {
+        "common.geography.city.population": "9044",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9561
+          },
+          {
+            "African American": 271
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 40
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 125
+          },
+          {
+            "Other race": 3
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Montpelier"
+      },
+      "produce": {
+        "common.geography.city.population": "7847",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9676
+          },
+          {
+            "African American": 18
+          },
+          {
+            "Asian": 144
+          },
+          {
+            "American Indian": 17
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 145
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Winooski"
+      },
+      "produce": {
+        "common.geography.city.population": "7223",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8851
+          },
+          {
+            "African American": 411
+          },
+          {
+            "Asian": 379
+          },
+          {
+            "American Indian": 84
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 240
+          },
+          {
+            "Other race": 35
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Bennington"
+      },
+      "produce": {
+        "common.geography.city.population": "8869",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9498
+          },
+          {
+            "African American": 81
+          },
+          {
+            "Asian": 157
+          },
+          {
+            "American Indian": 10
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 245
+          },
+          {
+            "Other race": 9
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Brattleboro"
+      },
+      "produce": {
+        "common.geography.city.population": "6981",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9381
+          },
+          {
+            "African American": 238
+          },
+          {
+            "Asian": 129
+          },
+          {
+            "American Indian": 27
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 192
+          },
+          {
+            "Other race": 33
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Essex Junction"
+      },
+      "produce": {
+        "common.geography.city.population": "9298",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8923
+          },
+          {
+            "African American": 280
+          },
+          {
+            "Asian": 656
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 141
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "St. Albans"
+      },
+      "produce": {
+        "common.geography.city.population": "6944",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9211
+          },
+          {
+            "African American": 42
+          },
+          {
+            "Asian": 210
+          },
+          {
+            "American Indian": 3
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 434
+          },
+          {
+            "Other race": 99
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "St. Johnsbury"
+      },
+      "produce": {
+        "common.geography.city.population": "6420",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9589
+          },
+          {
+            "African American": 112
+          },
+          {
+            "Asian": 215
+          },
+          {
+            "American Indian": 12
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 72
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Middlebury"
+      },
+      "produce": {
+        "common.geography.city.population": "6518",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9201
+          },
+          {
+            "African American": 121
+          },
+          {
+            "Asian": 391
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 262
+          },
+          {
+            "Other race": 25
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Springfield"
+      },
+      "produce": {
+        "common.geography.city.population": "4017",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9592
+          },
+          {
+            "African American": 2
+          },
+          {
+            "Asian": 82
+          },
+          {
+            "American Indian": 10
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 224
+          },
+          {
+            "Other race": 90
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Newport"
+      },
+      "produce": {
+        "common.geography.city.population": "4601",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9468
+          },
+          {
+            "African American": 209
+          },
+          {
+            "Asian": 24
+          },
+          {
+            "American Indian": 72
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 193
+          },
+          {
+            "Other race": 35
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "West Brattleboro"
+      },
+      "produce": {
+        "common.geography.city.population": "2837",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8735
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 701
+          },
+          {
+            "American Indian": 32
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 497
+          },
+          {
+            "Other race": 35
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Northfield"
+      },
+      "produce": {
+        "common.geography.city.population": "2969",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9276
+          },
+          {
+            "African American": 337
+          },
+          {
+            "Asian": 64
+          },
+          {
+            "American Indian": 111
+          },
+          {
+            "Native Hawaiian": 37
+          },
+          {
+            "Mixed race": 162
+          },
+          {
+            "Other race": 13
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Vergennes"
+      },
+      "produce": {
+        "common.geography.city.population": "2594",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9210
+          },
+          {
+            "African American": 332
+          },
+          {
+            "Asian": 112
+          },
+          {
+            "American Indian": 73
+          },
+          {
+            "Native Hawaiian": 73
+          },
+          {
+            "Mixed race": 197
+          },
+          {
+            "Other race": 4
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Bellows Falls"
+      },
+      "produce": {
+        "common.geography.city.population": "2825",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9331
+          },
+          {
+            "African American": 131
+          },
+          {
+            "Asian": 103
+          },
+          {
+            "American Indian": 21
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 413
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Windsor"
+      },
+      "produce": {
+        "common.geography.city.population": "2285",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9816
+          },
+          {
+            "African American": 53
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 22
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 109
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Swanton"
+      },
+      "produce": {
+        "common.geography.city.population": "2465",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8787
+          },
+          {
+            "African American": 49
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 138
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 1026
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Fair Haven"
+      },
+      "produce": {
+        "common.geography.city.population": "2226",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9897
+          },
+          {
+            "African American": 13
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 45
+          },
+          {
+            "Other race": 45
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "White River Junction"
+      },
+      "produce": {
+        "common.geography.city.population": "2273",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9674
+          },
+          {
+            "African American": 35
+          },
+          {
+            "Asian": 194
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 97
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Waterbury"
+      },
+      "produce": {
+        "common.geography.city.population": "2094",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9790
+          },
+          {
+            "African American": 24
+          },
+          {
+            "Asian": 134
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 53
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "West Rutland"
+      },
+      "produce": {
+        "common.geography.city.population": "2198",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9791
+          },
+          {
+            "African American": 36
+          },
+          {
+            "Asian": 105
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 68
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Morrisville"
+      },
+      "produce": {
+        "common.geography.city.population": "1990",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9663
+          },
+          {
+            "African American": 55
+          },
+          {
+            "Asian": 75
+          },
+          {
+            "American Indian": 25
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 181
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Bristol"
+      },
+      "produce": {
+        "common.geography.city.population": "2013",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9727
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 273
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Milton"
+      },
+      "produce": {
+        "common.geography.city.population": "1815",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9691
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 309
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Manchester Center"
+      },
+      "produce": {
+        "common.geography.city.population": "1937",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9628
+          },
+          {
+            "African American": 52
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 320
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Poultney"
+      },
+      "produce": {
+        "common.geography.city.population": "1710",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9503
+          },
+          {
+            "African American": 181
+          },
+          {
+            "Asian": 23
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 275
+          },
+          {
+            "Other race": 18
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "North Bennington"
+      },
+      "produce": {
+        "common.geography.city.population": "1812",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9012
+          },
+          {
+            "African American": 155
+          },
+          {
+            "Asian": 105
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 684
+          },
+          {
+            "Other race": 44
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Wilder"
+      },
+      "produce": {
+        "common.geography.city.population": "1606",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8879
+          },
+          {
+            "African American": 118
+          },
+          {
+            "Asian": 367
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 392
+          },
+          {
+            "Other race": 243
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Randolph"
+      },
+      "produce": {
+        "common.geography.city.population": "1703",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9765
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 153
+          },
+          {
+            "Other race": 82
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Johnson"
+      },
+      "produce": {
+        "common.geography.city.population": "1478",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9066
+          },
+          {
+            "African American": 298
+          },
+          {
+            "Asian": 54
+          },
+          {
+            "American Indian": 95
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 487
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "South Barre"
+      },
+      "produce": {
+        "common.geography.city.population": "1404",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9886
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 113
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Brandon"
+      },
+      "produce": {
+        "common.geography.city.population": "1560",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9917
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 83
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Enosburg Falls"
+      },
+      "produce": {
+        "common.geography.city.population": "1389",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9287
+          },
+          {
+            "African American": 122
+          },
+          {
+            "Asian": 14
+          },
+          {
+            "American Indian": 245
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 331
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Richford"
+      },
+      "produce": {
+        "common.geography.city.population": "1478",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8809
+          },
+          {
+            "African American": 68
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 677
+          },
+          {
+            "Other race": 447
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Jericho"
+      },
+      "produce": {
+        "common.geography.city.population": "1326",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9917
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 83
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Hardwick"
+      },
+      "produce": {
+        "common.geography.city.population": "1378",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Arlington"
+      },
+      "produce": {
+        "common.geography.city.population": "1302",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9455
+          },
+          {
+            "African American": 229
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 92
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 223
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Lyndonville"
+      },
+      "produce": {
+        "common.geography.city.population": "1310",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9954
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 31
+          },
+          {
+            "Other race": 15
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Castleton"
+      },
+      "produce": {
+        "common.geography.city.population": "1167",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9229
+          },
+          {
+            "African American": 214
+          },
+          {
+            "Asian": 231
+          },
+          {
+            "American Indian": 34
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 291
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Chester"
+      },
+      "produce": {
+        "common.geography.city.population": "1190",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9924
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 76
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Albany"
+      },
+      "produce": {
+        "common.geography.city.population": "193",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Williamstown"
+      },
+      "produce": {
+        "common.geography.city.population": "1073",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9888
+          },
+          {
+            "African American": 112
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Arlington"
+      },
+      "produce": {
+        "common.geography.city.population": "1302",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9455
+          },
+          {
+            "African American": 229
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 92
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 223
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Alburgh"
+      },
+      "produce": {
+        "common.geography.city.population": "431",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9374
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 418
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 209
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Barnet"
+      },
+      "produce": {
+        "common.geography.city.population": "157",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Ascutney"
+      },
+      "produce": {
+        "common.geography.city.population": "513",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9981
+          },
+          {
+            "African American": 19
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Barton"
+      },
+      "produce": {
+        "common.geography.city.population": "701",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9643
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 185
+          },
+          {
+            "American Indian": 43
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 86
+          },
+          {
+            "Other race": 43
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Barre"
+      },
+      "produce": {
+        "common.geography.city.population": "9044",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9561
+          },
+          {
+            "African American": 271
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 40
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 125
+          },
+          {
+            "Other race": 3
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Bellows Falls"
+      },
+      "produce": {
+        "common.geography.city.population": "2825",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9331
+          },
+          {
+            "African American": 131
+          },
+          {
+            "Asian": 103
+          },
+          {
+            "American Indian": 21
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 413
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Beecher Falls"
+      },
+      "produce": {
+        "common.geography.city.population": "152",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Benson"
+      },
+      "produce": {
+        "common.geography.city.population": "327",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Bennington"
+      },
+      "produce": {
+        "common.geography.city.population": "8869",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9498
+          },
+          {
+            "African American": 81
+          },
+          {
+            "Asian": 157
+          },
+          {
+            "American Indian": 10
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 245
+          },
+          {
+            "Other race": 9
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Bradford"
+      },
+      "produce": {
+        "common.geography.city.population": "952",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9779
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 53
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 168
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Bethel"
+      },
+      "produce": {
+        "common.geography.city.population": "417",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9185
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 168
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 647
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Brattleboro"
+      },
+      "produce": {
+        "common.geography.city.population": "6981",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9381
+          },
+          {
+            "African American": 238
+          },
+          {
+            "Asian": 129
+          },
+          {
+            "American Indian": 27
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 192
+          },
+          {
+            "Other race": 33
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Brandon"
+      },
+      "produce": {
+        "common.geography.city.population": "1560",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9917
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 83
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Burlington"
+      },
+      "produce": {
+        "common.geography.city.population": "42259",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8838
+          },
+          {
+            "African American": 310
+          },
+          {
+            "Asian": 463
+          },
+          {
+            "American Indian": 65
+          },
+          {
+            "Native Hawaiian": 1
+          },
+          {
+            "Mixed race": 293
+          },
+          {
+            "Other race": 30
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Bristol"
+      },
+      "produce": {
+        "common.geography.city.population": "2013",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9727
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 273
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Cambridge"
+      },
+      "produce": {
+        "common.geography.city.population": "190",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Cabot"
+      },
+      "produce": {
+        "common.geography.city.population": "304",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8421
+          },
+          {
+            "African American": 66
+          },
+          {
+            "Asian": 395
+          },
+          {
+            "American Indian": 691
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 428
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Castleton"
+      },
+      "produce": {
+        "common.geography.city.population": "1167",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9229
+          },
+          {
+            "African American": 214
+          },
+          {
+            "Asian": 231
+          },
+          {
+            "American Indian": 34
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 291
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Canaan"
+      },
+      "produce": {
+        "common.geography.city.population": "465",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9806
+          },
+          {
+            "African American": 129
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 65
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Chester"
+      },
+      "produce": {
+        "common.geography.city.population": "1190",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9924
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 76
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Cavendish"
+      },
+      "produce": {
+        "common.geography.city.population": "273",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Coventry"
+      },
+      "produce": {
+        "common.geography.city.population": "116",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Concord"
+      },
+      "produce": {
+        "common.geography.city.population": "229",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9694
+          },
+          {
+            "African American": 218
+          },
+          {
+            "Asian": 87
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Derby Center"
+      },
+      "produce": {
+        "common.geography.city.population": "783",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9911
+          },
+          {
+            "African American": 26
+          },
+          {
+            "Asian": 64
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Danville"
+      },
+      "produce": {
+        "common.geography.city.population": "318",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9497
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 503
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Dorset"
+      },
+      "produce": {
+        "common.geography.city.population": "286",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Derby Line"
+      },
+      "produce": {
+        "common.geography.city.population": "925",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9838
+          },
+          {
+            "African American": 119
+          },
+          {
+            "Asian": 22
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 22
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "East Burke"
+      },
+      "produce": {
+        "common.geography.city.population": "169",
+        "common.person.gender": {
+          "male": 160,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "East Barre"
+      },
+      "produce": {
+        "common.geography.city.population": "827",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "East Montpelier"
+      },
+      "produce": {
+        "common.geography.city.population": "37",
+        "common.person.gender": {
+          "male": 30,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "East Middlebury"
+      },
+      "produce": {
+        "common.geography.city.population": "392",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8546
+          },
+          {
+            "African American": 1454
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Essex Junction"
+      },
+      "produce": {
+        "common.geography.city.population": "9298",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8923
+          },
+          {
+            "African American": 280
+          },
+          {
+            "Asian": 656
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 141
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Enosburg Falls"
+      },
+      "produce": {
+        "common.geography.city.population": "1389",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9287
+          },
+          {
+            "African American": 122
+          },
+          {
+            "Asian": 14
+          },
+          {
+            "American Indian": 245
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 331
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Fairlee"
+      },
+      "produce": {
+        "common.geography.city.population": "213",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9718
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 282
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Fair Haven"
+      },
+      "produce": {
+        "common.geography.city.population": "2226",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9897
+          },
+          {
+            "African American": 13
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 45
+          },
+          {
+            "Other race": 45
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Graniteville"
+      },
+      "produce": {
+        "common.geography.city.population": "445",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9820
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 180
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Glover"
+      },
+      "produce": {
+        "common.geography.city.population": "354",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9802
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 141
+          },
+          {
+            "Other race": 56
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Greensboro"
+      },
+      "produce": {
+        "common.geography.city.population": "96",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Greensboro Bend"
+      },
+      "produce": {
+        "common.geography.city.population": "223",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9910
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 90
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Groton"
+      },
+      "produce": {
+        "common.geography.city.population": "414",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9614
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 386
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Hartland"
+      },
+      "produce": {
+        "common.geography.city.population": "489",
+        "common.person.gender": {
+          "male": 140,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9162
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 450
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 389
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Hardwick"
+      },
+      "produce": {
+        "common.geography.city.population": "1378",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Hinesburg"
+      },
+      "produce": {
+        "common.geography.city.population": "631",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Hyde Park"
+      },
+      "produce": {
+        "common.geography.city.population": "417",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9808
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 192
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Irasburg"
+      },
+      "produce": {
+        "common.geography.city.population": "168",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Jacksonville"
+      },
+      "produce": {
+        "common.geography.city.population": "256",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Island Pond"
+      },
+      "produce": {
+        "common.geography.city.population": "565",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9540
+          },
+          {
+            "African American": 106
+          },
+          {
+            "Asian": 88
+          },
+          {
+            "American Indian": 159
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 106
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Jericho"
+      },
+      "produce": {
+        "common.geography.city.population": "1326",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9917
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 83
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Jeffersonville"
+      },
+      "produce": {
+        "common.geography.city.population": "723",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9433
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 567
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Lowell"
+      },
+      "produce": {
+        "common.geography.city.population": "212",
+        "common.person.gender": {
+          "male": 140,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9906
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 94
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Johnson"
+      },
+      "produce": {
+        "common.geography.city.population": "1478",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9066
+          },
+          {
+            "African American": 298
+          },
+          {
+            "Asian": 54
+          },
+          {
+            "American Indian": 95
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 487
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Lyndonville"
+      },
+      "produce": {
+        "common.geography.city.population": "1310",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9954
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 31
+          },
+          {
+            "Other race": 15
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Ludlow"
+      },
+      "produce": {
+        "common.geography.city.population": "814",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9730
+          },
+          {
+            "African American": 12
+          },
+          {
+            "Asian": 147
+          },
+          {
+            "American Indian": 12
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 37
+          },
+          {
+            "Other race": 61
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Manchester Center"
+      },
+      "produce": {
+        "common.geography.city.population": "1937",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9628
+          },
+          {
+            "African American": 52
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 320
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Manchester"
+      },
+      "produce": {
+        "common.geography.city.population": "752",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9229
+          },
+          {
+            "African American": 40
+          },
+          {
+            "Asian": 106
+          },
+          {
+            "American Indian": 40
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 585
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Middlebury"
+      },
+      "produce": {
+        "common.geography.city.population": "6518",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9201
+          },
+          {
+            "African American": 121
+          },
+          {
+            "Asian": 391
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 262
+          },
+          {
+            "Other race": 25
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Marshfield"
+      },
+      "produce": {
+        "common.geography.city.population": "307",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8860
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 1075
+          },
+          {
+            "Other race": 65
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Montpelier"
+      },
+      "produce": {
+        "common.geography.city.population": "7847",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9676
+          },
+          {
+            "African American": 18
+          },
+          {
+            "Asian": 144
+          },
+          {
+            "American Indian": 17
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 145
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Milton"
+      },
+      "produce": {
+        "common.geography.city.population": "1815",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9691
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 309
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Newbury"
+      },
+      "produce": {
+        "common.geography.city.population": "398",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9874
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 25
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 101
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Morrisville"
+      },
+      "produce": {
+        "common.geography.city.population": "1990",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9663
+          },
+          {
+            "African American": 55
+          },
+          {
+            "Asian": 75
+          },
+          {
+            "American Indian": 25
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 181
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Newport"
+      },
+      "produce": {
+        "common.geography.city.population": "4601",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9468
+          },
+          {
+            "African American": 209
+          },
+          {
+            "Asian": 24
+          },
+          {
+            "American Indian": 72
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 193
+          },
+          {
+            "Other race": 35
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Newfane"
+      },
+      "produce": {
+        "common.geography.city.population": "101",
+        "common.person.gender": {
+          "male": 50,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9703
+          },
+          {
+            "African American": 297
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "North Bennington"
+      },
+      "produce": {
+        "common.geography.city.population": "1812",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9012
+          },
+          {
+            "African American": 155
+          },
+          {
+            "Asian": 105
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 684
+          },
+          {
+            "Other race": 44
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Newport Center"
+      },
+      "produce": {
+        "common.geography.city.population": "164",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "North Springfield"
+      },
+      "produce": {
+        "common.geography.city.population": "443",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9707
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 293
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "North Hartland"
+      },
+      "produce": {
+        "common.geography.city.population": "96",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "North Westminster"
+      },
+      "produce": {
+        "common.geography.city.population": "367",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9809
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 27
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 163
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "North Troy"
+      },
+      "produce": {
+        "common.geography.city.population": "598",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9967
+          },
+          {
+            "African American": 33
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Norwich"
+      },
+      "produce": {
+        "common.geography.city.population": "1020",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9157
+          },
+          {
+            "African American": 157
+          },
+          {
+            "Asian": 392
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 294
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Northfield"
+      },
+      "produce": {
+        "common.geography.city.population": "2969",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9276
+          },
+          {
+            "African American": 337
+          },
+          {
+            "Asian": 64
+          },
+          {
+            "American Indian": 111
+          },
+          {
+            "Native Hawaiian": 37
+          },
+          {
+            "Mixed race": 162
+          },
+          {
+            "Other race": 13
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Orleans"
+      },
+      "produce": {
+        "common.geography.city.population": "883",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9615
+          },
+          {
+            "African American": 385
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Old Bennington"
+      },
+      "produce": {
+        "common.geography.city.population": "160",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Pittsford"
+      },
+      "produce": {
+        "common.geography.city.population": "575",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9843
+          },
+          {
+            "African American": 157
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Poultney"
+      },
+      "produce": {
+        "common.geography.city.population": "1710",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9503
+          },
+          {
+            "African American": 181
+          },
+          {
+            "Asian": 23
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 275
+          },
+          {
+            "Other race": 18
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Perkinsville"
+      },
+      "produce": {
+        "common.geography.city.population": "143",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Proctorsville"
+      },
+      "produce": {
+        "common.geography.city.population": "474",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9219
+          },
+          {
+            "African American": 84
+          },
+          {
+            "Asian": 42
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 380
+          },
+          {
+            "Other race": 274
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Plainfield"
+      },
+      "produce": {
+        "common.geography.city.population": "350",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9171
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 286
+          },
+          {
+            "American Indian": 200
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 229
+          },
+          {
+            "Other race": 113
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Quechee"
+      },
+      "produce": {
+        "common.geography.city.population": "713",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Putney"
+      },
+      "produce": {
+        "common.geography.city.population": "584",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9949
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 34
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 17
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Readsboro"
+      },
+      "produce": {
+        "common.geography.city.population": "266",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Richmond"
+      },
+      "produce": {
+        "common.geography.city.population": "803",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8842
+          },
+          {
+            "African American": 1034
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 125
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Randolph"
+      },
+      "produce": {
+        "common.geography.city.population": "1703",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9765
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 153
+          },
+          {
+            "Other race": 82
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Rochester"
+      },
+      "produce": {
+        "common.geography.city.population": "221",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9502
+          },
+          {
+            "African American": 45
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 45
+          },
+          {
+            "Native Hawaiian": 90
+          },
+          {
+            "Mixed race": 317
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Richford"
+      },
+      "produce": {
+        "common.geography.city.population": "1478",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8809
+          },
+          {
+            "African American": 68
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 677
+          },
+          {
+            "Other race": 447
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Saxtons River"
+      },
+      "produce": {
+        "common.geography.city.population": "569",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8576
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 88
+          },
+          {
+            "American Indian": 123
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 1213
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Rutland"
+      },
+      "produce": {
+        "common.geography.city.population": "16478",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9603
+          },
+          {
+            "African American": 73
+          },
+          {
+            "Asian": 72
+          },
+          {
+            "American Indian": 25
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 225
+          },
+          {
+            "Other race": 2
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "South Barre"
+      },
+      "produce": {
+        "common.geography.city.population": "1404",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9886
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 113
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Shelburne"
+      },
+      "produce": {
+        "common.geography.city.population": "968",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "South Royalton"
+      },
+      "produce": {
+        "common.geography.city.population": "726",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9256
+          },
+          {
+            "African American": 661
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 83
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "South Burlington"
+      },
+      "produce": {
+        "common.geography.city.population": "17913",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9184
+          },
+          {
+            "African American": 126
+          },
+          {
+            "Asian": 353
+          },
+          {
+            "American Indian": 13
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 299
+          },
+          {
+            "Other race": 25
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Springfield"
+      },
+      "produce": {
+        "common.geography.city.population": "4017",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9592
+          },
+          {
+            "African American": 2
+          },
+          {
+            "Asian": 82
+          },
+          {
+            "American Indian": 10
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 224
+          },
+          {
+            "Other race": 90
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "St. Albans"
+      },
+      "produce": {
+        "common.geography.city.population": "6944",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9211
+          },
+          {
+            "African American": 42
+          },
+          {
+            "Asian": 210
+          },
+          {
+            "American Indian": 3
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 434
+          },
+          {
+            "Other race": 99
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "South Shaftsbury"
+      },
+      "produce": {
+        "common.geography.city.population": "540",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Stowe"
+      },
+      "produce": {
+        "common.geography.city.population": "618",
+        "common.person.gender": {
+          "male": 40,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8592
+          },
+          {
+            "African American": 65
+          },
+          {
+            "Asian": 1311
+          },
+          {
+            "American Indian": 32
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "St. Johnsbury"
+      },
+      "produce": {
+        "common.geography.city.population": "6420",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9589
+          },
+          {
+            "African American": 112
+          },
+          {
+            "Asian": 215
+          },
+          {
+            "American Indian": 12
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 72
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Troy"
+      },
+      "produce": {
+        "common.geography.city.population": "315",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Swanton"
+      },
+      "produce": {
+        "common.geography.city.population": "2465",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8787
+          },
+          {
+            "African American": 49
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 138
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 1026
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Waitsfield"
+      },
+      "produce": {
+        "common.geography.city.population": "225",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Vergennes"
+      },
+      "produce": {
+        "common.geography.city.population": "2594",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9210
+          },
+          {
+            "African American": 332
+          },
+          {
+            "Asian": 112
+          },
+          {
+            "American Indian": 73
+          },
+          {
+            "Native Hawaiian": 73
+          },
+          {
+            "Mixed race": 197
+          },
+          {
+            "Other race": 4
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Waterbury"
+      },
+      "produce": {
+        "common.geography.city.population": "2094",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9790
+          },
+          {
+            "African American": 24
+          },
+          {
+            "Asian": 134
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 53
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Websterville"
+      },
+      "produce": {
+        "common.geography.city.population": "540",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Wallingford"
+      },
+      "produce": {
+        "common.geography.city.population": "911",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9824
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 176
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Wells River"
+      },
+      "produce": {
+        "common.geography.city.population": "365",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9589
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 137
+          },
+          {
+            "American Indian": 27
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 247
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Wells"
+      },
+      "produce": {
+        "common.geography.city.population": "339",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "West Burke"
+      },
+      "produce": {
+        "common.geography.city.population": "353",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "West Brattleboro"
+      },
+      "produce": {
+        "common.geography.city.population": "2837",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8735
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 701
+          },
+          {
+            "American Indian": 32
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 497
+          },
+          {
+            "Other race": 35
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Westminster"
+      },
+      "produce": {
+        "common.geography.city.population": "320",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9688
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 313
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "West Rutland"
+      },
+      "produce": {
+        "common.geography.city.population": "2198",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9791
+          },
+          {
+            "African American": 36
+          },
+          {
+            "Asian": 105
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 68
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Wilder"
+      },
+      "produce": {
+        "common.geography.city.population": "1606",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8879
+          },
+          {
+            "African American": 118
+          },
+          {
+            "Asian": 367
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 392
+          },
+          {
+            "Other race": 243
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Williamstown"
+      },
+      "produce": {
+        "common.geography.city.population": "1073",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9888
+          },
+          {
+            "African American": 112
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "White River Junction"
+      },
+      "produce": {
+        "common.geography.city.population": "2273",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9674
+          },
+          {
+            "African American": 35
+          },
+          {
+            "Asian": 194
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 97
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Windsor"
+      },
+      "produce": {
+        "common.geography.city.population": "2285",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9816
+          },
+          {
+            "African American": 53
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 22
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 109
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Wilmington"
+      },
+      "produce": {
+        "common.geography.city.population": "568",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9701
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 299
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Woodstock"
+      },
+      "produce": {
+        "common.geography.city.population": "937",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9925
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 43
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 32
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Winooski"
+      },
+      "produce": {
+        "common.geography.city.population": "7223",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8851
+          },
+          {
+            "African American": 411
+          },
+          {
+            "Asian": 379
+          },
+          {
+            "American Indian": 84
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 240
+          },
+          {
+            "Other race": 35
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Worcester"
+      },
+      "produce": {
+        "common.geography.city.population": "143",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9650
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 280
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 70
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT",
+        "common.geography.city.name": "Essex Junction"
+      },
+      "produce": {
+        "common.geography.city.population": "9298",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8923
+          },
+          {
+            "African American": 280
+          },
+          {
+            "Asian": 656
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 141
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,5184 @@
+{
+  "rules": [
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Manchester"
+      },
+      "produce": {
+        "common.geography.city.population": "109786",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8693
+          },
+          {
+            "African American": 451
+          },
+          {
+            "Asian": 392
+          },
+          {
+            "American Indian": 12
+          },
+          {
+            "Native Hawaiian": 3
+          },
+          {
+            "Mixed race": 229
+          },
+          {
+            "Other race": 220
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Nashua"
+      },
+      "produce": {
+        "common.geography.city.population": "86823",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8572
+          },
+          {
+            "African American": 213
+          },
+          {
+            "Asian": 703
+          },
+          {
+            "American Indian": 15
+          },
+          {
+            "Native Hawaiian": 1
+          },
+          {
+            "Mixed race": 227
+          },
+          {
+            "Other race": 269
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Concord"
+      },
+      "produce": {
+        "common.geography.city.population": "42767",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9297
+          },
+          {
+            "African American": 250
+          },
+          {
+            "Asian": 236
+          },
+          {
+            "American Indian": 15
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 148
+          },
+          {
+            "Other race": 53
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Rochester"
+      },
+      "produce": {
+        "common.geography.city.population": "29830",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9576
+          },
+          {
+            "African American": 66
+          },
+          {
+            "Asian": 69
+          },
+          {
+            "American Indian": 16
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 167
+          },
+          {
+            "Other race": 106
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Dover"
+      },
+      "produce": {
+        "common.geography.city.population": "30021",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9242
+          },
+          {
+            "African American": 100
+          },
+          {
+            "Asian": 345
+          },
+          {
+            "American Indian": 45
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 254
+          },
+          {
+            "Other race": 13
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Derry"
+      },
+      "produce": {
+        "common.geography.city.population": "21855",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9420
+          },
+          {
+            "African American": 252
+          },
+          {
+            "Asian": 208
+          },
+          {
+            "American Indian": 17
+          },
+          {
+            "Native Hawaiian": 3
+          },
+          {
+            "Mixed race": 76
+          },
+          {
+            "Other race": 22
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Keene"
+      },
+      "produce": {
+        "common.geography.city.population": "23389",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9597
+          },
+          {
+            "African American": 68
+          },
+          {
+            "Asian": 200
+          },
+          {
+            "American Indian": 23
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 103
+          },
+          {
+            "Other race": 9
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Laconia"
+      },
+      "produce": {
+        "common.geography.city.population": "16062",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9575
+          },
+          {
+            "African American": 27
+          },
+          {
+            "Asian": 161
+          },
+          {
+            "American Indian": 31
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 169
+          },
+          {
+            "Other race": 36
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Portsmouth"
+      },
+      "produce": {
+        "common.geography.city.population": "21140",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9196
+          },
+          {
+            "African American": 227
+          },
+          {
+            "Asian": 418
+          },
+          {
+            "American Indian": 9
+          },
+          {
+            "Native Hawaiian": 4
+          },
+          {
+            "Mixed race": 119
+          },
+          {
+            "Other race": 26
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Lebanon"
+      },
+      "produce": {
+        "common.geography.city.population": "13275",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8763
+          },
+          {
+            "African American": 256
+          },
+          {
+            "Asian": 726
+          },
+          {
+            "American Indian": 20
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 222
+          },
+          {
+            "Other race": 13
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Claremont"
+      },
+      "produce": {
+        "common.geography.city.population": "13304",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9848
+          },
+          {
+            "African American": 30
+          },
+          {
+            "Asian": 18
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 69
+          },
+          {
+            "Other race": 35
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Londonderry"
+      },
+      "produce": {
+        "common.geography.city.population": "10683",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9629
+          },
+          {
+            "African American": 83
+          },
+          {
+            "Asian": 176
+          },
+          {
+            "American Indian": 8
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 47
+          },
+          {
+            "Other race": 56
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Somersworth"
+      },
+      "produce": {
+        "common.geography.city.population": "11782",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8653
+          },
+          {
+            "African American": 263
+          },
+          {
+            "Asian": 501
+          },
+          {
+            "American Indian": 10
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 412
+          },
+          {
+            "Other race": 161
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Exeter"
+      },
+      "produce": {
+        "common.geography.city.population": "9537",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9610
+          },
+          {
+            "African American": 55
+          },
+          {
+            "Asian": 159
+          },
+          {
+            "American Indian": 49
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 53
+          },
+          {
+            "Other race": 73
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Berlin"
+      },
+      "produce": {
+        "common.geography.city.population": "10009",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9651
+          },
+          {
+            "African American": 97
+          },
+          {
+            "Asian": 47
+          },
+          {
+            "American Indian": 56
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 123
+          },
+          {
+            "Other race": 25
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Durham"
+      },
+      "produce": {
+        "common.geography.city.population": "8897",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8748
+          },
+          {
+            "African American": 106
+          },
+          {
+            "Asian": 663
+          },
+          {
+            "American Indian": 16
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 390
+          },
+          {
+            "Other race": 78
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Hampton"
+      },
+      "produce": {
+        "common.geography.city.population": "8997",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9501
+          },
+          {
+            "African American": 118
+          },
+          {
+            "Asian": 148
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 193
+          },
+          {
+            "Other race": 40
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Milford"
+      },
+      "produce": {
+        "common.geography.city.population": "8547",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9551
+          },
+          {
+            "African American": 89
+          },
+          {
+            "Asian": 143
+          },
+          {
+            "American Indian": 128
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 90
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Hanover"
+      },
+      "produce": {
+        "common.geography.city.population": "8608",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8254
+          },
+          {
+            "African American": 343
+          },
+          {
+            "Asian": 1172
+          },
+          {
+            "American Indian": 70
+          },
+          {
+            "Native Hawaiian": 7
+          },
+          {
+            "Mixed race": 102
+          },
+          {
+            "Other race": 52
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Hudson"
+      },
+      "produce": {
+        "common.geography.city.population": "7297",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9472
+          },
+          {
+            "African American": 181
+          },
+          {
+            "Asian": 196
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 108
+          },
+          {
+            "Other race": 42
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Franklin"
+      },
+      "produce": {
+        "common.geography.city.population": "8499",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9526
+          },
+          {
+            "African American": 139
+          },
+          {
+            "Asian": 231
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 105
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Newmarket"
+      },
+      "produce": {
+        "common.geography.city.population": "5322",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8151
+          },
+          {
+            "African American": 271
+          },
+          {
+            "Asian": 1105
+          },
+          {
+            "American Indian": 17
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 398
+          },
+          {
+            "Other race": 57
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "South Hooksett"
+      },
+      "produce": {
+        "common.geography.city.population": "5471",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9782
+          },
+          {
+            "African American": 71
+          },
+          {
+            "Asian": 20
+          },
+          {
+            "American Indian": 5
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 102
+          },
+          {
+            "Other race": 18
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Suncook"
+      },
+      "produce": {
+        "common.geography.city.population": "5258",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9492
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 61
+          },
+          {
+            "American Indian": 164
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 283
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Newport"
+      },
+      "produce": {
+        "common.geography.city.population": "4864",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9616
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 175
+          },
+          {
+            "American Indian": 64
+          },
+          {
+            "Native Hawaiian": 28
+          },
+          {
+            "Mixed race": 117
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Littleton"
+      },
+      "produce": {
+        "common.geography.city.population": "4608",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9553
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 169
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 221
+          },
+          {
+            "Other race": 56
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Hooksett"
+      },
+      "produce": {
+        "common.geography.city.population": "4065",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9333
+          },
+          {
+            "African American": 96
+          },
+          {
+            "Asian": 524
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 47
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Pinardville"
+      },
+      "produce": {
+        "common.geography.city.population": "3988",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9581
+          },
+          {
+            "African American": 256
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 114
+          },
+          {
+            "Other race": 48
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Plymouth"
+      },
+      "produce": {
+        "common.geography.city.population": "3919",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8757
+          },
+          {
+            "African American": 122
+          },
+          {
+            "Asian": 487
+          },
+          {
+            "American Indian": 15
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 533
+          },
+          {
+            "Other race": 84
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Tilton Northfield"
+      },
+      "produce": {
+        "common.geography.city.population": "3863",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9213
+          },
+          {
+            "African American": 36
+          },
+          {
+            "Asian": 647
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 83
+          },
+          {
+            "Other race": 21
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Farmington"
+      },
+      "produce": {
+        "common.geography.city.population": "3612",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9507
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 213
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 280
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "East Merrimack"
+      },
+      "produce": {
+        "common.geography.city.population": "3855",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9608
+          },
+          {
+            "African American": 122
+          },
+          {
+            "Asian": 239
+          },
+          {
+            "American Indian": 28
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 3
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Peterborough"
+      },
+      "produce": {
+        "common.geography.city.population": "2843",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9339
+          },
+          {
+            "African American": 46
+          },
+          {
+            "Asian": 408
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 208
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Goffstown"
+      },
+      "produce": {
+        "common.geography.city.population": "3299",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9803
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 100
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 97
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Hillsborough"
+      },
+      "produce": {
+        "common.geography.city.population": "2796",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Raymond"
+      },
+      "produce": {
+        "common.geography.city.population": "2827",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9445
+          },
+          {
+            "African American": 166
+          },
+          {
+            "Asian": 287
+          },
+          {
+            "American Indian": 32
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 71
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Wolfeboro"
+      },
+      "produce": {
+        "common.geography.city.population": "2425",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9402
+          },
+          {
+            "African American": 4
+          },
+          {
+            "Asian": 87
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 507
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Jaffrey"
+      },
+      "produce": {
+        "common.geography.city.population": "2456",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9629
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 318
+          },
+          {
+            "Other race": 53
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Hampton Beach"
+      },
+      "produce": {
+        "common.geography.city.population": "2280",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9842
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 110
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 48
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "North Conway"
+      },
+      "produce": {
+        "common.geography.city.population": "2286",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9628
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 200
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 171
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Winchester"
+      },
+      "produce": {
+        "common.geography.city.population": "1790",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9777
+          },
+          {
+            "African American": 34
+          },
+          {
+            "Asian": 190
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Bristol"
+      },
+      "produce": {
+        "common.geography.city.population": "1823",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9413
+          },
+          {
+            "African American": 137
+          },
+          {
+            "Asian": 176
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 274
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Contoocook"
+      },
+      "produce": {
+        "common.geography.city.population": "1630",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9614
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 276
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 110
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Henniker"
+      },
+      "produce": {
+        "common.geography.city.population": "1734",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9521
+          },
+          {
+            "African American": 323
+          },
+          {
+            "Asian": 121
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 35
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Amherst"
+      },
+      "produce": {
+        "common.geography.city.population": "651",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Alton"
+      },
+      "produce": {
+        "common.geography.city.population": "636",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Ashland"
+      },
+      "produce": {
+        "common.geography.city.population": "972",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9609
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 185
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 206
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Antrim"
+      },
+      "produce": {
+        "common.geography.city.population": "1445",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9931
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 69
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Belmont"
+      },
+      "produce": {
+        "common.geography.city.population": "1587",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8412
+          },
+          {
+            "African American": 1008
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 580
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Bartlett"
+      },
+      "produce": {
+        "common.geography.city.population": "187",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Berlin"
+      },
+      "produce": {
+        "common.geography.city.population": "10009",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9651
+          },
+          {
+            "African American": 97
+          },
+          {
+            "Asian": 47
+          },
+          {
+            "American Indian": 56
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 123
+          },
+          {
+            "Other race": 25
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Bennington"
+      },
+      "produce": {
+        "common.geography.city.population": "246",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Blodgett Landing"
+      },
+      "produce": {
+        "common.geography.city.population": "51",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Bethlehem"
+      },
+      "produce": {
+        "common.geography.city.population": "953",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8520
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 52
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 1427
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Bristol"
+      },
+      "produce": {
+        "common.geography.city.population": "1823",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9413
+          },
+          {
+            "African American": 137
+          },
+          {
+            "Asian": 176
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 274
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Bradford"
+      },
+      "produce": {
+        "common.geography.city.population": "313",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8786
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 1054
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 160
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Center Ossipee"
+      },
+      "produce": {
+        "common.geography.city.population": "575",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Canaan"
+      },
+      "produce": {
+        "common.geography.city.population": "472",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Charlestown"
+      },
+      "produce": {
+        "common.geography.city.population": "837",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8984
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 1016
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Center Sandwich"
+      },
+      "produce": {
+        "common.geography.city.population": "91",
+        "common.person.gender": {
+          "male": 40,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9451
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 549
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Colebrook"
+      },
+      "produce": {
+        "common.geography.city.population": "1389",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9770
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 229
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Claremont"
+      },
+      "produce": {
+        "common.geography.city.population": "13304",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9848
+          },
+          {
+            "African American": 30
+          },
+          {
+            "Asian": 18
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 69
+          },
+          {
+            "Other race": 35
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Contoocook"
+      },
+      "produce": {
+        "common.geography.city.population": "1630",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9614
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 276
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 110
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Concord"
+      },
+      "produce": {
+        "common.geography.city.population": "42767",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9297
+          },
+          {
+            "African American": 250
+          },
+          {
+            "Asian": 236
+          },
+          {
+            "American Indian": 15
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 148
+          },
+          {
+            "Other race": 53
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Derry"
+      },
+      "produce": {
+        "common.geography.city.population": "21855",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9420
+          },
+          {
+            "African American": 252
+          },
+          {
+            "Asian": 208
+          },
+          {
+            "American Indian": 17
+          },
+          {
+            "Native Hawaiian": 3
+          },
+          {
+            "Mixed race": 76
+          },
+          {
+            "Other race": 22
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Conway"
+      },
+      "produce": {
+        "common.geography.city.population": "1261",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9603
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 397
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Durham"
+      },
+      "produce": {
+        "common.geography.city.population": "8897",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8748
+          },
+          {
+            "African American": 106
+          },
+          {
+            "Asian": 663
+          },
+          {
+            "American Indian": 16
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 390
+          },
+          {
+            "Other race": 78
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Dover"
+      },
+      "produce": {
+        "common.geography.city.population": "30021",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9242
+          },
+          {
+            "African American": 100
+          },
+          {
+            "Asian": 345
+          },
+          {
+            "American Indian": 45
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 254
+          },
+          {
+            "Other race": 13
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Enfield"
+      },
+      "produce": {
+        "common.geography.city.population": "1059",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "East Merrimack"
+      },
+      "produce": {
+        "common.geography.city.population": "3855",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9608
+          },
+          {
+            "African American": 122
+          },
+          {
+            "Asian": 239
+          },
+          {
+            "American Indian": 28
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 3
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Exeter"
+      },
+      "produce": {
+        "common.geography.city.population": "9537",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9610
+          },
+          {
+            "African American": 55
+          },
+          {
+            "Asian": 159
+          },
+          {
+            "American Indian": 49
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 53
+          },
+          {
+            "Other race": 73
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Epping"
+      },
+      "produce": {
+        "common.geography.city.population": "1496",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9198
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 802
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Franklin"
+      },
+      "produce": {
+        "common.geography.city.population": "8499",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9526
+          },
+          {
+            "African American": 139
+          },
+          {
+            "Asian": 231
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 105
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Farmington"
+      },
+      "produce": {
+        "common.geography.city.population": "3612",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9507
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 213
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 280
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Gorham"
+      },
+      "produce": {
+        "common.geography.city.population": "1522",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9849
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 85
+          },
+          {
+            "Other race": 66
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Goffstown"
+      },
+      "produce": {
+        "common.geography.city.population": "3299",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9803
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 100
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 97
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Greenville"
+      },
+      "produce": {
+        "common.geography.city.population": "1376",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9949
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 51
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Groveton"
+      },
+      "produce": {
+        "common.geography.city.population": "1310",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9840
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 61
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 99
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Hampton"
+      },
+      "produce": {
+        "common.geography.city.population": "8997",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9501
+          },
+          {
+            "African American": 118
+          },
+          {
+            "Asian": 148
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 193
+          },
+          {
+            "Other race": 40
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Hampton Beach"
+      },
+      "produce": {
+        "common.geography.city.population": "2280",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9842
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 110
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 48
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Henniker"
+      },
+      "produce": {
+        "common.geography.city.population": "1734",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9521
+          },
+          {
+            "African American": 323
+          },
+          {
+            "Asian": 121
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 35
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Hancock"
+      },
+      "produce": {
+        "common.geography.city.population": "244",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Hillsborough"
+      },
+      "produce": {
+        "common.geography.city.population": "2796",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Hanover"
+      },
+      "produce": {
+        "common.geography.city.population": "8608",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8254
+          },
+          {
+            "African American": 343
+          },
+          {
+            "Asian": 1172
+          },
+          {
+            "American Indian": 70
+          },
+          {
+            "Native Hawaiian": 7
+          },
+          {
+            "Mixed race": 102
+          },
+          {
+            "Other race": 52
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Hooksett"
+      },
+      "produce": {
+        "common.geography.city.population": "4065",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9333
+          },
+          {
+            "African American": 96
+          },
+          {
+            "Asian": 524
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 47
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Hinsdale"
+      },
+      "produce": {
+        "common.geography.city.population": "1495",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9940
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 60
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Jaffrey"
+      },
+      "produce": {
+        "common.geography.city.population": "2456",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9629
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 318
+          },
+          {
+            "Other race": 53
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Hudson"
+      },
+      "produce": {
+        "common.geography.city.population": "7297",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9472
+          },
+          {
+            "African American": 181
+          },
+          {
+            "Asian": 196
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 108
+          },
+          {
+            "Other race": 42
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Laconia"
+      },
+      "produce": {
+        "common.geography.city.population": "16062",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9575
+          },
+          {
+            "African American": 27
+          },
+          {
+            "Asian": 161
+          },
+          {
+            "American Indian": 31
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 169
+          },
+          {
+            "Other race": 36
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Keene"
+      },
+      "produce": {
+        "common.geography.city.population": "23389",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9597
+          },
+          {
+            "African American": 68
+          },
+          {
+            "Asian": 200
+          },
+          {
+            "American Indian": 23
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 103
+          },
+          {
+            "Other race": 9
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Lebanon"
+      },
+      "produce": {
+        "common.geography.city.population": "13275",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8763
+          },
+          {
+            "African American": 256
+          },
+          {
+            "Asian": 726
+          },
+          {
+            "American Indian": 20
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 222
+          },
+          {
+            "Other race": 13
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Lancaster"
+      },
+      "produce": {
+        "common.geography.city.population": "1575",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9543
+          },
+          {
+            "African American": 108
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 152
+          },
+          {
+            "Other race": 197
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Lincoln"
+      },
+      "produce": {
+        "common.geography.city.population": "720",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9931
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 69
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Lisbon"
+      },
+      "produce": {
+        "common.geography.city.population": "1057",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9801
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 38
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 142
+          },
+          {
+            "Other race": 19
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Littleton"
+      },
+      "produce": {
+        "common.geography.city.population": "4608",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9553
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 169
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 221
+          },
+          {
+            "Other race": 56
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Loudon"
+      },
+      "produce": {
+        "common.geography.city.population": "675",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8785
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 1215
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Manchester"
+      },
+      "produce": {
+        "common.geography.city.population": "109786",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8693
+          },
+          {
+            "African American": 451
+          },
+          {
+            "Asian": 392
+          },
+          {
+            "American Indian": 12
+          },
+          {
+            "Native Hawaiian": 3
+          },
+          {
+            "Mixed race": 229
+          },
+          {
+            "Other race": 220
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Marlborough"
+      },
+      "produce": {
+        "common.geography.city.population": "1012",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9713
+          },
+          {
+            "African American": 287
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Londonderry"
+      },
+      "produce": {
+        "common.geography.city.population": "10683",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9629
+          },
+          {
+            "African American": 83
+          },
+          {
+            "Asian": 176
+          },
+          {
+            "American Indian": 8
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 47
+          },
+          {
+            "Other race": 56
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Melvin Village"
+      },
+      "produce": {
+        "common.geography.city.population": "90",
+        "common.person.gender": {
+          "male": 20,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Milford"
+      },
+      "produce": {
+        "common.geography.city.population": "8547",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9551
+          },
+          {
+            "African American": 89
+          },
+          {
+            "Asian": 143
+          },
+          {
+            "American Indian": 128
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 90
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Meredith"
+      },
+      "produce": {
+        "common.geography.city.population": "1521",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Milton Mills"
+      },
+      "produce": {
+        "common.geography.city.population": "129",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Milton"
+      },
+      "produce": {
+        "common.geography.city.population": "845",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Nashua"
+      },
+      "produce": {
+        "common.geography.city.population": "86823",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8572
+          },
+          {
+            "African American": 213
+          },
+          {
+            "Asian": 703
+          },
+          {
+            "American Indian": 15
+          },
+          {
+            "Native Hawaiian": 1
+          },
+          {
+            "Mixed race": 227
+          },
+          {
+            "Other race": 269
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Mountain Lakes"
+      },
+      "produce": {
+        "common.geography.city.population": "474",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9430
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 570
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "New London"
+      },
+      "produce": {
+        "common.geography.city.population": "1362",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9471
+          },
+          {
+            "African American": 162
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 191
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 132
+          },
+          {
+            "Other race": 44
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "New Hampton"
+      },
+      "produce": {
+        "common.geography.city.population": "382",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9634
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 366
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Newfields"
+      },
+      "produce": {
+        "common.geography.city.population": "235",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9872
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 128
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Newmarket"
+      },
+      "produce": {
+        "common.geography.city.population": "5322",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8151
+          },
+          {
+            "African American": 271
+          },
+          {
+            "Asian": 1105
+          },
+          {
+            "American Indian": 17
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 398
+          },
+          {
+            "Other race": 57
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Newport"
+      },
+      "produce": {
+        "common.geography.city.population": "4864",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9616
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 175
+          },
+          {
+            "American Indian": 64
+          },
+          {
+            "Native Hawaiian": 28
+          },
+          {
+            "Mixed race": 117
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "North Walpole"
+      },
+      "produce": {
+        "common.geography.city.population": "1315",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9323
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 160
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 517
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "North Conway"
+      },
+      "produce": {
+        "common.geography.city.population": "2286",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9628
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 200
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 171
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "North Woodstock"
+      },
+      "produce": {
+        "common.geography.city.population": "405",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9802
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 123
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 74
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Pinardville"
+      },
+      "produce": {
+        "common.geography.city.population": "3988",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9581
+          },
+          {
+            "African American": 256
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 114
+          },
+          {
+            "Other race": 48
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Peterborough"
+      },
+      "produce": {
+        "common.geography.city.population": "2843",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9339
+          },
+          {
+            "African American": 46
+          },
+          {
+            "Asian": 408
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 208
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Plainfield"
+      },
+      "produce": {
+        "common.geography.city.population": "189",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Pittsfield"
+      },
+      "produce": {
+        "common.geography.city.population": "1605",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9358
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 536
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 106
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Portsmouth"
+      },
+      "produce": {
+        "common.geography.city.population": "21140",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9196
+          },
+          {
+            "African American": 227
+          },
+          {
+            "Asian": 418
+          },
+          {
+            "American Indian": 9
+          },
+          {
+            "Native Hawaiian": 4
+          },
+          {
+            "Mixed race": 119
+          },
+          {
+            "Other race": 26
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Rochester"
+      },
+      "produce": {
+        "common.geography.city.population": "29830",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9576
+          },
+          {
+            "African American": 66
+          },
+          {
+            "Asian": 69
+          },
+          {
+            "American Indian": 16
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 167
+          },
+          {
+            "Other race": 106
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Plymouth"
+      },
+      "produce": {
+        "common.geography.city.population": "3919",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8757
+          },
+          {
+            "African American": 122
+          },
+          {
+            "Asian": 487
+          },
+          {
+            "American Indian": 15
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 533
+          },
+          {
+            "Other race": 84
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Raymond"
+      },
+      "produce": {
+        "common.geography.city.population": "2827",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9445
+          },
+          {
+            "African American": 166
+          },
+          {
+            "Asian": 287
+          },
+          {
+            "American Indian": 32
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 71
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Sanbornville"
+      },
+      "produce": {
+        "common.geography.city.population": "925",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9492
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 508
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Seabrook Beach"
+      },
+      "produce": {
+        "common.geography.city.population": "1320",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9894
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 106
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "South Hooksett"
+      },
+      "produce": {
+        "common.geography.city.population": "5471",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9782
+          },
+          {
+            "African American": 71
+          },
+          {
+            "Asian": 20
+          },
+          {
+            "American Indian": 5
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 102
+          },
+          {
+            "Other race": 18
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Somersworth"
+      },
+      "produce": {
+        "common.geography.city.population": "11782",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8653
+          },
+          {
+            "African American": 263
+          },
+          {
+            "Asian": 501
+          },
+          {
+            "American Indian": 10
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 412
+          },
+          {
+            "Other race": 161
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Suncook"
+      },
+      "produce": {
+        "common.geography.city.population": "5258",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9492
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 61
+          },
+          {
+            "American Indian": 164
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 283
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Suissevale"
+      },
+      "produce": {
+        "common.geography.city.population": "98",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Troy"
+      },
+      "produce": {
+        "common.geography.city.population": "1510",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9715
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 46
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 238
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Tilton Northfield"
+      },
+      "produce": {
+        "common.geography.city.population": "3863",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9213
+          },
+          {
+            "African American": 36
+          },
+          {
+            "Asian": 647
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 83
+          },
+          {
+            "Other race": 21
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Walpole"
+      },
+      "produce": {
+        "common.geography.city.population": "493",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8864
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 892
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 243
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Union"
+      },
+      "produce": {
+        "common.geography.city.population": "359",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "West Stewartstown"
+      },
+      "produce": {
+        "common.geography.city.population": "323",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9567
+          },
+          {
+            "African American": 433
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Warner"
+      },
+      "produce": {
+        "common.geography.city.population": "431",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8793
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 371
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 835
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Whitefield"
+      },
+      "produce": {
+        "common.geography.city.population": "1111",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9280
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 63
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 657
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "West Swanzey"
+      },
+      "produce": {
+        "common.geography.city.population": "1018",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8890
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 305
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 334
+          },
+          {
+            "Other race": 472
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Winchester"
+      },
+      "produce": {
+        "common.geography.city.population": "1790",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9777
+          },
+          {
+            "African American": 34
+          },
+          {
+            "Asian": 190
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Wilton"
+      },
+      "produce": {
+        "common.geography.city.population": "1138",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9701
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 79
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 44
+          },
+          {
+            "Mixed race": 176
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Woodsville"
+      },
+      "produce": {
+        "common.geography.city.population": "1254",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9936
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 64
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH",
+        "common.geography.city.name": "Wolfeboro"
+      },
+      "produce": {
+        "common.geography.city.population": "2425",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9402
+          },
+          {
+            "African American": 4
+          },
+          {
+            "Asian": 87
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 507
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    }
+  ]
+}

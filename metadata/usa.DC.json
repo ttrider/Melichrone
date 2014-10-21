@@ -1,0 +1,152 @@
+{
+  "rules": [
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DC",
+        "common.geography.city.name": "Washington"
+      },
+      "produce": {
+        "common.geography.city.population": "605759",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3952
+          },
+          {
+            "African American": 5105
+          },
+          {
+            "Asian": 354
+          },
+          {
+            "American Indian": 35
+          },
+          {
+            "Native Hawaiian": 5
+          },
+          {
+            "Mixed race": 206
+          },
+          {
+            "Other race": 341
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DC",
+        "common.geography.city.name": "Washington"
+      },
+      "produce": {
+        "common.geography.city.population": "605759",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3952
+          },
+          {
+            "African American": 5105
+          },
+          {
+            "Asian": 354
+          },
+          {
+            "American Indian": 35
+          },
+          {
+            "Native Hawaiian": 5
+          },
+          {
+            "Mixed race": 206
+          },
+          {
+            "Other race": 341
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DC",
+        "common.geography.city.name": "Washington"
+      },
+      "produce": {
+        "common.geography.city.population": "605759",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3952
+          },
+          {
+            "African American": 5105
+          },
+          {
+            "Asian": 354
+          },
+          {
+            "American Indian": 35
+          },
+          {
+            "Native Hawaiian": 5
+          },
+          {
+            "Mixed race": 206
+          },
+          {
+            "Other race": 341
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DC",
+        "common.geography.city.name": "Washington"
+      },
+      "produce": {
+        "common.geography.city.population": "605759",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3952
+          },
+          {
+            "African American": 5105
+          },
+          {
+            "Asian": 354
+          },
+          {
+            "American Indian": 35
+          },
+          {
+            "Native Hawaiian": 5
+          },
+          {
+            "Mixed race": 206
+          },
+          {
+            "Other race": 341
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,118 +1,1609 @@
 {
   "rules": [
     {
-        "match": {
-            "common.geography.country.name": "USA"
-        },
-        "produce": {
-            "common.geography.country.fullName": "United States of America",
-            "common.geography.state.name": [
-                "District of Columbia",
-                "Alabama",
-                "Alaska",
-                "Arizona",
-                "Arkansas",
-                "California",
-                "Colorado",
-                "Connecticut",
-                "Delaware",
-                "Florida",
-                "Georgia",
-                "Hawaii",
-                "Idaho",
-                "Illinois",
-                "Indiana",
-                "Iowa",
-                "Kansas",
-                "Kentucky",
-                "Louisiana",
-                "Maine",
-                "Maryland",
-                "Massachusetts",
-                "Michigan",
-                "Minnesota",
-                "Mississippi",
-                "Missouri",
-                "Montana",
-                "Nebraska",
-                "Nevada",
-                "New Hampshire",
-                "New Jersey",
-                "New Mexico",
-                "New York",
-                "North Carolina",
-                "North Dakota",
-                "Ohio",
-                "Oklahoma",
-                "Oregon",
-                "Pennsylvania",
-                "Rhode Island",
-                "South Carolina",
-                "South Dakota",
-                "Tennessee",
-                "Texas",
-                "Utah",
-                "Vermont",
-                "Virginia",
-                "Washington",
-                "West Virginia",
-                "Wisconsin",
-                "Wyoming"
-            ],
-            "common.geography.state.code": [
-                "DC",
-                "AL",
-                "AK",
-                "AZ",
-                "AR",
-                "CA",
-                "CO",
-                "CT",
-                "DE",
-                "FL",
-                "GA",
-                "HI",
-                "ID",
-                "IL",
-                "IN",
-                "IA",
-                "KS",
-                "KY",
-                "LA",
-                "ME",
-                "MD",
-                "MA",
-                "MI",
-                "MN",
-                "MS",
-                "MO",
-                "MT",
-                "NE",
-                "NV",
-                "NH",
-                "NJ",
-                "NM",
-                "NY",
-                "NC",
-                "ND",
-                "OH",
-                "OK",
-                "OR",
-                "PA",
-                "RI",
-                "SC",
-                "SD",
-                "TN",
-                "TX",
-                "UT",
-                "VT",
-                "VA",
-                "WA",
-                "WV",
-                "WI",
-                "WY"
-            ]
-        }
+      "match": {
+        "common.geography.country.name": "USA"
+      },
+      "produce": {
+        "common.geography.country.fullName": "United States of America",
+        "common.geography.state.name": [
+          "District of Columbia",
+          "Alabama",
+          "Alaska",
+          "Arizona",
+          "Arkansas",
+          "California",
+          "Colorado",
+          "Connecticut",
+          "Delaware",
+          "Florida",
+          "Georgia",
+          "Hawaii",
+          "Idaho",
+          "Illinois",
+          "Indiana",
+          "Iowa",
+          "Kansas",
+          "Kentucky",
+          "Louisiana",
+          "Maine",
+          "Maryland",
+          "Massachusetts",
+          "Michigan",
+          "Minnesota",
+          "Mississippi",
+          "Missouri",
+          "Montana",
+          "Nebraska",
+          "Nevada",
+          "New Hampshire",
+          "New Jersey",
+          "New Mexico",
+          "New York",
+          "North Carolina",
+          "North Dakota",
+          "Ohio",
+          "Oklahoma",
+          "Oregon",
+          "Pennsylvania",
+          "Rhode Island",
+          "South Carolina",
+          "South Dakota",
+          "Tennessee",
+          "Texas",
+          "Utah",
+          "Vermont",
+          "Virginia",
+          "Washington",
+          "West Virginia",
+          "Wisconsin",
+          "Wyoming"
+        ],
+        "common.geography.state.code": [
+          "DC",
+          "AL",
+          "AK",
+          "AZ",
+          "AR",
+          "CA",
+          "CO",
+          "CT",
+          "DE",
+          "FL",
+          "GA",
+          "HI",
+          "ID",
+          "IL",
+          "IN",
+          "IA",
+          "KS",
+          "KY",
+          "LA",
+          "ME",
+          "MD",
+          "MA",
+          "MI",
+          "MN",
+          "MS",
+          "MO",
+          "MT",
+          "NE",
+          "NV",
+          "NH",
+          "NJ",
+          "NM",
+          "NY",
+          "NC",
+          "ND",
+          "OH",
+          "OK",
+          "OR",
+          "PA",
+          "RI",
+          "SC",
+          "SD",
+          "TN",
+          "TX",
+          "UT",
+          "VT",
+          "VA",
+          "WA",
+          "WV",
+          "WI",
+          "WY"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DC"
+      },
+      "produce": {
+        "common.geography.state.name": "District of Columbia"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "District of Columbia"
+      },
+      "produce": {
+        "common.geography.state.code": "DC",
+        "common.geography.state.nickname": "D.C.",
+        "common.geography.state.capital": "Washington, DC",
+        "common.geography.state.largestCity": "Washington, DC",
+        "common.geography.state.population": "646449",
+        "common.geography.state.area": "61",
+        "common.geography.state.borderingStates": [
+          "Virginia",
+          "Maryland"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "AL"
+      },
+      "produce": {
+        "common.geography.state.name": "Alabama"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Alabama"
+      },
+      "produce": {
+        "common.geography.state.code": "AL",
+        "common.geography.state.nickname": "Yellowhammer State",
+        "common.geography.state.capital": "Montgomery, AL",
+        "common.geography.state.largestCity": "Birmingham, AL",
+        "common.geography.state.population": "4833722",
+        "common.geography.state.area": "52419",
+        "common.geography.state.borderingStates": [
+          "Florida",
+          "Georgia",
+          "Mississippi",
+          "Tennessee"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "AK"
+      },
+      "produce": {
+        "common.geography.state.name": "Alaska"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Alaska"
+      },
+      "produce": {
+        "common.geography.state.code": "AK",
+        "common.geography.state.nickname": "The Last Frontier",
+        "common.geography.state.capital": "Juneau, AK",
+        "common.geography.state.largestCity": "Anchorage, AK",
+        "common.geography.state.population": "735132",
+        "common.geography.state.area": "663268",
+        "common.geography.state.borderingStates": []
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "AZ"
+      },
+      "produce": {
+        "common.geography.state.name": "Arizona"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Arizona"
+      },
+      "produce": {
+        "common.geography.state.code": "AZ",
+        "common.geography.state.nickname": "The Grand Canyon State",
+        "common.geography.state.capital": "Phoenix, AZ",
+        "common.geography.state.largestCity": "Phoenix, AZ",
+        "common.geography.state.population": "6626624",
+        "common.geography.state.area": "113998",
+        "common.geography.state.borderingStates": [
+          "California",
+          "Nevada",
+          "Utah",
+          "Colorado",
+          "New Mexico"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "AR"
+      },
+      "produce": {
+        "common.geography.state.name": "Arkansas"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Arkansas"
+      },
+      "produce": {
+        "common.geography.state.code": "AR",
+        "common.geography.state.nickname": "The Natural State",
+        "common.geography.state.capital": "Little Rock, AR",
+        "common.geography.state.largestCity": "Little Rock, AR",
+        "common.geography.state.population": "2959373",
+        "common.geography.state.area": "53179",
+        "common.geography.state.borderingStates": [
+          "Louisiana",
+          "Texas",
+          "Oklahoma",
+          "Missouri",
+          "Tennessee",
+          "Mississippi"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "CA"
+      },
+      "produce": {
+        "common.geography.state.name": "California"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "California"
+      },
+      "produce": {
+        "common.geography.state.code": "CA",
+        "common.geography.state.nickname": "The Golden State",
+        "common.geography.state.capital": "Sacramento, CA",
+        "common.geography.state.largestCity": "Los Angeles, CA",
+        "common.geography.state.population": "38332521",
+        "common.geography.state.area": "163696",
+        "common.geography.state.borderingStates": [
+          "Oregon",
+          "Nevada",
+          "Arizona"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "CO"
+      },
+      "produce": {
+        "common.geography.state.name": "Colorado"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Colorado"
+      },
+      "produce": {
+        "common.geography.state.code": "CO",
+        "common.geography.state.nickname": "The Centennial State",
+        "common.geography.state.capital": "Denver, CO",
+        "common.geography.state.largestCity": "Denver, CO",
+        "common.geography.state.population": "5268367",
+        "common.geography.state.area": "104185",
+        "common.geography.state.borderingStates": [
+          "Arizona",
+          "Utah",
+          "Wyoming",
+          "Nebraska",
+          "Kansas",
+          "Oklahoma",
+          "New Mexico"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "CT"
+      },
+      "produce": {
+        "common.geography.state.name": "Connecticut"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Connecticut"
+      },
+      "produce": {
+        "common.geography.state.code": "CT",
+        "common.geography.state.nickname": "The Constitution State",
+        "common.geography.state.capital": "Hartford, CT",
+        "common.geography.state.largestCity": "Bridgeport, CT",
+        "common.geography.state.population": "3596080",
+        "common.geography.state.area": "5543",
+        "common.geography.state.borderingStates": [
+          "New York",
+          "Massachusetts",
+          "Rhode Island"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "DE"
+      },
+      "produce": {
+        "common.geography.state.name": "Delaware"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Delaware"
+      },
+      "produce": {
+        "common.geography.state.code": "DE",
+        "common.geography.state.nickname": "The First State",
+        "common.geography.state.capital": "Dover, DE",
+        "common.geography.state.largestCity": "Wilmington, DE",
+        "common.geography.state.population": "925749",
+        "common.geography.state.area": "2490",
+        "common.geography.state.borderingStates": [
+          "Maryland",
+          "Pennsylvania",
+          "New Jersey"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "FL"
+      },
+      "produce": {
+        "common.geography.state.name": "Florida"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Florida"
+      },
+      "produce": {
+        "common.geography.state.code": "FL",
+        "common.geography.state.nickname": "The Sunshine State",
+        "common.geography.state.capital": "Tallahassee, FL",
+        "common.geography.state.largestCity": "Jacksonville, FL",
+        "common.geography.state.population": "19552860",
+        "common.geography.state.area": "65795",
+        "common.geography.state.borderingStates": [
+          "Georgia",
+          "Alabama"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "GA"
+      },
+      "produce": {
+        "common.geography.state.name": "Georgia"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Georgia"
+      },
+      "produce": {
+        "common.geography.state.code": "GA",
+        "common.geography.state.nickname": "The Peach State",
+        "common.geography.state.capital": "Atlanta, GA",
+        "common.geography.state.largestCity": "Atlanta, GA",
+        "common.geography.state.population": "9992167",
+        "common.geography.state.area": "59425",
+        "common.geography.state.borderingStates": [
+          "South Carolina",
+          "Florida",
+          "Alabama",
+          "Tennessee",
+          "North Carolina"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI"
+      },
+      "produce": {
+        "common.geography.state.name": "Hawaii"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Hawaii"
+      },
+      "produce": {
+        "common.geography.state.code": "HI",
+        "common.geography.state.nickname": "The Aloha State",
+        "common.geography.state.capital": "Honolulu, HI",
+        "common.geography.state.largestCity": "Honolulu, HI",
+        "common.geography.state.population": "1404054",
+        "common.geography.state.area": "10931",
+        "common.geography.state.borderingStates": []
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "ID"
+      },
+      "produce": {
+        "common.geography.state.name": "Idaho"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Idaho"
+      },
+      "produce": {
+        "common.geography.state.code": "ID",
+        "common.geography.state.nickname": "The Gem State",
+        "common.geography.state.capital": "Boise, ID",
+        "common.geography.state.largestCity": "Boise, ID",
+        "common.geography.state.population": "1612136",
+        "common.geography.state.area": "83642",
+        "common.geography.state.borderingStates": [
+          "Montana",
+          "Washington",
+          "Oregon",
+          "Wyoming",
+          "Nevada",
+          "Utah"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "IL"
+      },
+      "produce": {
+        "common.geography.state.name": "Illinois"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Illinois"
+      },
+      "produce": {
+        "common.geography.state.code": "IL",
+        "common.geography.state.nickname": "Prairie State",
+        "common.geography.state.capital": "Springfield, IL",
+        "common.geography.state.largestCity": "Chicago, IL",
+        "common.geography.state.population": "12882135",
+        "common.geography.state.area": "57918",
+        "common.geography.state.borderingStates": [
+          "Wisconsin",
+          "Iowa",
+          "Missouri",
+          "Kentucky",
+          "Indiana"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "IN"
+      },
+      "produce": {
+        "common.geography.state.name": "Indiana"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Indiana"
+      },
+      "produce": {
+        "common.geography.state.code": "IN",
+        "common.geography.state.nickname": "The Hoosier State",
+        "common.geography.state.capital": "Indianapolis, IN",
+        "common.geography.state.largestCity": "Indianapolis, IN",
+        "common.geography.state.population": "6570902",
+        "common.geography.state.area": "36418",
+        "common.geography.state.borderingStates": [
+          "Michigan",
+          "Illinois",
+          "Kentucky",
+          "Ohio"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "IA"
+      },
+      "produce": {
+        "common.geography.state.name": "Iowa"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Iowa"
+      },
+      "produce": {
+        "common.geography.state.code": "IA",
+        "common.geography.state.nickname": "The Hawkeye State",
+        "common.geography.state.capital": "Des Moines, IA",
+        "common.geography.state.largestCity": "Des Moines, IA",
+        "common.geography.state.population": "3090416",
+        "common.geography.state.area": "56272",
+        "common.geography.state.borderingStates": [
+          "Minnesota",
+          "South Dakota",
+          "Nebraska",
+          "Missouri",
+          "Illinois",
+          "Wisconsin"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "KS"
+      },
+      "produce": {
+        "common.geography.state.name": "Kansas"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Kansas"
+      },
+      "produce": {
+        "common.geography.state.code": "KS",
+        "common.geography.state.nickname": "The Sunflower State",
+        "common.geography.state.capital": "Topeka, KS",
+        "common.geography.state.largestCity": "Wichita, KS",
+        "common.geography.state.population": "2893957",
+        "common.geography.state.area": "82277",
+        "common.geography.state.borderingStates": [
+          "Nebraska",
+          "Colorado",
+          "Oklahoma",
+          "Missouri"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "KY"
+      },
+      "produce": {
+        "common.geography.state.name": "Kentucky"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Kentucky"
+      },
+      "produce": {
+        "common.geography.state.code": "KY",
+        "common.geography.state.nickname": "The Bluegrass State",
+        "common.geography.state.capital": "Frankfort, KY",
+        "common.geography.state.largestCity": "Louisville, KY",
+        "common.geography.state.population": "4395295",
+        "common.geography.state.area": "40409",
+        "common.geography.state.borderingStates": [
+          "Illinois",
+          "Indiana",
+          "Missouri",
+          "Ohio",
+          "Tennessee",
+          "Virginia",
+          "West Virginia"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "LA"
+      },
+      "produce": {
+        "common.geography.state.name": "Louisiana"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Louisiana"
+      },
+      "produce": {
+        "common.geography.state.code": "LA",
+        "common.geography.state.nickname": "The Pelican State",
+        "common.geography.state.capital": "Baton Rouge, LA",
+        "common.geography.state.largestCity": "New Orleans, LA",
+        "common.geography.state.population": "4625470",
+        "common.geography.state.area": "51885",
+        "common.geography.state.borderingStates": [
+          "Arkansas",
+          "Mississippi",
+          "Texas"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "ME"
+      },
+      "produce": {
+        "common.geography.state.name": "Maine"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Maine"
+      },
+      "produce": {
+        "common.geography.state.code": "ME",
+        "common.geography.state.nickname": "The Pine Tree State",
+        "common.geography.state.capital": "Augusta, ME",
+        "common.geography.state.largestCity": "Portland, ME",
+        "common.geography.state.population": "1328302",
+        "common.geography.state.area": "35385",
+        "common.geography.state.borderingStates": [
+          "New Hampshire"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "MD"
+      },
+      "produce": {
+        "common.geography.state.name": "Maryland"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Maryland"
+      },
+      "produce": {
+        "common.geography.state.code": "MD",
+        "common.geography.state.nickname": "The Old Line State",
+        "common.geography.state.capital": "Annapolis, MD",
+        "common.geography.state.largestCity": "Baltimore, MD",
+        "common.geography.state.population": "5928814",
+        "common.geography.state.area": "12407",
+        "common.geography.state.borderingStates": [
+          "Delaware",
+          "Pennsylvania",
+          "Virginia",
+          "West Virginia"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "MA"
+      },
+      "produce": {
+        "common.geography.state.name": "Massachusetts"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Massachusetts"
+      },
+      "produce": {
+        "common.geography.state.code": "MA",
+        "common.geography.state.nickname": "The Bay State",
+        "common.geography.state.capital": "Boston, MA",
+        "common.geography.state.largestCity": "Boston, MA",
+        "common.geography.state.population": "6692824",
+        "common.geography.state.area": "10555",
+        "common.geography.state.borderingStates": [
+          "Connecticut",
+          "New Hampshire",
+          "New York",
+          "Rhode Island",
+          "Vermont"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "MI"
+      },
+      "produce": {
+        "common.geography.state.name": "Michigan"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Michigan"
+      },
+      "produce": {
+        "common.geography.state.code": "MI",
+        "common.geography.state.nickname": "The Great Lakes State",
+        "common.geography.state.capital": "Lansing, MI",
+        "common.geography.state.largestCity": "Detroit, MI",
+        "common.geography.state.population": "9895622",
+        "common.geography.state.area": "97990",
+        "common.geography.state.borderingStates": [
+          "Indiana",
+          "Ohio",
+          "Wisconsin"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "MN"
+      },
+      "produce": {
+        "common.geography.state.name": "Minnesota"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Minnesota"
+      },
+      "produce": {
+        "common.geography.state.code": "MN",
+        "common.geography.state.nickname": "The North Star State",
+        "common.geography.state.capital": "St. Paul, MN",
+        "common.geography.state.largestCity": "Minneapolis, MN",
+        "common.geography.state.population": "5420380",
+        "common.geography.state.area": "86943",
+        "common.geography.state.borderingStates": [
+          "Iowa",
+          "North Dakota",
+          "South Dakota",
+          "Wisconsin"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "MS"
+      },
+      "produce": {
+        "common.geography.state.name": "Mississippi"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Mississippi"
+      },
+      "produce": {
+        "common.geography.state.code": "MS",
+        "common.geography.state.nickname": "The Magnolia State",
+        "common.geography.state.capital": "Jackson, MS",
+        "common.geography.state.largestCity": "Jackson, MS",
+        "common.geography.state.population": "2991207",
+        "common.geography.state.area": "48430",
+        "common.geography.state.borderingStates": [
+          "Alabama",
+          "Arkansas",
+          "Louisiana",
+          "Tennessee"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "MO"
+      },
+      "produce": {
+        "common.geography.state.name": "Missouri"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Missouri"
+      },
+      "produce": {
+        "common.geography.state.code": "MO",
+        "common.geography.state.nickname": "The Show Me State",
+        "common.geography.state.capital": "Jefferson City, MO",
+        "common.geography.state.largestCity": "Kansas City, MO",
+        "common.geography.state.population": "6044171",
+        "common.geography.state.area": "69704",
+        "common.geography.state.borderingStates": [
+          "Iowa",
+          "Illinois",
+          "Kentucky",
+          "Tennessee",
+          "Arkansas",
+          "Oklahoma",
+          "Kansas",
+          "Nebraska"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "MT"
+      },
+      "produce": {
+        "common.geography.state.name": "Montana"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Montana"
+      },
+      "produce": {
+        "common.geography.state.code": "MT",
+        "common.geography.state.nickname": "The Treasure State",
+        "common.geography.state.capital": "Helena, MT",
+        "common.geography.state.largestCity": "Billings, MT",
+        "common.geography.state.population": "1015165",
+        "common.geography.state.area": "147165",
+        "common.geography.state.borderingStates": [
+          "North Dakota",
+          "South Dakota",
+          "Wyoming",
+          "Idaho"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NE"
+      },
+      "produce": {
+        "common.geography.state.name": "Nebraska"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Nebraska"
+      },
+      "produce": {
+        "common.geography.state.code": "NE",
+        "common.geography.state.nickname": "The Cornhusker State",
+        "common.geography.state.capital": "Lincoln, NE",
+        "common.geography.state.largestCity": "Omaha, NE",
+        "common.geography.state.population": "1868516",
+        "common.geography.state.area": "77421",
+        "common.geography.state.borderingStates": [
+          "Iowa",
+          "Missouri",
+          "Kansas",
+          "Colorado",
+          "Wyoming",
+          "South Dakota"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV"
+      },
+      "produce": {
+        "common.geography.state.name": "Nevada"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Nevada"
+      },
+      "produce": {
+        "common.geography.state.code": "NV",
+        "common.geography.state.nickname": "The Silver State",
+        "common.geography.state.capital": "Carson City, NV",
+        "common.geography.state.largestCity": "Las Vegas, NV",
+        "common.geography.state.population": "2790136",
+        "common.geography.state.area": "110567",
+        "common.geography.state.borderingStates": [
+          "California",
+          "Oregon",
+          "Idaho",
+          "Utah",
+          "Arizona"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NH"
+      },
+      "produce": {
+        "common.geography.state.name": "New Hampshire"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "New Hampshire"
+      },
+      "produce": {
+        "common.geography.state.code": "NH",
+        "common.geography.state.nickname": "The Granite State",
+        "common.geography.state.capital": "Concord, NH",
+        "common.geography.state.largestCity": "Manchester, NH",
+        "common.geography.state.population": "1323459",
+        "common.geography.state.area": "9350",
+        "common.geography.state.borderingStates": [
+          "Vermont",
+          "Massachusetts",
+          "Maine"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NJ"
+      },
+      "produce": {
+        "common.geography.state.name": "New Jersey"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "New Jersey"
+      },
+      "produce": {
+        "common.geography.state.code": "NJ",
+        "common.geography.state.nickname": "The Garden State",
+        "common.geography.state.capital": "Trenton, NJ",
+        "common.geography.state.largestCity": "Newark, NJ",
+        "common.geography.state.population": "8899339",
+        "common.geography.state.area": "8729",
+        "common.geography.state.borderingStates": [
+          "Delaware",
+          "Pennsylvania",
+          "New York"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NM"
+      },
+      "produce": {
+        "common.geography.state.name": "New Mexico"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "New Mexico"
+      },
+      "produce": {
+        "common.geography.state.code": "NM",
+        "common.geography.state.nickname": "The Land of Enchantment",
+        "common.geography.state.capital": "Santa Fe, NM",
+        "common.geography.state.largestCity": "Albuquerque, NM",
+        "common.geography.state.population": "2085287",
+        "common.geography.state.area": "121665",
+        "common.geography.state.borderingStates": [
+          "Texas",
+          "Oklahoma",
+          "Colorado",
+          "Utah",
+          "Arizona"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NY"
+      },
+      "produce": {
+        "common.geography.state.name": "New York"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "New York"
+      },
+      "produce": {
+        "common.geography.state.code": "NY",
+        "common.geography.state.nickname": "The Empire State",
+        "common.geography.state.capital": "Albany, NY",
+        "common.geography.state.largestCity": "New York, NY",
+        "common.geography.state.population": "19651127",
+        "common.geography.state.area": "54555",
+        "common.geography.state.borderingStates": [
+          "New Jersey",
+          "Pennsylvania",
+          "Connecticut",
+          "Massachusetts",
+          "Vermont",
+          "Rhode Island"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NC"
+      },
+      "produce": {
+        "common.geography.state.name": "North Carolina"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "North Carolina"
+      },
+      "produce": {
+        "common.geography.state.code": "NC",
+        "common.geography.state.nickname": "The Tar Heel State",
+        "common.geography.state.capital": "Raleigh, NC",
+        "common.geography.state.largestCity": "Charlotte, NC",
+        "common.geography.state.population": "9848060",
+        "common.geography.state.area": "53865",
+        "common.geography.state.borderingStates": [
+          "Virginia",
+          "Tennessee",
+          "South Carolina",
+          "Georgia"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "ND"
+      },
+      "produce": {
+        "common.geography.state.name": "North Dakota"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "North Dakota"
+      },
+      "produce": {
+        "common.geography.state.code": "ND",
+        "common.geography.state.nickname": "The Peace Garden State",
+        "common.geography.state.capital": "Bismarck, ND",
+        "common.geography.state.largestCity": "Fargo, ND",
+        "common.geography.state.population": "723393",
+        "common.geography.state.area": "70762",
+        "common.geography.state.borderingStates": [
+          "Montana",
+          "South Dakota",
+          "Minnesota"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "OH"
+      },
+      "produce": {
+        "common.geography.state.name": "Ohio"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Ohio"
+      },
+      "produce": {
+        "common.geography.state.code": "OH",
+        "common.geography.state.nickname": "The Buckeye State",
+        "common.geography.state.capital": "Columbus, OH",
+        "common.geography.state.largestCity": "Columbus, OH",
+        "common.geography.state.population": "11570808",
+        "common.geography.state.area": "44825",
+        "common.geography.state.borderingStates": [
+          "Michigan",
+          "Indiana",
+          "Kentucky",
+          "West Virginia",
+          "Pennsylvania"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "OK"
+      },
+      "produce": {
+        "common.geography.state.name": "Oklahoma"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Oklahoma"
+      },
+      "produce": {
+        "common.geography.state.code": "OK",
+        "common.geography.state.nickname": "The Sooner State",
+        "common.geography.state.capital": "Oklahoma City, OK",
+        "common.geography.state.largestCity": "Oklahoma City, OK",
+        "common.geography.state.population": "3850568",
+        "common.geography.state.area": "69898",
+        "common.geography.state.borderingStates": [
+          "Kansas",
+          "Missouri",
+          "Arkansas",
+          "Texas",
+          "New Mexico",
+          "Colorado"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "OR"
+      },
+      "produce": {
+        "common.geography.state.name": "Oregon"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Oregon"
+      },
+      "produce": {
+        "common.geography.state.code": "OR",
+        "common.geography.state.nickname": "The Beaver State",
+        "common.geography.state.capital": "Salem, OR",
+        "common.geography.state.largestCity": "Portland, OR",
+        "common.geography.state.population": "3930065",
+        "common.geography.state.area": "98466",
+        "common.geography.state.borderingStates": [
+          "Washington",
+          "Idaho",
+          "Nevada",
+          "California"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "PA"
+      },
+      "produce": {
+        "common.geography.state.name": "Pennsylvania"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Pennsylvania"
+      },
+      "produce": {
+        "common.geography.state.code": "PA",
+        "common.geography.state.nickname": "The Keystone State",
+        "common.geography.state.capital": "Harrisburg, PA",
+        "common.geography.state.largestCity": "Philadelphia, PA",
+        "common.geography.state.population": "12773801",
+        "common.geography.state.area": "46055",
+        "common.geography.state.borderingStates": [
+          "New York",
+          "New Jersey",
+          "Delaware",
+          "Maryland",
+          "West Virginia",
+          "Ohio"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "RI"
+      },
+      "produce": {
+        "common.geography.state.name": "Rhode Island"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Rhode Island"
+      },
+      "produce": {
+        "common.geography.state.code": "RI",
+        "common.geography.state.nickname": "The Ocean State",
+        "common.geography.state.capital": "Providence, RI",
+        "common.geography.state.largestCity": "Providence, RI",
+        "common.geography.state.population": "1051511",
+        "common.geography.state.area": "1545",
+        "common.geography.state.borderingStates": [
+          "Massachusetts",
+          "Connecticut",
+          "New York"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "SC"
+      },
+      "produce": {
+        "common.geography.state.name": "South Carolina"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "South Carolina"
+      },
+      "produce": {
+        "common.geography.state.code": "SC",
+        "common.geography.state.nickname": "The Palmetto State",
+        "common.geography.state.capital": "Columbia, SC",
+        "common.geography.state.largestCity": "Columbia, SC",
+        "common.geography.state.population": "4774839",
+        "common.geography.state.area": "32020",
+        "common.geography.state.borderingStates": [
+          "North Carolina",
+          "Georgia"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "SD"
+      },
+      "produce": {
+        "common.geography.state.name": "South Dakota"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "South Dakota"
+      },
+      "produce": {
+        "common.geography.state.code": "SD",
+        "common.geography.state.nickname": "Mount Rushmore State",
+        "common.geography.state.capital": "Pierre, SD",
+        "common.geography.state.largestCity": "Sioux Falls, SD",
+        "common.geography.state.population": "844877",
+        "common.geography.state.area": "77116",
+        "common.geography.state.borderingStates": [
+          "North Dakota",
+          "Minnesota",
+          "Iowa",
+          "Nebraska",
+          "Wyoming",
+          "Montana"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "TN"
+      },
+      "produce": {
+        "common.geography.state.name": "Tennessee"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Tennessee"
+      },
+      "produce": {
+        "common.geography.state.code": "TN",
+        "common.geography.state.nickname": "The Volunteer State",
+        "common.geography.state.capital": "Nashville, TN",
+        "common.geography.state.largestCity": "Memphis, TN",
+        "common.geography.state.population": "6495978",
+        "common.geography.state.area": "42169",
+        "common.geography.state.borderingStates": [
+          "Kentucky",
+          "Virginia",
+          "North Carolina",
+          "Georgia",
+          "Alabama",
+          "Mississippi",
+          "Arkansas",
+          "Missouri"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "TX"
+      },
+      "produce": {
+        "common.geography.state.name": "Texas"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Texas"
+      },
+      "produce": {
+        "common.geography.state.code": "TX",
+        "common.geography.state.nickname": "The Lone Star State",
+        "common.geography.state.capital": "Austin, TX",
+        "common.geography.state.largestCity": "Houston, TX",
+        "common.geography.state.population": "26448193",
+        "common.geography.state.area": "268820",
+        "common.geography.state.borderingStates": [
+          "New Mexico",
+          "Oklahoma",
+          "Arkansas",
+          "Louisiana"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "UT"
+      },
+      "produce": {
+        "common.geography.state.name": "Utah"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Utah"
+      },
+      "produce": {
+        "common.geography.state.code": "UT",
+        "common.geography.state.nickname": "The Beehive State",
+        "common.geography.state.capital": "Salt Lake City, UT",
+        "common.geography.state.largestCity": "Salt Lake City, UT",
+        "common.geography.state.population": "2900872",
+        "common.geography.state.area": "84889",
+        "common.geography.state.borderingStates": [
+          "Arizona",
+          "New Mexico",
+          "Nevada",
+          "Idaho",
+          "Wyoming",
+          "Colorado"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VT"
+      },
+      "produce": {
+        "common.geography.state.name": "Vermont"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Vermont"
+      },
+      "produce": {
+        "common.geography.state.code": "VT",
+        "common.geography.state.nickname": "The Green Mountain State",
+        "common.geography.state.capital": "Montpelier, VT",
+        "common.geography.state.largestCity": "Burlington, VT",
+        "common.geography.state.population": "626630",
+        "common.geography.state.area": "9620",
+        "common.geography.state.borderingStates": [
+          "New York",
+          "New Hampshire",
+          "Massachusetts"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "VA"
+      },
+      "produce": {
+        "common.geography.state.name": "Virginia"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Virginia"
+      },
+      "produce": {
+        "common.geography.state.code": "VA",
+        "common.geography.state.nickname": "The Old Dominion State",
+        "common.geography.state.capital": "Richmond, VA",
+        "common.geography.state.largestCity": "Virginia Beach, VA",
+        "common.geography.state.population": "8260405",
+        "common.geography.state.area": "42774",
+        "common.geography.state.borderingStates": [
+          "Maryland",
+          "West Virginia",
+          "Kentucky",
+          "Tennessee",
+          "North Carolina"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WA"
+      },
+      "produce": {
+        "common.geography.state.name": "Washington"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Washington"
+      },
+      "produce": {
+        "common.geography.state.code": "WA",
+        "common.geography.state.nickname": "The Evergreen State",
+        "common.geography.state.capital": "Olympia, WA",
+        "common.geography.state.largestCity": "Seattle, WA",
+        "common.geography.state.population": "6971406",
+        "common.geography.state.area": "71342",
+        "common.geography.state.borderingStates": [
+          "Idaho",
+          "Oregon"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WV"
+      },
+      "produce": {
+        "common.geography.state.name": "West Virginia"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "West Virginia"
+      },
+      "produce": {
+        "common.geography.state.code": "WV",
+        "common.geography.state.nickname": "The Mountain State",
+        "common.geography.state.capital": "Charleston, WV",
+        "common.geography.state.largestCity": "Charleston, WV",
+        "common.geography.state.population": "1854304",
+        "common.geography.state.area": "24230",
+        "common.geography.state.borderingStates": [
+          "Maryland",
+          "Virginia",
+          "Kentucky",
+          "Ohio",
+          "Pennsylvania"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WI"
+      },
+      "produce": {
+        "common.geography.state.name": "Wisconsin"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Wisconsin"
+      },
+      "produce": {
+        "common.geography.state.code": "WI",
+        "common.geography.state.nickname": "The Badger State",
+        "common.geography.state.capital": "Madison, WI",
+        "common.geography.state.largestCity": "Milwaukee, WI",
+        "common.geography.state.population": "5742713",
+        "common.geography.state.area": "65498",
+        "common.geography.state.borderingStates": [
+          "Minnesota",
+          "Iowa",
+          "Illinois",
+          "Michigan"
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "WY"
+      },
+      "produce": {
+        "common.geography.state.name": "Wyoming"
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.name": "Wyoming"
+      },
+      "produce": {
+        "common.geography.state.code": "WY",
+        "common.geography.state.nickname": "The Equality or Cowboy State",
+        "common.geography.state.capital": "Cheyenne, WY",
+        "common.geography.state.largestCity": "Cheyenne, WY",
+        "common.geography.state.population": "582658",
+        "common.geography.state.area": "97818",
+        "common.geography.state.borderingStates": [
+          "Montana",
+          "South Dakota",
+          "Nebraska",
+          "Colorado",
+          "Utah",
+          "Idaho"
+        ]
+      }
     }
   ]
 }

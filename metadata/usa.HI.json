@@ -1,0 +1,7256 @@
+{
+  "rules": [
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Honolulu"
+      },
+      "produce": {
+        "common.geography.city.population": "341727",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1798
+          },
+          {
+            "African American": 161
+          },
+          {
+            "Asian": 5506
+          },
+          {
+            "American Indian": 16
+          },
+          {
+            "Native Hawaiian": 803
+          },
+          {
+            "Mixed race": 1653
+          },
+          {
+            "Other race": 61
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "East Honolulu"
+      },
+      "produce": {
+        "common.geography.city.population": "49242",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2756
+          },
+          {
+            "African American": 56
+          },
+          {
+            "Asian": 5061
+          },
+          {
+            "American Indian": 18
+          },
+          {
+            "Native Hawaiian": 212
+          },
+          {
+            "Mixed race": 1855
+          },
+          {
+            "Other race": 41
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waipahu"
+      },
+      "produce": {
+        "common.geography.city.population": "40531",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 454
+          },
+          {
+            "African American": 64
+          },
+          {
+            "Asian": 6501
+          },
+          {
+            "American Indian": 6
+          },
+          {
+            "Native Hawaiian": 1563
+          },
+          {
+            "Mixed race": 1336
+          },
+          {
+            "Other race": 75
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Pearl City"
+      },
+      "produce": {
+        "common.geography.city.population": "47075",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1501
+          },
+          {
+            "African American": 191
+          },
+          {
+            "Asian": 5215
+          },
+          {
+            "American Indian": 20
+          },
+          {
+            "Native Hawaiian": 442
+          },
+          {
+            "Mixed race": 2448
+          },
+          {
+            "Other race": 182
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kailua"
+      },
+      "produce": {
+        "common.geography.city.population": "39693",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4441
+          },
+          {
+            "African American": 66
+          },
+          {
+            "Asian": 2070
+          },
+          {
+            "American Indian": 27
+          },
+          {
+            "Native Hawaiian": 685
+          },
+          {
+            "Mixed race": 2660
+          },
+          {
+            "Other race": 53
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Hilo"
+      },
+      "produce": {
+        "common.geography.city.population": "45158",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1771
+          },
+          {
+            "African American": 50
+          },
+          {
+            "Asian": 3496
+          },
+          {
+            "American Indian": 30
+          },
+          {
+            "Native Hawaiian": 1372
+          },
+          {
+            "Mixed race": 3236
+          },
+          {
+            "Other race": 46
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Mililani Town"
+      },
+      "produce": {
+        "common.geography.city.population": "28115",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1807
+          },
+          {
+            "African American": 237
+          },
+          {
+            "Asian": 4428
+          },
+          {
+            "American Indian": 13
+          },
+          {
+            "Native Hawaiian": 404
+          },
+          {
+            "Mixed race": 3014
+          },
+          {
+            "Other race": 96
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kaneohe"
+      },
+      "produce": {
+        "common.geography.city.population": "34030",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2142
+          },
+          {
+            "African American": 88
+          },
+          {
+            "Asian": 3690
+          },
+          {
+            "American Indian": 16
+          },
+          {
+            "Native Hawaiian": 1032
+          },
+          {
+            "Mixed race": 2929
+          },
+          {
+            "Other race": 104
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Ewa Gentry"
+      },
+      "produce": {
+        "common.geography.city.population": "22683",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1968
+          },
+          {
+            "African American": 317
+          },
+          {
+            "Asian": 4054
+          },
+          {
+            "American Indian": 15
+          },
+          {
+            "Native Hawaiian": 601
+          },
+          {
+            "Mixed race": 2883
+          },
+          {
+            "Other race": 162
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kahului"
+      },
+      "produce": {
+        "common.geography.city.population": "26072",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1032
+          },
+          {
+            "African American": 19
+          },
+          {
+            "Asian": 5005
+          },
+          {
+            "American Indian": 17
+          },
+          {
+            "Native Hawaiian": 1051
+          },
+          {
+            "Mixed race": 2728
+          },
+          {
+            "Other race": 148
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Mililani Mauka"
+      },
+      "produce": {
+        "common.geography.city.population": "21419",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1822
+          },
+          {
+            "African American": 94
+          },
+          {
+            "Asian": 5207
+          },
+          {
+            "American Indian": 4
+          },
+          {
+            "Native Hawaiian": 466
+          },
+          {
+            "Mixed race": 2343
+          },
+          {
+            "Other race": 63
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kihei"
+      },
+      "produce": {
+        "common.geography.city.population": "21556",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5476
+          },
+          {
+            "African American": 55
+          },
+          {
+            "Asian": 1663
+          },
+          {
+            "American Indian": 37
+          },
+          {
+            "Native Hawaiian": 553
+          },
+          {
+            "Mixed race": 2122
+          },
+          {
+            "Other race": 94
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Wahiawa"
+      },
+      "produce": {
+        "common.geography.city.population": "16545",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1165
+          },
+          {
+            "African American": 105
+          },
+          {
+            "Asian": 4736
+          },
+          {
+            "American Indian": 60
+          },
+          {
+            "Native Hawaiian": 1150
+          },
+          {
+            "Mixed race": 2707
+          },
+          {
+            "Other race": 78
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Makakilo"
+      },
+      "produce": {
+        "common.geography.city.population": "17750",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2432
+          },
+          {
+            "African American": 523
+          },
+          {
+            "Asian": 2963
+          },
+          {
+            "American Indian": 56
+          },
+          {
+            "Native Hawaiian": 1035
+          },
+          {
+            "Mixed race": 2959
+          },
+          {
+            "Other race": 30
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Wailuku"
+      },
+      "produce": {
+        "common.geography.city.population": "15620",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1821
+          },
+          {
+            "African American": 67
+          },
+          {
+            "Asian": 3321
+          },
+          {
+            "American Indian": 3
+          },
+          {
+            "Native Hawaiian": 1006
+          },
+          {
+            "Mixed race": 3686
+          },
+          {
+            "Other race": 94
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Schofield Barracks"
+      },
+      "produce": {
+        "common.geography.city.population": "15962",
+        "common.person.gender": {
+          "male": 140,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6127
+          },
+          {
+            "African American": 1868
+          },
+          {
+            "Asian": 396
+          },
+          {
+            "American Indian": 75
+          },
+          {
+            "Native Hawaiian": 184
+          },
+          {
+            "Mixed race": 816
+          },
+          {
+            "Other race": 535
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Ewa Beach"
+      },
+      "produce": {
+        "common.geography.city.population": "14881",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1100
+          },
+          {
+            "African American": 56
+          },
+          {
+            "Asian": 4702
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 825
+          },
+          {
+            "Mixed race": 3219
+          },
+          {
+            "Other race": 99
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Royal Kunia"
+      },
+      "produce": {
+        "common.geography.city.population": "14952",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1058
+          },
+          {
+            "African American": 250
+          },
+          {
+            "Asian": 5621
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 1083
+          },
+          {
+            "Mixed race": 1963
+          },
+          {
+            "Other race": 25
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kapolei"
+      },
+      "produce": {
+        "common.geography.city.population": "14154",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1389
+          },
+          {
+            "African American": 339
+          },
+          {
+            "Asian": 3799
+          },
+          {
+            "American Indian": 27
+          },
+          {
+            "Native Hawaiian": 1343
+          },
+          {
+            "Mixed race": 3093
+          },
+          {
+            "Other race": 10
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kailua"
+      },
+      "produce": {
+        "common.geography.city.population": "39693",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4441
+          },
+          {
+            "African American": 66
+          },
+          {
+            "Asian": 2070
+          },
+          {
+            "American Indian": 27
+          },
+          {
+            "Native Hawaiian": 685
+          },
+          {
+            "Mixed race": 2660
+          },
+          {
+            "Other race": 53
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waimalu"
+      },
+      "produce": {
+        "common.geography.city.population": "13637",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1789
+          },
+          {
+            "African American": 285
+          },
+          {
+            "Asian": 5077
+          },
+          {
+            "American Indian": 24
+          },
+          {
+            "Native Hawaiian": 432
+          },
+          {
+            "Mixed race": 2322
+          },
+          {
+            "Other race": 72
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Halawa"
+      },
+      "produce": {
+        "common.geography.city.population": "14132",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1084
+          },
+          {
+            "African American": 45
+          },
+          {
+            "Asian": 5557
+          },
+          {
+            "American Indian": 8
+          },
+          {
+            "Native Hawaiian": 914
+          },
+          {
+            "Mixed race": 2368
+          },
+          {
+            "Other race": 24
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waianae"
+      },
+      "produce": {
+        "common.geography.city.population": "12052",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 660
+          },
+          {
+            "African American": 122
+          },
+          {
+            "Asian": 1398
+          },
+          {
+            "American Indian": 27
+          },
+          {
+            "Native Hawaiian": 3713
+          },
+          {
+            "Mixed race": 4003
+          },
+          {
+            "Other race": 77
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Nanakuli"
+      },
+      "produce": {
+        "common.geography.city.population": "12803",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 490
+          },
+          {
+            "African American": 141
+          },
+          {
+            "Asian": 697
+          },
+          {
+            "American Indian": 23
+          },
+          {
+            "Native Hawaiian": 5121
+          },
+          {
+            "Mixed race": 3488
+          },
+          {
+            "Other race": 39
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Lahaina"
+      },
+      "produce": {
+        "common.geography.city.population": "10669",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2892
+          },
+          {
+            "African American": 87
+          },
+          {
+            "Asian": 3672
+          },
+          {
+            "American Indian": 26
+          },
+          {
+            "Native Hawaiian": 684
+          },
+          {
+            "Mixed race": 2587
+          },
+          {
+            "Other race": 51
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waipio"
+      },
+      "produce": {
+        "common.geography.city.population": "11740",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1112
+          },
+          {
+            "African American": 188
+          },
+          {
+            "Asian": 5589
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 437
+          },
+          {
+            "Mixed race": 2526
+          },
+          {
+            "Other race": 147
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kalaoa"
+      },
+      "produce": {
+        "common.geography.city.population": "10078",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4524
+          },
+          {
+            "African American": 25
+          },
+          {
+            "Asian": 1013
+          },
+          {
+            "American Indian": 19
+          },
+          {
+            "Native Hawaiian": 1005
+          },
+          {
+            "Mixed race": 2612
+          },
+          {
+            "Other race": 802
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waihee-Waiehu"
+      },
+      "produce": {
+        "common.geography.city.population": "10248",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 961
+          },
+          {
+            "African American": 3
+          },
+          {
+            "Asian": 3547
+          },
+          {
+            "American Indian": 36
+          },
+          {
+            "Native Hawaiian": 1903
+          },
+          {
+            "Mixed race": 3529
+          },
+          {
+            "Other race": 20
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kaneohe Station"
+      },
+      "produce": {
+        "common.geography.city.population": "9987",
+        "common.person.gender": {
+          "male": 180,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6898
+          },
+          {
+            "African American": 823
+          },
+          {
+            "Asian": 277
+          },
+          {
+            "American Indian": 54
+          },
+          {
+            "Native Hawaiian": 78
+          },
+          {
+            "Mixed race": 1205
+          },
+          {
+            "Other race": 665
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kapaa"
+      },
+      "produce": {
+        "common.geography.city.population": "10031",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3565
+          },
+          {
+            "African American": 25
+          },
+          {
+            "Asian": 3632
+          },
+          {
+            "American Indian": 33
+          },
+          {
+            "Native Hawaiian": 519
+          },
+          {
+            "Mixed race": 2209
+          },
+          {
+            "Other race": 16
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Hawaiian Paradise Park"
+      },
+      "produce": {
+        "common.geography.city.population": "9427",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3261
+          },
+          {
+            "African American": 211
+          },
+          {
+            "Asian": 2556
+          },
+          {
+            "American Indian": 10
+          },
+          {
+            "Native Hawaiian": 2132
+          },
+          {
+            "Mixed race": 1357
+          },
+          {
+            "Other race": 473
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Holualoa"
+      },
+      "produce": {
+        "common.geography.city.population": "9709",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5010
+          },
+          {
+            "African American": 104
+          },
+          {
+            "Asian": 1664
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 438
+          },
+          {
+            "Mixed race": 1451
+          },
+          {
+            "Other race": 1332
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waimea"
+      },
+      "produce": {
+        "common.geography.city.population": "1782",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1891
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 4703
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 3109
+          },
+          {
+            "Mixed race": 297
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Aiea"
+      },
+      "produce": {
+        "common.geography.city.population": "9077",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2127
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 5566
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 259
+          },
+          {
+            "Mixed race": 2032
+          },
+          {
+            "Other race": 15
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Haiku-Pauwela"
+      },
+      "produce": {
+        "common.geography.city.population": "8539",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5622
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 548
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 810
+          },
+          {
+            "Mixed race": 2909
+          },
+          {
+            "Other race": 110
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Ahuimanu"
+      },
+      "produce": {
+        "common.geography.city.population": "8725",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2739
+          },
+          {
+            "African American": 66
+          },
+          {
+            "Asian": 3436
+          },
+          {
+            "American Indian": 56
+          },
+          {
+            "Native Hawaiian": 708
+          },
+          {
+            "Mixed race": 2905
+          },
+          {
+            "Other race": 88
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Makaha"
+      },
+      "produce": {
+        "common.geography.city.population": "8204",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1405
+          },
+          {
+            "African American": 184
+          },
+          {
+            "Asian": 1203
+          },
+          {
+            "American Indian": 80
+          },
+          {
+            "Native Hawaiian": 3051
+          },
+          {
+            "Mixed race": 3954
+          },
+          {
+            "Other race": 121
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Maili"
+      },
+      "produce": {
+        "common.geography.city.population": "8452",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1329
+          },
+          {
+            "African American": 151
+          },
+          {
+            "Asian": 1637
+          },
+          {
+            "American Indian": 43
+          },
+          {
+            "Native Hawaiian": 2407
+          },
+          {
+            "Mixed race": 4365
+          },
+          {
+            "Other race": 69
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waikele"
+      },
+      "produce": {
+        "common.geography.city.population": "7622",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1622
+          },
+          {
+            "African American": 392
+          },
+          {
+            "Asian": 5429
+          },
+          {
+            "American Indian": 14
+          },
+          {
+            "Native Hawaiian": 168
+          },
+          {
+            "Mixed race": 2299
+          },
+          {
+            "Other race": 76
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Pukalani"
+      },
+      "produce": {
+        "common.geography.city.population": "7631",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3733
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 2562
+          },
+          {
+            "American Indian": 16
+          },
+          {
+            "Native Hawaiian": 841
+          },
+          {
+            "Mixed race": 2659
+          },
+          {
+            "Other race": 189
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Lihue"
+      },
+      "produce": {
+        "common.geography.city.population": "7489",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2090
+          },
+          {
+            "African American": 81
+          },
+          {
+            "Asian": 4358
+          },
+          {
+            "American Indian": 13
+          },
+          {
+            "Native Hawaiian": 994
+          },
+          {
+            "Mixed race": 2462
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Ocean Pointe"
+      },
+      "produce": {
+        "common.geography.city.population": "7359",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3658
+          },
+          {
+            "African American": 1035
+          },
+          {
+            "Asian": 2517
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 544
+          },
+          {
+            "Mixed race": 2056
+          },
+          {
+            "Other race": 190
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Makawao"
+      },
+      "produce": {
+        "common.geography.city.population": "7157",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3717
+          },
+          {
+            "African American": 39
+          },
+          {
+            "Asian": 1857
+          },
+          {
+            "American Indian": 3
+          },
+          {
+            "Native Hawaiian": 461
+          },
+          {
+            "Mixed race": 3908
+          },
+          {
+            "Other race": 14
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Ahuimanu"
+      },
+      "produce": {
+        "common.geography.city.population": "8725",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2739
+          },
+          {
+            "African American": 66
+          },
+          {
+            "Asian": 3436
+          },
+          {
+            "American Indian": 56
+          },
+          {
+            "Native Hawaiian": 708
+          },
+          {
+            "Mixed race": 2905
+          },
+          {
+            "Other race": 88
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Ainaloa"
+      },
+      "produce": {
+        "common.geography.city.population": "3226",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3264
+          },
+          {
+            "African American": 40
+          },
+          {
+            "Asian": 1751
+          },
+          {
+            "American Indian": 158
+          },
+          {
+            "Native Hawaiian": 1321
+          },
+          {
+            "Mixed race": 3204
+          },
+          {
+            "Other race": 260
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Hickam Housing"
+      },
+      "produce": {
+        "common.geography.city.population": "7142",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7445
+          },
+          {
+            "African American": 739
+          },
+          {
+            "Asian": 302
+          },
+          {
+            "American Indian": 62
+          },
+          {
+            "Native Hawaiian": 144
+          },
+          {
+            "Mixed race": 1035
+          },
+          {
+            "Other race": 272
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Anahola"
+      },
+      "produce": {
+        "common.geography.city.population": "2156",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2361
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 1173
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 4170
+          },
+          {
+            "Mixed race": 2296
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Aiea"
+      },
+      "produce": {
+        "common.geography.city.population": "9077",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2127
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 5566
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 259
+          },
+          {
+            "Mixed race": 2032
+          },
+          {
+            "Other race": 15
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Discovery Harbour"
+      },
+      "produce": {
+        "common.geography.city.population": "944",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6843
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 1165
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 1992
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Captain Cook"
+      },
+      "produce": {
+        "common.geography.city.population": "3798",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3533
+          },
+          {
+            "African American": 24
+          },
+          {
+            "Asian": 2504
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 534
+          },
+          {
+            "Mixed race": 3162
+          },
+          {
+            "Other race": 242
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "East Honolulu"
+      },
+      "produce": {
+        "common.geography.city.population": "49242",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2756
+          },
+          {
+            "African American": 56
+          },
+          {
+            "Asian": 5061
+          },
+          {
+            "American Indian": 18
+          },
+          {
+            "Native Hawaiian": 212
+          },
+          {
+            "Mixed race": 1855
+          },
+          {
+            "Other race": 41
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Eden Roc"
+      },
+      "produce": {
+        "common.geography.city.population": "577",
+        "common.person.gender": {
+          "male": 140,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3328
+          },
+          {
+            "African American": 191
+          },
+          {
+            "Asian": 208
+          },
+          {
+            "American Indian": 104
+          },
+          {
+            "Native Hawaiian": 2184
+          },
+          {
+            "Mixed race": 3829
+          },
+          {
+            "Other race": 156
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Eleele"
+      },
+      "produce": {
+        "common.geography.city.population": "2467",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 997
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 5330
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 1330
+          },
+          {
+            "Mixed race": 2274
+          },
+          {
+            "Other race": 69
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Ewa Gentry"
+      },
+      "produce": {
+        "common.geography.city.population": "22683",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1968
+          },
+          {
+            "African American": 317
+          },
+          {
+            "Asian": 4054
+          },
+          {
+            "American Indian": 15
+          },
+          {
+            "Native Hawaiian": 601
+          },
+          {
+            "Mixed race": 2883
+          },
+          {
+            "Other race": 162
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Ewa Beach"
+      },
+      "produce": {
+        "common.geography.city.population": "14881",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1100
+          },
+          {
+            "African American": 56
+          },
+          {
+            "Asian": 4702
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 825
+          },
+          {
+            "Mixed race": 3219
+          },
+          {
+            "Other race": 99
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Fern Acres"
+      },
+      "produce": {
+        "common.geography.city.population": "1335",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3213
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 1236
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 2232
+          },
+          {
+            "Mixed race": 3041
+          },
+          {
+            "Other race": 277
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Ewa Villages"
+      },
+      "produce": {
+        "common.geography.city.population": "6885",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 227
+          },
+          {
+            "African American": 147
+          },
+          {
+            "Asian": 5108
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 1412
+          },
+          {
+            "Mixed race": 3066
+          },
+          {
+            "Other race": 41
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Haena"
+      },
+      "produce": {
+        "common.geography.city.population": "255",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8588
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 196
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 1216
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Fern Forest"
+      },
+      "produce": {
+        "common.geography.city.population": "660",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3788
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 1727
+          },
+          {
+            "American Indian": 667
+          },
+          {
+            "Native Hawaiian": 394
+          },
+          {
+            "Mixed race": 3424
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Halaula"
+      },
+      "produce": {
+        "common.geography.city.population": "478",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2385
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 3013
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 1213
+          },
+          {
+            "Mixed race": 2782
+          },
+          {
+            "Other race": 607
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Haiku-Pauwela"
+      },
+      "produce": {
+        "common.geography.city.population": "8539",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5622
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 548
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 810
+          },
+          {
+            "Mixed race": 2909
+          },
+          {
+            "Other race": 110
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Haleiwa"
+      },
+      "produce": {
+        "common.geography.city.population": "3942",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2998
+          },
+          {
+            "African American": 132
+          },
+          {
+            "Asian": 2773
+          },
+          {
+            "American Indian": 18
+          },
+          {
+            "Native Hawaiian": 888
+          },
+          {
+            "Mixed race": 3092
+          },
+          {
+            "Other race": 99
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Halawa"
+      },
+      "produce": {
+        "common.geography.city.population": "14132",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1084
+          },
+          {
+            "African American": 45
+          },
+          {
+            "Asian": 5557
+          },
+          {
+            "American Indian": 8
+          },
+          {
+            "Native Hawaiian": 914
+          },
+          {
+            "Mixed race": 2368
+          },
+          {
+            "Other race": 24
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Hana"
+      },
+      "produce": {
+        "common.geography.city.population": "1219",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2830
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 401
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 2100
+          },
+          {
+            "Mixed race": 4668
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Haliimaile"
+      },
+      "produce": {
+        "common.geography.city.population": "1060",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2028
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 3915
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 1651
+          },
+          {
+            "Mixed race": 2311
+          },
+          {
+            "Other race": 94
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Hanamaulu"
+      },
+      "produce": {
+        "common.geography.city.population": "4074",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1136
+          },
+          {
+            "African American": 407
+          },
+          {
+            "Asian": 5626
+          },
+          {
+            "American Indian": 96
+          },
+          {
+            "Native Hawaiian": 619
+          },
+          {
+            "Mixed race": 2047
+          },
+          {
+            "Other race": 69
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Hanalei"
+      },
+      "produce": {
+        "common.geography.city.population": "530",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7623
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 981
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 642
+          },
+          {
+            "Mixed race": 755
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Hauula"
+      },
+      "produce": {
+        "common.geography.city.population": "3521",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2315
+          },
+          {
+            "African American": 97
+          },
+          {
+            "Asian": 602
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 2531
+          },
+          {
+            "Mixed race": 4431
+          },
+          {
+            "Other race": 26
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Hanapepe"
+      },
+      "produce": {
+        "common.geography.city.population": "2867",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1604
+          },
+          {
+            "African American": 59
+          },
+          {
+            "Asian": 5239
+          },
+          {
+            "American Indian": 17
+          },
+          {
+            "Native Hawaiian": 938
+          },
+          {
+            "Mixed race": 1817
+          },
+          {
+            "Other race": 324
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Hawaiian Beaches"
+      },
+      "produce": {
+        "common.geography.city.population": "4237",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2186
+          },
+          {
+            "African American": 104
+          },
+          {
+            "Asian": 2005
+          },
+          {
+            "American Indian": 175
+          },
+          {
+            "Native Hawaiian": 1768
+          },
+          {
+            "Mixed race": 3394
+          },
+          {
+            "Other race": 368
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Hawaiian Acres"
+      },
+      "produce": {
+        "common.geography.city.population": "2282",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4452
+          },
+          {
+            "African American": 526
+          },
+          {
+            "Asian": 1490
+          },
+          {
+            "American Indian": 53
+          },
+          {
+            "Native Hawaiian": 1122
+          },
+          {
+            "Mixed race": 2011
+          },
+          {
+            "Other race": 346
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Hawaiian Paradise Park"
+      },
+      "produce": {
+        "common.geography.city.population": "9427",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3261
+          },
+          {
+            "African American": 211
+          },
+          {
+            "Asian": 2556
+          },
+          {
+            "American Indian": 10
+          },
+          {
+            "Native Hawaiian": 2132
+          },
+          {
+            "Mixed race": 1357
+          },
+          {
+            "Other race": 473
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Hawaiian Ocean View"
+      },
+      "produce": {
+        "common.geography.city.population": "3611",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4370
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 227
+          },
+          {
+            "American Indian": 25
+          },
+          {
+            "Native Hawaiian": 1083
+          },
+          {
+            "Mixed race": 3990
+          },
+          {
+            "Other race": 305
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Heeia"
+      },
+      "produce": {
+        "common.geography.city.population": "4466",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2662
+          },
+          {
+            "African American": 43
+          },
+          {
+            "Asian": 4039
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 685
+          },
+          {
+            "Mixed race": 2400
+          },
+          {
+            "Other race": 170
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Hawi"
+      },
+      "produce": {
+        "common.geography.city.population": "1426",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1269
+          },
+          {
+            "African American": 35
+          },
+          {
+            "Asian": 1234
+          },
+          {
+            "American Indian": 35
+          },
+          {
+            "Native Hawaiian": 1311
+          },
+          {
+            "Mixed race": 5589
+          },
+          {
+            "Other race": 526
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Hilo"
+      },
+      "produce": {
+        "common.geography.city.population": "45158",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1771
+          },
+          {
+            "African American": 50
+          },
+          {
+            "Asian": 3496
+          },
+          {
+            "American Indian": 30
+          },
+          {
+            "Native Hawaiian": 1372
+          },
+          {
+            "Mixed race": 3236
+          },
+          {
+            "Other race": 46
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Hickam Housing"
+      },
+      "produce": {
+        "common.geography.city.population": "7142",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7445
+          },
+          {
+            "African American": 739
+          },
+          {
+            "Asian": 302
+          },
+          {
+            "American Indian": 62
+          },
+          {
+            "Native Hawaiian": 144
+          },
+          {
+            "Mixed race": 1035
+          },
+          {
+            "Other race": 272
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Honalo"
+      },
+      "produce": {
+        "common.geography.city.population": "2562",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2303
+          },
+          {
+            "African American": 39
+          },
+          {
+            "Asian": 1623
+          },
+          {
+            "American Indian": 39
+          },
+          {
+            "Native Hawaiian": 1007
+          },
+          {
+            "Mixed race": 4262
+          },
+          {
+            "Other race": 726
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Holualoa"
+      },
+      "produce": {
+        "common.geography.city.population": "9709",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5010
+          },
+          {
+            "African American": 104
+          },
+          {
+            "Asian": 1664
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 438
+          },
+          {
+            "Mixed race": 1451
+          },
+          {
+            "Other race": 1332
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Honokaa"
+      },
+      "produce": {
+        "common.geography.city.population": "2915",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2563
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 4508
+          },
+          {
+            "American Indian": 103
+          },
+          {
+            "Native Hawaiian": 429
+          },
+          {
+            "Mixed race": 2172
+          },
+          {
+            "Other race": 225
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Honaunau-Napoopoo"
+      },
+      "produce": {
+        "common.geography.city.population": "2616",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3360
+          },
+          {
+            "African American": 15
+          },
+          {
+            "Asian": 1518
+          },
+          {
+            "American Indian": 157
+          },
+          {
+            "Native Hawaiian": 635
+          },
+          {
+            "Mixed race": 4270
+          },
+          {
+            "Other race": 46
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Honomu"
+      },
+      "produce": {
+        "common.geography.city.population": "458",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3253
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 2904
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 546
+          },
+          {
+            "Mixed race": 3297
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Honolulu"
+      },
+      "produce": {
+        "common.geography.city.population": "341727",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1798
+          },
+          {
+            "African American": 161
+          },
+          {
+            "Asian": 5506
+          },
+          {
+            "American Indian": 16
+          },
+          {
+            "Native Hawaiian": 803
+          },
+          {
+            "Mixed race": 1653
+          },
+          {
+            "Other race": 61
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kaaawa"
+      },
+      "produce": {
+        "common.geography.city.population": "1086",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4494
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 1215
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 589
+          },
+          {
+            "Mixed race": 3674
+          },
+          {
+            "Other race": 28
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Iroquois Point"
+      },
+      "produce": {
+        "common.geography.city.population": "3340",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4171
+          },
+          {
+            "African American": 656
+          },
+          {
+            "Asian": 865
+          },
+          {
+            "American Indian": 9
+          },
+          {
+            "Native Hawaiian": 1347
+          },
+          {
+            "Mixed race": 2772
+          },
+          {
+            "Other race": 180
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kahaluu"
+      },
+      "produce": {
+        "common.geography.city.population": "4475",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2096
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 3225
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 1654
+          },
+          {
+            "Mixed race": 3001
+          },
+          {
+            "Other race": 25
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kaanapali"
+      },
+      "produce": {
+        "common.geography.city.population": "1198",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8940
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 250
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 100
+          },
+          {
+            "Mixed race": 701
+          },
+          {
+            "Other race": 8
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kahuku"
+      },
+      "produce": {
+        "common.geography.city.population": "2626",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 632
+          },
+          {
+            "African American": 15
+          },
+          {
+            "Asian": 2578
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 3340
+          },
+          {
+            "Mixed race": 3393
+          },
+          {
+            "Other race": 42
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kahaluu-Keauhou"
+      },
+      "produce": {
+        "common.geography.city.population": "3894",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7093
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 817
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 483
+          },
+          {
+            "Mixed race": 1574
+          },
+          {
+            "Other race": 33
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kailua"
+      },
+      "produce": {
+        "common.geography.city.population": "39693",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4441
+          },
+          {
+            "African American": 66
+          },
+          {
+            "Asian": 2070
+          },
+          {
+            "American Indian": 27
+          },
+          {
+            "Native Hawaiian": 685
+          },
+          {
+            "Mixed race": 2660
+          },
+          {
+            "Other race": 53
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kahului"
+      },
+      "produce": {
+        "common.geography.city.population": "26072",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1032
+          },
+          {
+            "African American": 19
+          },
+          {
+            "Asian": 5005
+          },
+          {
+            "American Indian": 17
+          },
+          {
+            "Native Hawaiian": 1051
+          },
+          {
+            "Mixed race": 2728
+          },
+          {
+            "Other race": 148
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kailua"
+      },
+      "produce": {
+        "common.geography.city.population": "39693",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4441
+          },
+          {
+            "African American": 66
+          },
+          {
+            "Asian": 2070
+          },
+          {
+            "American Indian": 27
+          },
+          {
+            "Native Hawaiian": 685
+          },
+          {
+            "Mixed race": 2660
+          },
+          {
+            "Other race": 53
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kalaeloa"
+      },
+      "produce": {
+        "common.geography.city.population": "91",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 0
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 659
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 549
+          },
+          {
+            "Mixed race": 5055
+          },
+          {
+            "Other race": 3736
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kalaheo"
+      },
+      "produce": {
+        "common.geography.city.population": "4022",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2571
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 3091
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 326
+          },
+          {
+            "Mixed race": 3972
+          },
+          {
+            "Other race": 40
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kalihiwai"
+      },
+      "produce": {
+        "common.geography.city.population": "289",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6747
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 450
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 657
+          },
+          {
+            "Mixed race": 2145
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kaneohe"
+      },
+      "produce": {
+        "common.geography.city.population": "34030",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2142
+          },
+          {
+            "African American": 88
+          },
+          {
+            "Asian": 3690
+          },
+          {
+            "American Indian": 16
+          },
+          {
+            "Native Hawaiian": 1032
+          },
+          {
+            "Mixed race": 2929
+          },
+          {
+            "Other race": 104
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kalaoa"
+      },
+      "produce": {
+        "common.geography.city.population": "10078",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4524
+          },
+          {
+            "African American": 25
+          },
+          {
+            "Asian": 1013
+          },
+          {
+            "American Indian": 19
+          },
+          {
+            "Native Hawaiian": 1005
+          },
+          {
+            "Mixed race": 2612
+          },
+          {
+            "Other race": 802
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kapaa"
+      },
+      "produce": {
+        "common.geography.city.population": "10031",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3565
+          },
+          {
+            "African American": 25
+          },
+          {
+            "Asian": 3632
+          },
+          {
+            "American Indian": 33
+          },
+          {
+            "Native Hawaiian": 519
+          },
+          {
+            "Mixed race": 2209
+          },
+          {
+            "Other race": 16
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kaneohe Station"
+      },
+      "produce": {
+        "common.geography.city.population": "9987",
+        "common.person.gender": {
+          "male": 180,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6898
+          },
+          {
+            "African American": 823
+          },
+          {
+            "Asian": 277
+          },
+          {
+            "American Indian": 54
+          },
+          {
+            "Native Hawaiian": 78
+          },
+          {
+            "Mixed race": 1205
+          },
+          {
+            "Other race": 665
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kapalua"
+      },
+      "produce": {
+        "common.geography.city.population": "386",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8161
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 1218
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 622
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kapaau"
+      },
+      "produce": {
+        "common.geography.city.population": "1675",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1445
+          },
+          {
+            "African American": 107
+          },
+          {
+            "Asian": 2513
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 1654
+          },
+          {
+            "Mixed race": 4281
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kapolei"
+      },
+      "produce": {
+        "common.geography.city.population": "14154",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1389
+          },
+          {
+            "African American": 339
+          },
+          {
+            "Asian": 3799
+          },
+          {
+            "American Indian": 27
+          },
+          {
+            "Native Hawaiian": 1343
+          },
+          {
+            "Mixed race": 3093
+          },
+          {
+            "Other race": 10
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kaumakani"
+      },
+      "produce": {
+        "common.geography.city.population": "794",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 277
+          },
+          {
+            "African American": 151
+          },
+          {
+            "Asian": 8539
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 403
+          },
+          {
+            "Mixed race": 630
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kaunakakai"
+      },
+      "produce": {
+        "common.geography.city.population": "3270",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2073
+          },
+          {
+            "African American": 55
+          },
+          {
+            "Asian": 1902
+          },
+          {
+            "American Indian": 34
+          },
+          {
+            "Native Hawaiian": 3792
+          },
+          {
+            "Mixed race": 2086
+          },
+          {
+            "Other race": 57
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Keaau"
+      },
+      "produce": {
+        "common.geography.city.population": "2443",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 977
+          },
+          {
+            "African American": 20
+          },
+          {
+            "Asian": 4842
+          },
+          {
+            "American Indian": 56
+          },
+          {
+            "Native Hawaiian": 1113
+          },
+          {
+            "Mixed race": 2931
+          },
+          {
+            "Other race": 56
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kawela Bay"
+      },
+      "produce": {
+        "common.geography.city.population": "279",
+        "common.person.gender": {
+          "male": 50,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7814
+          },
+          {
+            "African American": 108
+          },
+          {
+            "Asian": 215
+          },
+          {
+            "American Indian": 466
+          },
+          {
+            "Native Hawaiian": 108
+          },
+          {
+            "Mixed race": 1290
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kekaha"
+      },
+      "produce": {
+        "common.geography.city.population": "2996",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2023
+          },
+          {
+            "African American": 23
+          },
+          {
+            "Asian": 3428
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 3461
+          },
+          {
+            "Mixed race": 1065
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kihei"
+      },
+      "produce": {
+        "common.geography.city.population": "21556",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5476
+          },
+          {
+            "African American": 55
+          },
+          {
+            "Asian": 1663
+          },
+          {
+            "American Indian": 37
+          },
+          {
+            "Native Hawaiian": 553
+          },
+          {
+            "Mixed race": 2122
+          },
+          {
+            "Other race": 94
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kealakekua"
+      },
+      "produce": {
+        "common.geography.city.population": "2181",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2462
+          },
+          {
+            "African American": 64
+          },
+          {
+            "Asian": 2985
+          },
+          {
+            "American Indian": 32
+          },
+          {
+            "Native Hawaiian": 994
+          },
+          {
+            "Mixed race": 3342
+          },
+          {
+            "Other race": 119
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kilauea"
+      },
+      "produce": {
+        "common.geography.city.population": "3737",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5518
+          },
+          {
+            "African American": 51
+          },
+          {
+            "Asian": 2368
+          },
+          {
+            "American Indian": 35
+          },
+          {
+            "Native Hawaiian": 474
+          },
+          {
+            "Mixed race": 1509
+          },
+          {
+            "Other race": 45
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Keokea"
+      },
+      "produce": {
+        "common.geography.city.population": "1567",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2049
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 1449
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 996
+          },
+          {
+            "Mixed race": 5488
+          },
+          {
+            "Other race": 19
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Koloa"
+      },
+      "produce": {
+        "common.geography.city.population": "2330",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2399
+          },
+          {
+            "African American": 56
+          },
+          {
+            "Asian": 4021
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 867
+          },
+          {
+            "Mixed race": 2657
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Ko Olina"
+      },
+      "produce": {
+        "common.geography.city.population": "1812",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6881
+          },
+          {
+            "African American": 248
+          },
+          {
+            "Asian": 1468
+          },
+          {
+            "American Indian": 22
+          },
+          {
+            "Native Hawaiian": 115
+          },
+          {
+            "Mixed race": 1264
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kualapuu"
+      },
+      "produce": {
+        "common.geography.city.population": "1804",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 765
+          },
+          {
+            "African American": 94
+          },
+          {
+            "Asian": 1469
+          },
+          {
+            "American Indian": 22
+          },
+          {
+            "Native Hawaiian": 4235
+          },
+          {
+            "Mixed race": 3326
+          },
+          {
+            "Other race": 89
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kukuihaele"
+      },
+      "produce": {
+        "common.geography.city.population": "453",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2472
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 1391
+          },
+          {
+            "American Indian": 44
+          },
+          {
+            "Native Hawaiian": 1634
+          },
+          {
+            "Mixed race": 4283
+          },
+          {
+            "Other race": 177
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kurtistown"
+      },
+      "produce": {
+        "common.geography.city.population": "860",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3302
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 2988
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 802
+          },
+          {
+            "Mixed race": 2744
+          },
+          {
+            "Other race": 163
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Kula"
+      },
+      "produce": {
+        "common.geography.city.population": "6925",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5949
+          },
+          {
+            "African American": 53
+          },
+          {
+            "Asian": 822
+          },
+          {
+            "American Indian": 14
+          },
+          {
+            "Native Hawaiian": 329
+          },
+          {
+            "Mixed race": 2793
+          },
+          {
+            "Other race": 39
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Lahaina"
+      },
+      "produce": {
+        "common.geography.city.population": "10669",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2892
+          },
+          {
+            "African American": 87
+          },
+          {
+            "Asian": 3672
+          },
+          {
+            "American Indian": 26
+          },
+          {
+            "Native Hawaiian": 684
+          },
+          {
+            "Mixed race": 2587
+          },
+          {
+            "Other race": 51
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Laie"
+      },
+      "produce": {
+        "common.geography.city.population": "5560",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2655
+          },
+          {
+            "African American": 7
+          },
+          {
+            "Asian": 1003
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 3354
+          },
+          {
+            "Mixed race": 2980
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Lanai City"
+      },
+      "produce": {
+        "common.geography.city.population": "3424",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1256
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 4956
+          },
+          {
+            "American Indian": 26
+          },
+          {
+            "Native Hawaiian": 1525
+          },
+          {
+            "Mixed race": 2208
+          },
+          {
+            "Other race": 28
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Laupahoehoe"
+      },
+      "produce": {
+        "common.geography.city.population": "641",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2215
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 2574
+          },
+          {
+            "American Indian": 47
+          },
+          {
+            "Native Hawaiian": 2496
+          },
+          {
+            "Mixed race": 2044
+          },
+          {
+            "Other race": 624
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Leilani Estates"
+      },
+      "produce": {
+        "common.geography.city.population": "1653",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5947
+          },
+          {
+            "African American": 30
+          },
+          {
+            "Asian": 744
+          },
+          {
+            "American Indian": 36
+          },
+          {
+            "Native Hawaiian": 538
+          },
+          {
+            "Mixed race": 2341
+          },
+          {
+            "Other race": 363
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Lawai"
+      },
+      "produce": {
+        "common.geography.city.population": "2096",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4480
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 3115
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 267
+          },
+          {
+            "Mixed race": 1980
+          },
+          {
+            "Other race": 157
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Lihue"
+      },
+      "produce": {
+        "common.geography.city.population": "7489",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2090
+          },
+          {
+            "African American": 81
+          },
+          {
+            "Asian": 4358
+          },
+          {
+            "American Indian": 13
+          },
+          {
+            "Native Hawaiian": 994
+          },
+          {
+            "Mixed race": 2462
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Launiupoko"
+      },
+      "produce": {
+        "common.geography.city.population": "436",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7729
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 367
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 69
+          },
+          {
+            "Mixed race": 1835
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Mahinahina"
+      },
+      "produce": {
+        "common.geography.city.population": "811",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5709
+          },
+          {
+            "African American": 74
+          },
+          {
+            "Asian": 2552
+          },
+          {
+            "American Indian": 62
+          },
+          {
+            "Native Hawaiian": 62
+          },
+          {
+            "Mixed race": 1541
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Maalaea"
+      },
+      "produce": {
+        "common.geography.city.population": "445",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9079
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 225
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 180
+          },
+          {
+            "Mixed race": 292
+          },
+          {
+            "Other race": 225
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Makaha"
+      },
+      "produce": {
+        "common.geography.city.population": "8204",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1405
+          },
+          {
+            "African American": 184
+          },
+          {
+            "Asian": 1203
+          },
+          {
+            "American Indian": 80
+          },
+          {
+            "Native Hawaiian": 3051
+          },
+          {
+            "Mixed race": 3954
+          },
+          {
+            "Other race": 121
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Maili"
+      },
+      "produce": {
+        "common.geography.city.population": "8452",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1329
+          },
+          {
+            "African American": 151
+          },
+          {
+            "Asian": 1637
+          },
+          {
+            "American Indian": 43
+          },
+          {
+            "Native Hawaiian": 2407
+          },
+          {
+            "Mixed race": 4365
+          },
+          {
+            "Other race": 69
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Makaha Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "1249",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3123
+          },
+          {
+            "African American": 400
+          },
+          {
+            "Asian": 1401
+          },
+          {
+            "American Indian": 16
+          },
+          {
+            "Native Hawaiian": 2394
+          },
+          {
+            "Mixed race": 2570
+          },
+          {
+            "Other race": 96
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Makawao"
+      },
+      "produce": {
+        "common.geography.city.population": "7157",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3717
+          },
+          {
+            "African American": 39
+          },
+          {
+            "Asian": 1857
+          },
+          {
+            "American Indian": 3
+          },
+          {
+            "Native Hawaiian": 461
+          },
+          {
+            "Mixed race": 3908
+          },
+          {
+            "Other race": 14
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Makakilo"
+      },
+      "produce": {
+        "common.geography.city.population": "17750",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2432
+          },
+          {
+            "African American": 523
+          },
+          {
+            "Asian": 2963
+          },
+          {
+            "American Indian": 56
+          },
+          {
+            "Native Hawaiian": 1035
+          },
+          {
+            "Mixed race": 2959
+          },
+          {
+            "Other race": 30
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Manele"
+      },
+      "produce": {
+        "common.geography.city.population": "5",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Makena"
+      },
+      "produce": {
+        "common.geography.city.population": "211",
+        "common.person.gender": {
+          "male": 40,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9573
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 237
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 190
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Maunawili"
+      },
+      "produce": {
+        "common.geography.city.population": "2093",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3464
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 4429
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 272
+          },
+          {
+            "Mixed race": 1835
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Maunaloa"
+      },
+      "produce": {
+        "common.geography.city.population": "306",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1764
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 1078
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 3333
+          },
+          {
+            "Mixed race": 3824
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Mililani Town"
+      },
+      "produce": {
+        "common.geography.city.population": "28115",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1807
+          },
+          {
+            "African American": 237
+          },
+          {
+            "Asian": 4428
+          },
+          {
+            "American Indian": 13
+          },
+          {
+            "Native Hawaiian": 404
+          },
+          {
+            "Mixed race": 3014
+          },
+          {
+            "Other race": 96
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Mililani Mauka"
+      },
+      "produce": {
+        "common.geography.city.population": "21419",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1822
+          },
+          {
+            "African American": 94
+          },
+          {
+            "Asian": 5207
+          },
+          {
+            "American Indian": 4
+          },
+          {
+            "Native Hawaiian": 466
+          },
+          {
+            "Mixed race": 2343
+          },
+          {
+            "Other race": 63
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Mountain View"
+      },
+      "produce": {
+        "common.geography.city.population": "2707",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3236
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 1481
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 2700
+          },
+          {
+            "Mixed race": 2250
+          },
+          {
+            "Other race": 332
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Mokuleia"
+      },
+      "produce": {
+        "common.geography.city.population": "1833",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5472
+          },
+          {
+            "African American": 206
+          },
+          {
+            "Asian": 1146
+          },
+          {
+            "American Indian": 22
+          },
+          {
+            "Native Hawaiian": 371
+          },
+          {
+            "Mixed race": 2782
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Nanakuli"
+      },
+      "produce": {
+        "common.geography.city.population": "12803",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 490
+          },
+          {
+            "African American": 141
+          },
+          {
+            "Asian": 697
+          },
+          {
+            "American Indian": 23
+          },
+          {
+            "Native Hawaiian": 5121
+          },
+          {
+            "Mixed race": 3488
+          },
+          {
+            "Other race": 39
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Naalehu"
+      },
+      "produce": {
+        "common.geography.city.population": "744",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1048
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 7016
+          },
+          {
+            "American Indian": 54
+          },
+          {
+            "Native Hawaiian": 712
+          },
+          {
+            "Mixed race": 1169
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Napili-Honokowai"
+      },
+      "produce": {
+        "common.geography.city.population": "6155",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6187
+          },
+          {
+            "African American": 39
+          },
+          {
+            "Asian": 1337
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 661
+          },
+          {
+            "Mixed race": 1675
+          },
+          {
+            "Other race": 101
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Nanawale Estates"
+      },
+      "produce": {
+        "common.geography.city.population": "1384",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2926
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 1712
+          },
+          {
+            "American Indian": 65
+          },
+          {
+            "Native Hawaiian": 3085
+          },
+          {
+            "Mixed race": 1805
+          },
+          {
+            "Other race": 405
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Olinda"
+      },
+      "produce": {
+        "common.geography.city.population": "1248",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6545
+          },
+          {
+            "African American": 40
+          },
+          {
+            "Asian": 321
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 176
+          },
+          {
+            "Mixed race": 2917
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Ocean Pointe"
+      },
+      "produce": {
+        "common.geography.city.population": "7359",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3658
+          },
+          {
+            "African American": 1035
+          },
+          {
+            "Asian": 2517
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 544
+          },
+          {
+            "Mixed race": 2056
+          },
+          {
+            "Other race": 190
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Omao"
+      },
+      "produce": {
+        "common.geography.city.population": "1504",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4495
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 2128
+          },
+          {
+            "American Indian": 47
+          },
+          {
+            "Native Hawaiian": 931
+          },
+          {
+            "Mixed race": 2394
+          },
+          {
+            "Other race": 7
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Olowalu"
+      },
+      "produce": {
+        "common.geography.city.population": "41",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9024
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 244
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 732
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Paauilo"
+      },
+      "produce": {
+        "common.geography.city.population": "643",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1680
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 4011
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 684
+          },
+          {
+            "Mixed race": 3593
+          },
+          {
+            "Other race": 31
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Orchidlands Estates"
+      },
+      "produce": {
+        "common.geography.city.population": "3114",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2492
+          },
+          {
+            "African American": 132
+          },
+          {
+            "Asian": 2816
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 1932
+          },
+          {
+            "Mixed race": 2032
+          },
+          {
+            "Other race": 594
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Pahoa"
+      },
+      "produce": {
+        "common.geography.city.population": "865",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1225
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 5457
+          },
+          {
+            "American Indian": 162
+          },
+          {
+            "Native Hawaiian": 983
+          },
+          {
+            "Mixed race": 2173
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Pahala"
+      },
+      "produce": {
+        "common.geography.city.population": "1284",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 872
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 3279
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 755
+          },
+          {
+            "Mixed race": 4720
+          },
+          {
+            "Other race": 374
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Paia"
+      },
+      "produce": {
+        "common.geography.city.population": "2438",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4557
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 2408
+          },
+          {
+            "American Indian": 21
+          },
+          {
+            "Native Hawaiian": 401
+          },
+          {
+            "Mixed race": 2477
+          },
+          {
+            "Other race": 135
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Pakala Village"
+      },
+      "produce": {
+        "common.geography.city.population": "300",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 3133
+          },
+          {
+            "American Indian": 400
+          },
+          {
+            "Native Hawaiian": 4200
+          },
+          {
+            "Mixed race": 267
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Paukaa"
+      },
+      "produce": {
+        "common.geography.city.population": "448",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4442
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 3259
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 424
+          },
+          {
+            "Mixed race": 1875
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Papaikou"
+      },
+      "produce": {
+        "common.geography.city.population": "1155",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2147
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 2511
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 762
+          },
+          {
+            "Mixed race": 4580
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Pepeekeo"
+      },
+      "produce": {
+        "common.geography.city.population": "1923",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1752
+          },
+          {
+            "African American": 104
+          },
+          {
+            "Asian": 3874
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 1966
+          },
+          {
+            "Mixed race": 2059
+          },
+          {
+            "Other race": 244
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Pearl City"
+      },
+      "produce": {
+        "common.geography.city.population": "47075",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1501
+          },
+          {
+            "African American": 191
+          },
+          {
+            "Asian": 5215
+          },
+          {
+            "American Indian": 20
+          },
+          {
+            "Native Hawaiian": 442
+          },
+          {
+            "Mixed race": 2448
+          },
+          {
+            "Other race": 182
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Princeville"
+      },
+      "produce": {
+        "common.geography.city.population": "2336",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8429
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 390
+          },
+          {
+            "American Indian": 115
+          },
+          {
+            "Native Hawaiian": 158
+          },
+          {
+            "Mixed race": 908
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Poipu"
+      },
+      "produce": {
+        "common.geography.city.population": "962",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7048
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 1258
+          },
+          {
+            "American Indian": 31
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 1559
+          },
+          {
+            "Other race": 104
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Puako"
+      },
+      "produce": {
+        "common.geography.city.population": "684",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8465
+          },
+          {
+            "African American": 28
+          },
+          {
+            "Asian": 994
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 512
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Puhi"
+      },
+      "produce": {
+        "common.geography.city.population": "3330",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2045
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 6111
+          },
+          {
+            "American Indian": 90
+          },
+          {
+            "Native Hawaiian": 324
+          },
+          {
+            "Mixed race": 1402
+          },
+          {
+            "Other race": 27
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Pukalani"
+      },
+      "produce": {
+        "common.geography.city.population": "7631",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3733
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 2562
+          },
+          {
+            "American Indian": 16
+          },
+          {
+            "Native Hawaiian": 841
+          },
+          {
+            "Mixed race": 2659
+          },
+          {
+            "Other race": 189
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Pupukea"
+      },
+      "produce": {
+        "common.geography.city.population": "4823",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5835
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 1019
+          },
+          {
+            "American Indian": 131
+          },
+          {
+            "Native Hawaiian": 1045
+          },
+          {
+            "Mixed race": 1970
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Punaluu"
+      },
+      "produce": {
+        "common.geography.city.population": "1173",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3018
+          },
+          {
+            "African American": 256
+          },
+          {
+            "Asian": 1398
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 2413
+          },
+          {
+            "Mixed race": 2916
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Schofield Barracks"
+      },
+      "produce": {
+        "common.geography.city.population": "15962",
+        "common.person.gender": {
+          "male": 140,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6127
+          },
+          {
+            "African American": 1868
+          },
+          {
+            "Asian": 396
+          },
+          {
+            "American Indian": 75
+          },
+          {
+            "Native Hawaiian": 184
+          },
+          {
+            "Mixed race": 816
+          },
+          {
+            "Other race": 535
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Royal Kunia"
+      },
+      "produce": {
+        "common.geography.city.population": "14952",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1058
+          },
+          {
+            "African American": 250
+          },
+          {
+            "Asian": 5621
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 1083
+          },
+          {
+            "Mixed race": 1963
+          },
+          {
+            "Other race": 25
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Volcano"
+      },
+      "produce": {
+        "common.geography.city.population": "2575",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6620
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 835
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 438
+          },
+          {
+            "Mixed race": 1992
+          },
+          {
+            "Other race": 112
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waialua"
+      },
+      "produce": {
+        "common.geography.city.population": "4131",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2244
+          },
+          {
+            "African American": 19
+          },
+          {
+            "Asian": 4217
+          },
+          {
+            "American Indian": 34
+          },
+          {
+            "Native Hawaiian": 518
+          },
+          {
+            "Mixed race": 2895
+          },
+          {
+            "Other race": 73
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Ualapu'e"
+      },
+      "produce": {
+        "common.geography.city.population": "460",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1826
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 304
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 5935
+          },
+          {
+            "Mixed race": 1935
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waianae"
+      },
+      "produce": {
+        "common.geography.city.population": "12052",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 660
+          },
+          {
+            "African American": 122
+          },
+          {
+            "Asian": 1398
+          },
+          {
+            "American Indian": 27
+          },
+          {
+            "Native Hawaiian": 3713
+          },
+          {
+            "Mixed race": 4003
+          },
+          {
+            "Other race": 77
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Wahiawa"
+      },
+      "produce": {
+        "common.geography.city.population": "16545",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1165
+          },
+          {
+            "African American": 105
+          },
+          {
+            "Asian": 4736
+          },
+          {
+            "American Indian": 60
+          },
+          {
+            "Native Hawaiian": 1150
+          },
+          {
+            "Mixed race": 2707
+          },
+          {
+            "Other race": 78
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waihee-Waiehu"
+      },
+      "produce": {
+        "common.geography.city.population": "10248",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 961
+          },
+          {
+            "African American": 3
+          },
+          {
+            "Asian": 3547
+          },
+          {
+            "American Indian": 36
+          },
+          {
+            "Native Hawaiian": 1903
+          },
+          {
+            "Mixed race": 3529
+          },
+          {
+            "Other race": 20
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waikane"
+      },
+      "produce": {
+        "common.geography.city.population": "798",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2043
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 2231
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 2206
+          },
+          {
+            "Mixed race": 3521
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waikapu"
+      },
+      "produce": {
+        "common.geography.city.population": "2798",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1934
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 3481
+          },
+          {
+            "American Indian": 11
+          },
+          {
+            "Native Hawaiian": 225
+          },
+          {
+            "Mixed race": 4335
+          },
+          {
+            "Other race": 14
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waikoloa Village"
+      },
+      "produce": {
+        "common.geography.city.population": "6154",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4863
+          },
+          {
+            "African American": 62
+          },
+          {
+            "Asian": 1571
+          },
+          {
+            "American Indian": 16
+          },
+          {
+            "Native Hawaiian": 822
+          },
+          {
+            "Mixed race": 2468
+          },
+          {
+            "Other race": 197
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waikele"
+      },
+      "produce": {
+        "common.geography.city.population": "7622",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1622
+          },
+          {
+            "African American": 392
+          },
+          {
+            "Asian": 5429
+          },
+          {
+            "American Indian": 14
+          },
+          {
+            "Native Hawaiian": 168
+          },
+          {
+            "Mixed race": 2299
+          },
+          {
+            "Other race": 76
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Wailua"
+      },
+      "produce": {
+        "common.geography.city.population": "2498",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3343
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 3407
+          },
+          {
+            "American Indian": 28
+          },
+          {
+            "Native Hawaiian": 1041
+          },
+          {
+            "Mixed race": 2018
+          },
+          {
+            "Other race": 164
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Wailea"
+      },
+      "produce": {
+        "common.geography.city.population": "6330",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7156
+          },
+          {
+            "African American": 65
+          },
+          {
+            "Asian": 615
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 665
+          },
+          {
+            "Mixed race": 1476
+          },
+          {
+            "Other race": 24
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Wailuku"
+      },
+      "produce": {
+        "common.geography.city.population": "15620",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1821
+          },
+          {
+            "African American": 67
+          },
+          {
+            "Asian": 3321
+          },
+          {
+            "American Indian": 3
+          },
+          {
+            "Native Hawaiian": 1006
+          },
+          {
+            "Mixed race": 3686
+          },
+          {
+            "Other race": 94
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Wailua Homesteads"
+      },
+      "produce": {
+        "common.geography.city.population": "4744",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 4323
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 2506
+          },
+          {
+            "American Indian": 13
+          },
+          {
+            "Native Hawaiian": 906
+          },
+          {
+            "Mixed race": 2165
+          },
+          {
+            "Other race": 86
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waimanalo"
+      },
+      "produce": {
+        "common.geography.city.population": "5222",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1174
+          },
+          {
+            "African American": 136
+          },
+          {
+            "Asian": 1939
+          },
+          {
+            "American Indian": 21
+          },
+          {
+            "Native Hawaiian": 2231
+          },
+          {
+            "Mixed race": 4468
+          },
+          {
+            "Other race": 31
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waimalu"
+      },
+      "produce": {
+        "common.geography.city.population": "13637",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1789
+          },
+          {
+            "African American": 285
+          },
+          {
+            "Asian": 5077
+          },
+          {
+            "American Indian": 24
+          },
+          {
+            "Native Hawaiian": 432
+          },
+          {
+            "Mixed race": 2322
+          },
+          {
+            "Other race": 72
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waimea"
+      },
+      "produce": {
+        "common.geography.city.population": "1782",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1891
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 4703
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 3109
+          },
+          {
+            "Mixed race": 297
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waimanalo Beach"
+      },
+      "produce": {
+        "common.geography.city.population": "4574",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 982
+          },
+          {
+            "African American": 7
+          },
+          {
+            "Asian": 501
+          },
+          {
+            "American Indian": 70
+          },
+          {
+            "Native Hawaiian": 3570
+          },
+          {
+            "Mixed race": 4805
+          },
+          {
+            "Other race": 66
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Wainaku"
+      },
+      "produce": {
+        "common.geography.city.population": "1435",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3372
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 3721
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 564
+          },
+          {
+            "Mixed race": 2279
+          },
+          {
+            "Other race": 63
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waiohinu"
+      },
+      "produce": {
+        "common.geography.city.population": "28",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2500
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 714
+          },
+          {
+            "Native Hawaiian": 4643
+          },
+          {
+            "Mixed race": 2143
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waimea"
+      },
+      "produce": {
+        "common.geography.city.population": "1782",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1891
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 4703
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 3109
+          },
+          {
+            "Mixed race": 297
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waipahu"
+      },
+      "produce": {
+        "common.geography.city.population": "40531",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 454
+          },
+          {
+            "African American": 64
+          },
+          {
+            "Asian": 6501
+          },
+          {
+            "American Indian": 6
+          },
+          {
+            "Native Hawaiian": 1563
+          },
+          {
+            "Mixed race": 1336
+          },
+          {
+            "Other race": 75
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waipio"
+      },
+      "produce": {
+        "common.geography.city.population": "11740",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1112
+          },
+          {
+            "African American": 188
+          },
+          {
+            "Asian": 5589
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 437
+          },
+          {
+            "Mixed race": 2526
+          },
+          {
+            "Other race": 147
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Wainiha"
+      },
+      "produce": {
+        "common.geography.city.population": "116",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5862
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 948
+          },
+          {
+            "American Indian": 345
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 2845
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waipio Acres"
+      },
+      "produce": {
+        "common.geography.city.population": "4730",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1979
+          },
+          {
+            "African American": 161
+          },
+          {
+            "Asian": 3939
+          },
+          {
+            "American Indian": 113
+          },
+          {
+            "Native Hawaiian": 1239
+          },
+          {
+            "Mixed race": 2474
+          },
+          {
+            "Other race": 95
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Wheeler AFB"
+      },
+      "produce": {
+        "common.geography.city.population": "2102",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7041
+          },
+          {
+            "African American": 827
+          },
+          {
+            "Asian": 413
+          },
+          {
+            "American Indian": 147
+          },
+          {
+            "Native Hawaiian": 352
+          },
+          {
+            "Mixed race": 1013
+          },
+          {
+            "Other race": 204
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "West Loch Estate"
+      },
+      "produce": {
+        "common.geography.city.population": "6076",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1350
+          },
+          {
+            "African American": 334
+          },
+          {
+            "Asian": 5525
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 385
+          },
+          {
+            "Mixed race": 2103
+          },
+          {
+            "Other race": 303
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Whitmore Village"
+      },
+      "produce": {
+        "common.geography.city.population": "4823",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 396
+          },
+          {
+            "African American": 222
+          },
+          {
+            "Asian": 6384
+          },
+          {
+            "American Indian": 46
+          },
+          {
+            "Native Hawaiian": 626
+          },
+          {
+            "Mixed race": 2287
+          },
+          {
+            "Other race": 39
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "HI",
+        "common.geography.city.name": "Waimea"
+      },
+      "produce": {
+        "common.geography.city.population": "1782",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1891
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 4703
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 3109
+          },
+          {
+            "Mixed race": 297
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    }
+  ]
+}

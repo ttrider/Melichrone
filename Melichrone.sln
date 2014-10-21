@@ -13,6 +13,61 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Metadata", "Metadata", "{3D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCollector", "tools\DataCollector\DataCollector.csproj", "{012E4F73-5033-4820-BC7B-2EF6FD4BFF38}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "states", "states", "{7E6EB7B9-4B95-4D44-958A-8CB55A13213E}"
+	ProjectSection(SolutionItems) = preProject
+		metadata\usa.AK.json = metadata\usa.AK.json
+		metadata\usa.AL.json = metadata\usa.AL.json
+		metadata\usa.AR.json = metadata\usa.AR.json
+		metadata\usa.AZ.json = metadata\usa.AZ.json
+		metadata\usa.CA.json = metadata\usa.CA.json
+		metadata\usa.CO.json = metadata\usa.CO.json
+		metadata\usa.CT.json = metadata\usa.CT.json
+		metadata\usa.DC.json = metadata\usa.DC.json
+		metadata\usa.DE.json = metadata\usa.DE.json
+		metadata\usa.FL.json = metadata\usa.FL.json
+		metadata\usa.GA.json = metadata\usa.GA.json
+		metadata\usa.HI.json = metadata\usa.HI.json
+		metadata\usa.IA.json = metadata\usa.IA.json
+		metadata\usa.ID.json = metadata\usa.ID.json
+		metadata\usa.IL.json = metadata\usa.IL.json
+		metadata\usa.IN.json = metadata\usa.IN.json
+		metadata\usa.KS.json = metadata\usa.KS.json
+		metadata\usa.KY.json = metadata\usa.KY.json
+		metadata\usa.LA.json = metadata\usa.LA.json
+		metadata\usa.MA.json = metadata\usa.MA.json
+		metadata\usa.MD.json = metadata\usa.MD.json
+		metadata\usa.ME.json = metadata\usa.ME.json
+		metadata\usa.MI.json = metadata\usa.MI.json
+		metadata\usa.MN.json = metadata\usa.MN.json
+		metadata\usa.MO.json = metadata\usa.MO.json
+		metadata\usa.MS.json = metadata\usa.MS.json
+		metadata\usa.MT.json = metadata\usa.MT.json
+		metadata\usa.NC.json = metadata\usa.NC.json
+		metadata\usa.ND.json = metadata\usa.ND.json
+		metadata\usa.NE.json = metadata\usa.NE.json
+		metadata\usa.NH.json = metadata\usa.NH.json
+		metadata\usa.NJ.json = metadata\usa.NJ.json
+		metadata\usa.NM.json = metadata\usa.NM.json
+		metadata\usa.NV.json = metadata\usa.NV.json
+		metadata\usa.NY.json = metadata\usa.NY.json
+		metadata\usa.OH.json = metadata\usa.OH.json
+		metadata\usa.OK.json = metadata\usa.OK.json
+		metadata\usa.OR.json = metadata\usa.OR.json
+		metadata\usa.PA.json = metadata\usa.PA.json
+		metadata\usa.RI.json = metadata\usa.RI.json
+		metadata\usa.SC.json = metadata\usa.SC.json
+		metadata\usa.SD.json = metadata\usa.SD.json
+		metadata\usa.TN.json = metadata\usa.TN.json
+		metadata\usa.TX.json = metadata\usa.TX.json
+		metadata\usa.UT.json = metadata\usa.UT.json
+		metadata\usa.VA.json = metadata\usa.VA.json
+		metadata\usa.VT.json = metadata\usa.VT.json
+		metadata\usa.WA.json = metadata\usa.WA.json
+		metadata\usa.WI.json = metadata\usa.WI.json
+		metadata\usa.WV.json = metadata\usa.WV.json
+		metadata\usa.WY.json = metadata\usa.WY.json
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,5 +81,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7E6EB7B9-4B95-4D44-958A-8CB55A13213E} = {3D53D132-A975-4D5F-9B32-16D7C69099D1}
 	EndGlobalSection
 EndGlobal

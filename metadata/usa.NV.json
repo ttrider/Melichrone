@@ -1,0 +1,6332 @@
+{
+  "rules": [
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Henderson"
+      },
+      "produce": {
+        "common.geography.city.population": "258270",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7908
+          },
+          {
+            "African American": 590
+          },
+          {
+            "Asian": 747
+          },
+          {
+            "American Indian": 47
+          },
+          {
+            "Native Hawaiian": 46
+          },
+          {
+            "Mixed race": 368
+          },
+          {
+            "Other race": 295
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Las Vegas"
+      },
+      "produce": {
+        "common.geography.city.population": "587699",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7006
+          },
+          {
+            "African American": 1091
+          },
+          {
+            "Asian": 630
+          },
+          {
+            "American Indian": 64
+          },
+          {
+            "Native Hawaiian": 50
+          },
+          {
+            "Mixed race": 421
+          },
+          {
+            "Other race": 737
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Paradise"
+      },
+      "produce": {
+        "common.geography.city.population": "220202",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6970
+          },
+          {
+            "African American": 938
+          },
+          {
+            "Asian": 873
+          },
+          {
+            "American Indian": 50
+          },
+          {
+            "Native Hawaiian": 70
+          },
+          {
+            "Mixed race": 405
+          },
+          {
+            "Other race": 695
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Reno"
+      },
+      "produce": {
+        "common.geography.city.population": "226305",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7989
+          },
+          {
+            "African American": 310
+          },
+          {
+            "Asian": 637
+          },
+          {
+            "American Indian": 94
+          },
+          {
+            "Native Hawaiian": 71
+          },
+          {
+            "Mixed race": 337
+          },
+          {
+            "Other race": 561
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Sunrise Manor"
+      },
+      "produce": {
+        "common.geography.city.population": "190931",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6406
+          },
+          {
+            "African American": 1138
+          },
+          {
+            "Asian": 639
+          },
+          {
+            "American Indian": 79
+          },
+          {
+            "Native Hawaiian": 54
+          },
+          {
+            "Mixed race": 390
+          },
+          {
+            "Other race": 1294
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Enterprise"
+      },
+      "produce": {
+        "common.geography.city.population": "113150",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5983
+          },
+          {
+            "African American": 882
+          },
+          {
+            "Asian": 2032
+          },
+          {
+            "American Indian": 67
+          },
+          {
+            "Native Hawaiian": 163
+          },
+          {
+            "Mixed race": 554
+          },
+          {
+            "Other race": 319
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "North Las Vegas"
+      },
+      "produce": {
+        "common.geography.city.population": "215762",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5577
+          },
+          {
+            "African American": 1985
+          },
+          {
+            "Asian": 572
+          },
+          {
+            "American Indian": 53
+          },
+          {
+            "Native Hawaiian": 103
+          },
+          {
+            "Mixed race": 490
+          },
+          {
+            "Other race": 1219
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Sparks"
+      },
+      "produce": {
+        "common.geography.city.population": "90099",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7901
+          },
+          {
+            "African American": 229
+          },
+          {
+            "Asian": 569
+          },
+          {
+            "American Indian": 157
+          },
+          {
+            "Native Hawaiian": 76
+          },
+          {
+            "Mixed race": 454
+          },
+          {
+            "Other race": 614
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Spring Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "178673",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6408
+          },
+          {
+            "African American": 939
+          },
+          {
+            "Asian": 1701
+          },
+          {
+            "American Indian": 43
+          },
+          {
+            "Native Hawaiian": 94
+          },
+          {
+            "Mixed race": 416
+          },
+          {
+            "Other race": 400
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Whitney"
+      },
+      "produce": {
+        "common.geography.city.population": "37977",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6356
+          },
+          {
+            "African American": 1076
+          },
+          {
+            "Asian": 1338
+          },
+          {
+            "American Indian": 28
+          },
+          {
+            "Native Hawaiian": 83
+          },
+          {
+            "Mixed race": 390
+          },
+          {
+            "Other race": 727
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Carson City"
+      },
+      "produce": {
+        "common.geography.city.population": "55184",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8490
+          },
+          {
+            "African American": 97
+          },
+          {
+            "Asian": 303
+          },
+          {
+            "American Indian": 221
+          },
+          {
+            "Native Hawaiian": 19
+          },
+          {
+            "Mixed race": 231
+          },
+          {
+            "Other race": 638
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Winchester"
+      },
+      "produce": {
+        "common.geography.city.population": "27260",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7358
+          },
+          {
+            "African American": 819
+          },
+          {
+            "Asian": 634
+          },
+          {
+            "American Indian": 77
+          },
+          {
+            "Native Hawaiian": 73
+          },
+          {
+            "Mixed race": 289
+          },
+          {
+            "Other race": 749
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Pahrump"
+      },
+      "produce": {
+        "common.geography.city.population": "35821",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9050
+          },
+          {
+            "African American": 275
+          },
+          {
+            "Asian": 157
+          },
+          {
+            "American Indian": 112
+          },
+          {
+            "Native Hawaiian": 31
+          },
+          {
+            "Mixed race": 186
+          },
+          {
+            "Other race": 188
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Fernley"
+      },
+      "produce": {
+        "common.geography.city.population": "19074",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8677
+          },
+          {
+            "African American": 144
+          },
+          {
+            "Asian": 247
+          },
+          {
+            "American Indian": 217
+          },
+          {
+            "Native Hawaiian": 50
+          },
+          {
+            "Mixed race": 451
+          },
+          {
+            "Other race": 213
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Elko"
+      },
+      "produce": {
+        "common.geography.city.population": "18438",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8702
+          },
+          {
+            "African American": 145
+          },
+          {
+            "Asian": 170
+          },
+          {
+            "American Indian": 346
+          },
+          {
+            "Native Hawaiian": 28
+          },
+          {
+            "Mixed race": 256
+          },
+          {
+            "Other race": 353
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Summerlin South"
+      },
+      "produce": {
+        "common.geography.city.population": "24061",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7968
+          },
+          {
+            "African American": 503
+          },
+          {
+            "Asian": 965
+          },
+          {
+            "American Indian": 25
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 372
+          },
+          {
+            "Other race": 167
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Spanish Springs"
+      },
+      "produce": {
+        "common.geography.city.population": "15436",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8990
+          },
+          {
+            "African American": 126
+          },
+          {
+            "Asian": 125
+          },
+          {
+            "American Indian": 147
+          },
+          {
+            "Native Hawaiian": 5
+          },
+          {
+            "Mixed race": 335
+          },
+          {
+            "Other race": 272
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Boulder City"
+      },
+      "produce": {
+        "common.geography.city.population": "15194",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9392
+          },
+          {
+            "African American": 41
+          },
+          {
+            "Asian": 142
+          },
+          {
+            "American Indian": 41
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 235
+          },
+          {
+            "Other race": 150
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Sun Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "18514",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8165
+          },
+          {
+            "African American": 265
+          },
+          {
+            "Asian": 308
+          },
+          {
+            "American Indian": 101
+          },
+          {
+            "Native Hawaiian": 16
+          },
+          {
+            "Mixed race": 290
+          },
+          {
+            "Other race": 855
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Spring Creek"
+      },
+      "produce": {
+        "common.geography.city.population": "13295",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9507
+          },
+          {
+            "African American": 21
+          },
+          {
+            "Asian": 42
+          },
+          {
+            "American Indian": 150
+          },
+          {
+            "Native Hawaiian": 4
+          },
+          {
+            "Mixed race": 105
+          },
+          {
+            "Other race": 171
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Dayton"
+      },
+      "produce": {
+        "common.geography.city.population": "9128",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8614
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 170
+          },
+          {
+            "American Indian": 158
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 320
+          },
+          {
+            "Other race": 738
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Mesquite"
+      },
+      "produce": {
+        "common.geography.city.population": "15391",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9001
+          },
+          {
+            "African American": 85
+          },
+          {
+            "Asian": 79
+          },
+          {
+            "American Indian": 99
+          },
+          {
+            "Native Hawaiian": 8
+          },
+          {
+            "Mixed race": 127
+          },
+          {
+            "Other race": 600
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Fallon"
+      },
+      "produce": {
+        "common.geography.city.population": "8555",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7841
+          },
+          {
+            "African American": 375
+          },
+          {
+            "Asian": 717
+          },
+          {
+            "American Indian": 350
+          },
+          {
+            "Native Hawaiian": 5
+          },
+          {
+            "Mixed race": 409
+          },
+          {
+            "Other race": 303
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Gardnerville Ranchos"
+      },
+      "produce": {
+        "common.geography.city.population": "11785",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8712
+          },
+          {
+            "African American": 98
+          },
+          {
+            "Asian": 69
+          },
+          {
+            "American Indian": 361
+          },
+          {
+            "Native Hawaiian": 10
+          },
+          {
+            "Mixed race": 520
+          },
+          {
+            "Other race": 229
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Incline Village"
+      },
+      "produce": {
+        "common.geography.city.population": "7963",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9391
+          },
+          {
+            "African American": 14
+          },
+          {
+            "Asian": 217
+          },
+          {
+            "American Indian": 165
+          },
+          {
+            "Native Hawaiian": 57
+          },
+          {
+            "Mixed race": 59
+          },
+          {
+            "Other race": 97
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Laughlin"
+      },
+      "produce": {
+        "common.geography.city.population": "6855",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8830
+          },
+          {
+            "African American": 544
+          },
+          {
+            "Asian": 82
+          },
+          {
+            "American Indian": 98
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 282
+          },
+          {
+            "Other race": 165
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Cold Springs"
+      },
+      "produce": {
+        "common.geography.city.population": "8530",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8669
+          },
+          {
+            "African American": 395
+          },
+          {
+            "Asian": 101
+          },
+          {
+            "American Indian": 48
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 533
+          },
+          {
+            "Other race": 252
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Moapa Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "6668",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9286
+          },
+          {
+            "African American": 385
+          },
+          {
+            "Asian": 13
+          },
+          {
+            "American Indian": 157
+          },
+          {
+            "Native Hawaiian": 28
+          },
+          {
+            "Mixed race": 36
+          },
+          {
+            "Other race": 93
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Winnemucca"
+      },
+      "produce": {
+        "common.geography.city.population": "7409",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9152
+          },
+          {
+            "African American": 9
+          },
+          {
+            "Asian": 108
+          },
+          {
+            "American Indian": 297
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 175
+          },
+          {
+            "Other race": 258
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Silver Springs"
+      },
+      "produce": {
+        "common.geography.city.population": "5995",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8716
+          },
+          {
+            "African American": 135
+          },
+          {
+            "Asian": 162
+          },
+          {
+            "American Indian": 167
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 178
+          },
+          {
+            "Other race": 642
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Indian Hills"
+      },
+      "produce": {
+        "common.geography.city.population": "5928",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8850
+          },
+          {
+            "African American": 2
+          },
+          {
+            "Asian": 285
+          },
+          {
+            "American Indian": 243
+          },
+          {
+            "Native Hawaiian": 91
+          },
+          {
+            "Mixed race": 314
+          },
+          {
+            "Other race": 216
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Johnson Lane"
+      },
+      "produce": {
+        "common.geography.city.population": "6626",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9561
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 112
+          },
+          {
+            "American Indian": 62
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 237
+          },
+          {
+            "Other race": 28
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Lemmon Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "5217",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8321
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 136
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 13
+          },
+          {
+            "Mixed race": 493
+          },
+          {
+            "Other race": 1037
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Gardnerville"
+      },
+      "produce": {
+        "common.geography.city.population": "5972",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8640
+          },
+          {
+            "African American": 47
+          },
+          {
+            "Asian": 92
+          },
+          {
+            "American Indian": 177
+          },
+          {
+            "Native Hawaiian": 8
+          },
+          {
+            "Mixed race": 501
+          },
+          {
+            "Other race": 532
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Ely"
+      },
+      "produce": {
+        "common.geography.city.population": "4236",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8395
+          },
+          {
+            "African American": 73
+          },
+          {
+            "Asian": 47
+          },
+          {
+            "American Indian": 963
+          },
+          {
+            "Native Hawaiian": 17
+          },
+          {
+            "Mixed race": 227
+          },
+          {
+            "Other race": 279
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "West Wendover"
+      },
+      "produce": {
+        "common.geography.city.population": "4441",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9556
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 182
+          },
+          {
+            "American Indian": 178
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 83
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Hawthorne"
+      },
+      "produce": {
+        "common.geography.city.population": "3450",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8354
+          },
+          {
+            "African American": 246
+          },
+          {
+            "Asian": 243
+          },
+          {
+            "American Indian": 275
+          },
+          {
+            "Native Hawaiian": 6
+          },
+          {
+            "Mixed race": 513
+          },
+          {
+            "Other race": 362
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Minden"
+      },
+      "produce": {
+        "common.geography.city.population": "3381",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9145
+          },
+          {
+            "African American": 68
+          },
+          {
+            "Asian": 83
+          },
+          {
+            "American Indian": 142
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 349
+          },
+          {
+            "Other race": 213
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Battle Mountain"
+      },
+      "produce": {
+        "common.geography.city.population": "3560",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9132
+          },
+          {
+            "African American": 6
+          },
+          {
+            "Asian": 51
+          },
+          {
+            "American Indian": 331
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 334
+          },
+          {
+            "Other race": 146
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Yerington"
+      },
+      "produce": {
+        "common.geography.city.population": "3086",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8639
+          },
+          {
+            "African American": 28
+          },
+          {
+            "Asian": 32
+          },
+          {
+            "American Indian": 791
+          },
+          {
+            "Native Hawaiian": 162
+          },
+          {
+            "Mixed race": 206
+          },
+          {
+            "Other race": 139
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Washoe Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "3417",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9236
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 158
+          },
+          {
+            "American Indian": 258
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 234
+          },
+          {
+            "Other race": 113
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Tonopah"
+      },
+      "produce": {
+        "common.geography.city.population": "2757",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9518
+          },
+          {
+            "African American": 54
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 127
+          },
+          {
+            "Native Hawaiian": 15
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 287
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Nellis AFB"
+      },
+      "produce": {
+        "common.geography.city.population": "3041",
+        "common.person.gender": {
+          "male": 140,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6179
+          },
+          {
+            "African American": 2170
+          },
+          {
+            "Asian": 352
+          },
+          {
+            "American Indian": 33
+          },
+          {
+            "Native Hawaiian": 92
+          },
+          {
+            "Mixed race": 707
+          },
+          {
+            "Other race": 467
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Alamo"
+      },
+      "produce": {
+        "common.geography.city.population": "809",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Baker"
+      },
+      "produce": {
+        "common.geography.city.population": "20",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Carlin"
+      },
+      "produce": {
+        "common.geography.city.population": "2646",
+        "common.person.gender": {
+          "male": 150,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9683
+          },
+          {
+            "African American": 181
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 106
+          },
+          {
+            "Native Hawaiian": 11
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 19
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Battle Mountain"
+      },
+      "produce": {
+        "common.geography.city.population": "3560",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9132
+          },
+          {
+            "African American": 6
+          },
+          {
+            "Asian": 51
+          },
+          {
+            "American Indian": 331
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 334
+          },
+          {
+            "Other race": 146
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Austin"
+      },
+      "produce": {
+        "common.geography.city.population": "34",
+        "common.person.gender": {
+          "male": 160,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Beaverdam"
+      },
+      "produce": {
+        "common.geography.city.population": "0",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": []
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Beatty"
+      },
+      "produce": {
+        "common.geography.city.population": "1011",
+        "common.person.gender": {
+          "male": 160,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9545
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 455
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Blue Diamond"
+      },
+      "produce": {
+        "common.geography.city.population": "350",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9486
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 514
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Bennett Springs"
+      },
+      "produce": {
+        "common.geography.city.population": "39",
+        "common.person.gender": {
+          "male": 330,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Bunkerville"
+      },
+      "produce": {
+        "common.geography.city.population": "1128",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9078
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 337
+          },
+          {
+            "Mixed race": 106
+          },
+          {
+            "Other race": 479
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Boulder City"
+      },
+      "produce": {
+        "common.geography.city.population": "15194",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9392
+          },
+          {
+            "African American": 41
+          },
+          {
+            "Asian": 142
+          },
+          {
+            "American Indian": 41
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 235
+          },
+          {
+            "Other race": 150
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Caliente"
+      },
+      "produce": {
+        "common.geography.city.population": "1204",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9543
+          },
+          {
+            "African American": 50
+          },
+          {
+            "Asian": 75
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 25
+          },
+          {
+            "Mixed race": 307
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Carson City"
+      },
+      "produce": {
+        "common.geography.city.population": "55184",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8490
+          },
+          {
+            "African American": 97
+          },
+          {
+            "Asian": 303
+          },
+          {
+            "American Indian": 221
+          },
+          {
+            "Native Hawaiian": 19
+          },
+          {
+            "Mixed race": 231
+          },
+          {
+            "Other race": 638
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Cal-Nev-Ari"
+      },
+      "produce": {
+        "common.geography.city.population": "139",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9281
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 719
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Carter Springs"
+      },
+      "produce": {
+        "common.geography.city.population": "345",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8928
+          },
+          {
+            "African American": 174
+          },
+          {
+            "Asian": 57
+          },
+          {
+            "American Indian": 290
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 551
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Carlin"
+      },
+      "produce": {
+        "common.geography.city.population": "2646",
+        "common.person.gender": {
+          "male": 150,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9683
+          },
+          {
+            "African American": 181
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 106
+          },
+          {
+            "Native Hawaiian": 11
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 19
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Crescent Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "256",
+        "common.person.gender": {
+          "male": 160,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9766
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 234
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Cold Springs"
+      },
+      "produce": {
+        "common.geography.city.population": "8530",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8669
+          },
+          {
+            "African American": 395
+          },
+          {
+            "Asian": 101
+          },
+          {
+            "American Indian": 48
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 533
+          },
+          {
+            "Other race": 252
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Dayton"
+      },
+      "produce": {
+        "common.geography.city.population": "9128",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8614
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 170
+          },
+          {
+            "American Indian": 158
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 320
+          },
+          {
+            "Other race": 738
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Crystal Bay"
+      },
+      "produce": {
+        "common.geography.city.population": "164",
+        "common.person.gender": {
+          "male": 50,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Double Spring"
+      },
+      "produce": {
+        "common.geography.city.population": "145",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Denio"
+      },
+      "produce": {
+        "common.geography.city.population": "0",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": []
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Dyer"
+      },
+      "produce": {
+        "common.geography.city.population": "145",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8069
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 1930
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Dry Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "34",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Elko"
+      },
+      "produce": {
+        "common.geography.city.population": "18438",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8702
+          },
+          {
+            "African American": 145
+          },
+          {
+            "Asian": 170
+          },
+          {
+            "American Indian": 346
+          },
+          {
+            "Native Hawaiian": 28
+          },
+          {
+            "Mixed race": 256
+          },
+          {
+            "Other race": 353
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Empire"
+      },
+      "produce": {
+        "common.geography.city.population": "62",
+        "common.person.gender": {
+          "male": 520,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7903
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 2097
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "East Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "1578",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9639
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 70
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 133
+          },
+          {
+            "Other race": 158
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Enterprise"
+      },
+      "produce": {
+        "common.geography.city.population": "113150",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5983
+          },
+          {
+            "African American": 882
+          },
+          {
+            "Asian": 2032
+          },
+          {
+            "American Indian": 67
+          },
+          {
+            "Native Hawaiian": 163
+          },
+          {
+            "Mixed race": 554
+          },
+          {
+            "Other race": 319
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Ely"
+      },
+      "produce": {
+        "common.geography.city.population": "4236",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8395
+          },
+          {
+            "African American": 73
+          },
+          {
+            "Asian": 47
+          },
+          {
+            "American Indian": 963
+          },
+          {
+            "Native Hawaiian": 17
+          },
+          {
+            "Mixed race": 227
+          },
+          {
+            "Other race": 279
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Fallon"
+      },
+      "produce": {
+        "common.geography.city.population": "8555",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7841
+          },
+          {
+            "African American": 375
+          },
+          {
+            "Asian": 717
+          },
+          {
+            "American Indian": 350
+          },
+          {
+            "Native Hawaiian": 5
+          },
+          {
+            "Mixed race": 409
+          },
+          {
+            "Other race": 303
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Eureka"
+      },
+      "produce": {
+        "common.geography.city.population": "526",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9164
+          },
+          {
+            "African American": 209
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 513
+          },
+          {
+            "Native Hawaiian": 113
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Fernley"
+      },
+      "produce": {
+        "common.geography.city.population": "19074",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8677
+          },
+          {
+            "African American": 144
+          },
+          {
+            "Asian": 247
+          },
+          {
+            "American Indian": 217
+          },
+          {
+            "Native Hawaiian": 50
+          },
+          {
+            "Mixed race": 451
+          },
+          {
+            "Other race": 213
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Fallon Station"
+      },
+      "produce": {
+        "common.geography.city.population": "713",
+        "common.person.gender": {
+          "male": 200,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7518
+          },
+          {
+            "African American": 617
+          },
+          {
+            "Asian": 393
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 911
+          },
+          {
+            "Other race": 561
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Fort McDermitt"
+      },
+      "produce": {
+        "common.geography.city.population": "413",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 533
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 73
+          },
+          {
+            "American Indian": 9225
+          },
+          {
+            "Native Hawaiian": 145
+          },
+          {
+            "Mixed race": 24
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Gardnerville"
+      },
+      "produce": {
+        "common.geography.city.population": "5972",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8640
+          },
+          {
+            "African American": 47
+          },
+          {
+            "Asian": 92
+          },
+          {
+            "American Indian": 177
+          },
+          {
+            "Native Hawaiian": 8
+          },
+          {
+            "Mixed race": 501
+          },
+          {
+            "Other race": 532
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Gardnerville Ranchos"
+      },
+      "produce": {
+        "common.geography.city.population": "11785",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8712
+          },
+          {
+            "African American": 98
+          },
+          {
+            "Asian": 69
+          },
+          {
+            "American Indian": 361
+          },
+          {
+            "Native Hawaiian": 10
+          },
+          {
+            "Mixed race": 520
+          },
+          {
+            "Other race": 229
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Fish Springs"
+      },
+      "produce": {
+        "common.geography.city.population": "723",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9820
+          },
+          {
+            "African American": 41
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 138
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Genoa"
+      },
+      "produce": {
+        "common.geography.city.population": "777",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9781
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 219
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Gabbs"
+      },
+      "produce": {
+        "common.geography.city.population": "149",
+        "common.person.gender": {
+          "male": 150,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Gerlach"
+      },
+      "produce": {
+        "common.geography.city.population": "173",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Golconda"
+      },
+      "produce": {
+        "common.geography.city.population": "207",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9855
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 145
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Glenbrook"
+      },
+      "produce": {
+        "common.geography.city.population": "178",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Goldfield"
+      },
+      "produce": {
+        "common.geography.city.population": "343",
+        "common.person.gender": {
+          "male": 160,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9679
+          },
+          {
+            "African American": 204
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 117
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Golden Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "1994",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9860
+          },
+          {
+            "African American": 60
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 5
+          },
+          {
+            "Other race": 75
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Grass Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "978",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9642
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 358
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Henderson"
+      },
+      "produce": {
+        "common.geography.city.population": "258270",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7908
+          },
+          {
+            "African American": 590
+          },
+          {
+            "Asian": 747
+          },
+          {
+            "American Indian": 47
+          },
+          {
+            "Native Hawaiian": 46
+          },
+          {
+            "Mixed race": 368
+          },
+          {
+            "Other race": 295
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Goodsprings"
+      },
+      "produce": {
+        "common.geography.city.population": "0",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": []
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Hawthorne"
+      },
+      "produce": {
+        "common.geography.city.population": "3450",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8354
+          },
+          {
+            "African American": 246
+          },
+          {
+            "Asian": 243
+          },
+          {
+            "American Indian": 275
+          },
+          {
+            "Native Hawaiian": 6
+          },
+          {
+            "Mixed race": 513
+          },
+          {
+            "Other race": 362
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Hiko"
+      },
+      "produce": {
+        "common.geography.city.population": "224",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Humboldt River Ranch"
+      },
+      "produce": {
+        "common.geography.city.population": "35",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 3714
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 3714
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 2571
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Incline Village"
+      },
+      "produce": {
+        "common.geography.city.population": "7963",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9391
+          },
+          {
+            "African American": 14
+          },
+          {
+            "Asian": 217
+          },
+          {
+            "American Indian": 165
+          },
+          {
+            "Native Hawaiian": 57
+          },
+          {
+            "Mixed race": 59
+          },
+          {
+            "Other race": 97
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Imlay"
+      },
+      "produce": {
+        "common.geography.city.population": "100",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Indian Springs"
+      },
+      "produce": {
+        "common.geography.city.population": "938",
+        "common.person.gender": {
+          "male": 150,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8539
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 714
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 746
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Indian Hills"
+      },
+      "produce": {
+        "common.geography.city.population": "5928",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8850
+          },
+          {
+            "African American": 2
+          },
+          {
+            "Asian": 285
+          },
+          {
+            "American Indian": 243
+          },
+          {
+            "Native Hawaiian": 91
+          },
+          {
+            "Mixed race": 314
+          },
+          {
+            "Other race": 216
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Johnson Lane"
+      },
+      "produce": {
+        "common.geography.city.population": "6626",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9561
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 112
+          },
+          {
+            "American Indian": 62
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 237
+          },
+          {
+            "Other race": 28
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Jackpot"
+      },
+      "produce": {
+        "common.geography.city.population": "1410",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9610
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 390
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Kingston"
+      },
+      "produce": {
+        "common.geography.city.population": "49",
+        "common.person.gender": {
+          "male": 440,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Kingsbury"
+      },
+      "produce": {
+        "common.geography.city.population": "1690",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9533
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 183
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 284
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Lamoille"
+      },
+      "produce": {
+        "common.geography.city.population": "107",
+        "common.person.gender": {
+          "male": 30,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Lakeridge"
+      },
+      "produce": {
+        "common.geography.city.population": "236",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Laughlin"
+      },
+      "produce": {
+        "common.geography.city.population": "6855",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8830
+          },
+          {
+            "African American": 544
+          },
+          {
+            "Asian": 82
+          },
+          {
+            "American Indian": 98
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 282
+          },
+          {
+            "Other race": 165
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Las Vegas"
+      },
+      "produce": {
+        "common.geography.city.population": "587699",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7006
+          },
+          {
+            "African American": 1091
+          },
+          {
+            "Asian": 630
+          },
+          {
+            "American Indian": 64
+          },
+          {
+            "Native Hawaiian": 50
+          },
+          {
+            "Mixed race": 421
+          },
+          {
+            "Other race": 737
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Logan Creek"
+      },
+      "produce": {
+        "common.geography.city.population": "0",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": []
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Lemmon Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "5217",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8321
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 136
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 13
+          },
+          {
+            "Mixed race": 493
+          },
+          {
+            "Other race": 1037
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Lund"
+      },
+      "produce": {
+        "common.geography.city.population": "338",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Lovelock"
+      },
+      "produce": {
+        "common.geography.city.population": "2220",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8590
+          },
+          {
+            "African American": 81
+          },
+          {
+            "Asian": 9
+          },
+          {
+            "American Indian": 712
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 369
+          },
+          {
+            "Other race": 239
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "McDermitt"
+      },
+      "produce": {
+        "common.geography.city.population": "203",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "McGill"
+      },
+      "produce": {
+        "common.geography.city.population": "1478",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9479
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 521
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Mesquite"
+      },
+      "produce": {
+        "common.geography.city.population": "15391",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9001
+          },
+          {
+            "African American": 85
+          },
+          {
+            "Asian": 79
+          },
+          {
+            "American Indian": 99
+          },
+          {
+            "Native Hawaiian": 8
+          },
+          {
+            "Mixed race": 127
+          },
+          {
+            "Other race": 600
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Minden"
+      },
+      "produce": {
+        "common.geography.city.population": "3381",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9145
+          },
+          {
+            "African American": 68
+          },
+          {
+            "Asian": 83
+          },
+          {
+            "American Indian": 142
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 349
+          },
+          {
+            "Other race": 213
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Moapa Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "6668",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9286
+          },
+          {
+            "African American": 385
+          },
+          {
+            "Asian": 13
+          },
+          {
+            "American Indian": 157
+          },
+          {
+            "Native Hawaiian": 28
+          },
+          {
+            "Mixed race": 36
+          },
+          {
+            "Other race": 93
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Mina"
+      },
+      "produce": {
+        "common.geography.city.population": "75",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Mogul"
+      },
+      "produce": {
+        "common.geography.city.population": "1419",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9464
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 225
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 310
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Moapa Town"
+      },
+      "produce": {
+        "common.geography.city.population": "697",
+        "common.person.gender": {
+          "male": 130,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8838
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 1162
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Montello"
+      },
+      "produce": {
+        "common.geography.city.population": "138",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Mount Charleston"
+      },
+      "produce": {
+        "common.geography.city.population": "227",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9559
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 441
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Nellis AFB"
+      },
+      "produce": {
+        "common.geography.city.population": "3041",
+        "common.person.gender": {
+          "male": 140,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6179
+          },
+          {
+            "African American": 2170
+          },
+          {
+            "Asian": 352
+          },
+          {
+            "American Indian": 33
+          },
+          {
+            "Native Hawaiian": 92
+          },
+          {
+            "Mixed race": 707
+          },
+          {
+            "Other race": 467
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Mount Wilson"
+      },
+      "produce": {
+        "common.geography.city.population": "28",
+        "common.person.gender": {
+          "male": 180,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Nixon"
+      },
+      "produce": {
+        "common.geography.city.population": "394",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 939
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 152
+          },
+          {
+            "American Indian": 7462
+          },
+          {
+            "Native Hawaiian": 838
+          },
+          {
+            "Mixed race": 558
+          },
+          {
+            "Other race": 51
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Nelson"
+      },
+      "produce": {
+        "common.geography.city.population": "95",
+        "common.person.gender": {
+          "male": 170,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Oasis"
+      },
+      "produce": {
+        "common.geography.city.population": "14",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "North Las Vegas"
+      },
+      "produce": {
+        "common.geography.city.population": "215762",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5577
+          },
+          {
+            "African American": 1985
+          },
+          {
+            "Asian": 572
+          },
+          {
+            "American Indian": 53
+          },
+          {
+            "Native Hawaiian": 103
+          },
+          {
+            "Mixed race": 490
+          },
+          {
+            "Other race": 1219
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Osino"
+      },
+      "produce": {
+        "common.geography.city.population": "608",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8602
+          },
+          {
+            "African American": 296
+          },
+          {
+            "Asian": 641
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 461
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Orovada"
+      },
+      "produce": {
+        "common.geography.city.population": "129",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Pahrump"
+      },
+      "produce": {
+        "common.geography.city.population": "35821",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9050
+          },
+          {
+            "African American": 275
+          },
+          {
+            "Asian": 157
+          },
+          {
+            "American Indian": 112
+          },
+          {
+            "Native Hawaiian": 31
+          },
+          {
+            "Mixed race": 186
+          },
+          {
+            "Other race": 188
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Owyhee"
+      },
+      "produce": {
+        "common.geography.city.population": "1146",
+        "common.person.gender": {
+          "male": 160,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1344
+          },
+          {
+            "African American": 166
+          },
+          {
+            "Asian": 44
+          },
+          {
+            "American Indian": 8351
+          },
+          {
+            "Native Hawaiian": 26
+          },
+          {
+            "Mixed race": 44
+          },
+          {
+            "Other race": 26
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Paradise"
+      },
+      "produce": {
+        "common.geography.city.population": "220202",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6970
+          },
+          {
+            "African American": 938
+          },
+          {
+            "Asian": 873
+          },
+          {
+            "American Indian": 50
+          },
+          {
+            "Native Hawaiian": 70
+          },
+          {
+            "Mixed race": 405
+          },
+          {
+            "Other race": 695
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Panaca"
+      },
+      "produce": {
+        "common.geography.city.population": "1340",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8619
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 1284
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 97
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Pioche"
+      },
+      "produce": {
+        "common.geography.city.population": "790",
+        "common.person.gender": {
+          "male": 210,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8316
+          },
+          {
+            "African American": 1430
+          },
+          {
+            "Asian": 51
+          },
+          {
+            "American Indian": 165
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 38
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Paradise Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "198",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9949
+          },
+          {
+            "African American": 51
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Rachel"
+      },
+      "produce": {
+        "common.geography.city.population": "75",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 5200
+          },
+          {
+            "African American": 4800
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Preston"
+      },
+      "produce": {
+        "common.geography.city.population": "62",
+        "common.person.gender": {
+          "male": 170,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Round Hill Village"
+      },
+      "produce": {
+        "common.geography.city.population": "692",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9697
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 303
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Reno"
+      },
+      "produce": {
+        "common.geography.city.population": "226305",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7989
+          },
+          {
+            "African American": 310
+          },
+          {
+            "Asian": 637
+          },
+          {
+            "American Indian": 94
+          },
+          {
+            "Native Hawaiian": 71
+          },
+          {
+            "Mixed race": 337
+          },
+          {
+            "Other race": 561
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Ruth"
+      },
+      "produce": {
+        "common.geography.city.population": "816",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Ruhenstroth"
+      },
+      "produce": {
+        "common.geography.city.population": "1149",
+        "common.person.gender": {
+          "male": 180,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9565
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 70
+          },
+          {
+            "Native Hawaiian": 87
+          },
+          {
+            "Mixed race": 279
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Schurz"
+      },
+      "produce": {
+        "common.geography.city.population": "598",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 1639
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 8361
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Sandy Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "1415",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Silver Peak"
+      },
+      "produce": {
+        "common.geography.city.population": "173",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Searchlight"
+      },
+      "produce": {
+        "common.geography.city.population": "398",
+        "common.person.gender": {
+          "male": 160,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9673
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 327
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Skyland"
+      },
+      "produce": {
+        "common.geography.city.population": "221",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Silver Springs"
+      },
+      "produce": {
+        "common.geography.city.population": "5995",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8716
+          },
+          {
+            "African American": 135
+          },
+          {
+            "Asian": 162
+          },
+          {
+            "American Indian": 167
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 178
+          },
+          {
+            "Other race": 642
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Spanish Springs"
+      },
+      "produce": {
+        "common.geography.city.population": "15436",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8990
+          },
+          {
+            "African American": 126
+          },
+          {
+            "Asian": 125
+          },
+          {
+            "American Indian": 147
+          },
+          {
+            "Native Hawaiian": 5
+          },
+          {
+            "Mixed race": 335
+          },
+          {
+            "Other race": 272
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Smith Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "1350",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Spring Creek"
+      },
+      "produce": {
+        "common.geography.city.population": "13295",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9507
+          },
+          {
+            "African American": 21
+          },
+          {
+            "Asian": 42
+          },
+          {
+            "American Indian": 150
+          },
+          {
+            "Native Hawaiian": 4
+          },
+          {
+            "Mixed race": 105
+          },
+          {
+            "Other race": 171
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Sparks"
+      },
+      "produce": {
+        "common.geography.city.population": "90099",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7901
+          },
+          {
+            "African American": 229
+          },
+          {
+            "Asian": 569
+          },
+          {
+            "American Indian": 157
+          },
+          {
+            "Native Hawaiian": 76
+          },
+          {
+            "Mixed race": 454
+          },
+          {
+            "Other race": 614
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Spring Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "178673",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6408
+          },
+          {
+            "African American": 939
+          },
+          {
+            "Asian": 1701
+          },
+          {
+            "American Indian": 43
+          },
+          {
+            "Native Hawaiian": 94
+          },
+          {
+            "Mixed race": 416
+          },
+          {
+            "Other race": 400
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Stagecoach"
+      },
+      "produce": {
+        "common.geography.city.population": "1272",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Sun Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "18514",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8165
+          },
+          {
+            "African American": 265
+          },
+          {
+            "Asian": 308
+          },
+          {
+            "American Indian": 101
+          },
+          {
+            "Native Hawaiian": 16
+          },
+          {
+            "Mixed race": 290
+          },
+          {
+            "Other race": 855
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Stateline"
+      },
+      "produce": {
+        "common.geography.city.population": "871",
+        "common.person.gender": {
+          "male": 120,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8083
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 1917
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Summerlin South"
+      },
+      "produce": {
+        "common.geography.city.population": "24061",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7968
+          },
+          {
+            "African American": 503
+          },
+          {
+            "Asian": 965
+          },
+          {
+            "American Indian": 25
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 372
+          },
+          {
+            "Other race": 167
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Sunrise Manor"
+      },
+      "produce": {
+        "common.geography.city.population": "190931",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6406
+          },
+          {
+            "African American": 1138
+          },
+          {
+            "Asian": 639
+          },
+          {
+            "American Indian": 79
+          },
+          {
+            "Native Hawaiian": 54
+          },
+          {
+            "Mixed race": 390
+          },
+          {
+            "Other race": 1294
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Tonopah"
+      },
+      "produce": {
+        "common.geography.city.population": "2757",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9518
+          },
+          {
+            "African American": 54
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 127
+          },
+          {
+            "Native Hawaiian": 15
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 287
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Sutcliffe"
+      },
+      "produce": {
+        "common.geography.city.population": "303",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2277
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 7591
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 132
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Topaz Ranch Estates"
+      },
+      "produce": {
+        "common.geography.city.population": "1546",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9269
+          },
+          {
+            "African American": 45
+          },
+          {
+            "Asian": 52
+          },
+          {
+            "American Indian": 142
+          },
+          {
+            "Native Hawaiian": 19
+          },
+          {
+            "Mixed race": 317
+          },
+          {
+            "Other race": 155
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Topaz Lake"
+      },
+      "produce": {
+        "common.geography.city.population": "241",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9876
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 83
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 41
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Valmy"
+      },
+      "produce": {
+        "common.geography.city.population": "0",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": []
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Ursine"
+      },
+      "produce": {
+        "common.geography.city.population": "74",
+        "common.person.gender": {
+          "male": 160,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Virginia City"
+      },
+      "produce": {
+        "common.geography.city.population": "814",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9300
+          },
+          {
+            "African American": 160
+          },
+          {
+            "Asian": 12
+          },
+          {
+            "American Indian": 516
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 12
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Verdi"
+      },
+      "produce": {
+        "common.geography.city.population": "1665",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9892
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 108
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Walker Lake"
+      },
+      "produce": {
+        "common.geography.city.population": "264",
+        "common.person.gender": {
+          "male": 70,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 10000
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Wadsworth"
+      },
+      "produce": {
+        "common.geography.city.population": "783",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 2030
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 6539
+          },
+          {
+            "Native Hawaiian": 1022
+          },
+          {
+            "Mixed race": 229
+          },
+          {
+            "Other race": 179
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Wells"
+      },
+      "produce": {
+        "common.geography.city.population": "1363",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9340
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 37
+          },
+          {
+            "American Indian": 499
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 125
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Washoe Valley"
+      },
+      "produce": {
+        "common.geography.city.population": "3417",
+        "common.person.gender": {
+          "male": 90,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9236
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 158
+          },
+          {
+            "American Indian": 258
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 234
+          },
+          {
+            "Other race": 113
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Whitney"
+      },
+      "produce": {
+        "common.geography.city.population": "37977",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 6356
+          },
+          {
+            "African American": 1076
+          },
+          {
+            "Asian": 1338
+          },
+          {
+            "American Indian": 28
+          },
+          {
+            "Native Hawaiian": 83
+          },
+          {
+            "Mixed race": 390
+          },
+          {
+            "Other race": 727
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "West Wendover"
+      },
+      "produce": {
+        "common.geography.city.population": "4441",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9556
+          },
+          {
+            "African American": 0
+          },
+          {
+            "Asian": 182
+          },
+          {
+            "American Indian": 178
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 83
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Winnemucca"
+      },
+      "produce": {
+        "common.geography.city.population": "7409",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9152
+          },
+          {
+            "African American": 9
+          },
+          {
+            "Asian": 108
+          },
+          {
+            "American Indian": 297
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 175
+          },
+          {
+            "Other race": 258
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Winchester"
+      },
+      "produce": {
+        "common.geography.city.population": "27260",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7358
+          },
+          {
+            "African American": 819
+          },
+          {
+            "Asian": 634
+          },
+          {
+            "American Indian": 77
+          },
+          {
+            "Native Hawaiian": 73
+          },
+          {
+            "Mixed race": 289
+          },
+          {
+            "Other race": 749
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Yerington"
+      },
+      "produce": {
+        "common.geography.city.population": "3086",
+        "common.person.gender": {
+          "male": 80,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 8639
+          },
+          {
+            "African American": 28
+          },
+          {
+            "Asian": 32
+          },
+          {
+            "American Indian": 791
+          },
+          {
+            "Native Hawaiian": 162
+          },
+          {
+            "Mixed race": 206
+          },
+          {
+            "Other race": 139
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Zephyr Cove"
+      },
+      "produce": {
+        "common.geography.city.population": "355",
+        "common.person.gender": {
+          "male": 100,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9352
+          },
+          {
+            "African American": 112
+          },
+          {
+            "Asian": 225
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 85
+          },
+          {
+            "Mixed race": 225
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "NV",
+        "common.geography.city.name": "Fish Springs"
+      },
+      "produce": {
+        "common.geography.city.population": "723",
+        "common.person.gender": {
+          "male": 110,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 9820
+          },
+          {
+            "African American": 41
+          },
+          {
+            "Asian": 0
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 0
+          },
+          {
+            "Other race": 138
+          }
+        ]
+      }
+    }
+  ]
+}
