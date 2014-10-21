@@ -12,19 +12,147 @@ using Newtonsoft.Json.Linq;
 
 namespace DataCollector
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            ReScanCities();
+            ScanLastNames();
         }
+
+
+        static string[] origins = {
+    "African",
+    "American",
+    "Arabic",
+    "Armenian",
+    "Catalan",
+    "Chinese",
+    "Cornish",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "French",
+    "Galician",
+    "German",
+    "Greek",
+    "Hungarian",
+    "Indian",
+    "Irish",
+    "Italian",
+    "Japanese",
+    "Jewish",
+    "Korean",
+    "Lithuanian",
+    "Muslim",
+    "Native American",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Scandinavian",
+    "Scottish",
+    "Slavic",
+    "Spanish",
+    "Swedish",
+    "Swiss",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Welsh"
+    };
+
+
+        private static void ScanLastNames()
+        {
+            dynamic d = new JObject
+            {
+                {"rules",new JArray()}
+            };
+
+
+            dynamic rules = d.rules;
+
+
+
+            foreach (var origin in origins)
+            {
+                try
+                {
+                    var url = @"http://genealogy.familyeducation.com/browse/origin/" + origin;
+
+                    var names = new JArray();
+
+                    rules.Add(new JObject
+                    {
+                        {
+                            "match", new JObject
+                            {
+                                {"common.person.origin", origin}
+                            }
+                        },
+                        {
+                            "produce", new JObject
+                            {
+                                {"common.person.familyName", names}
+                            }
+                        }
+                    });
+
+
+                    var page = 1;
+                    var targetUrl = url;
+                    while (true)
+                    {
+                        var client = new WebClient();
+
+                        Console.WriteLine(targetUrl);
+
+                        var data = client.DownloadString(targetUrl);
+
+                        var match = lastNames.Match(data);
+                        while (match.Success)
+                        {
+                            var name = match.Groups["name"].Value.Trim();
+
+                            names.Add(name);
+
+                            match = match.NextMatch();
+                        }
+
+                        if (!data.Contains("next"))
+                        {
+                            break;
+                        }
+
+                        page++;
+                        targetUrl = url + "/?page=" + page;
+                    }
+
+                }
+                catch(Exception ex)
+                {
+                    Console.WriteLine(ex);
+                }
+            }
+
+            //File
+            File.WriteAllText(@"..\..\..\..\metadata\familyNames.json",
+                JsonConvert.SerializeObject(d, Formatting.Indented));
+
+        }
+
+
+
+
 
         private static void ReScanCities()
         {
             var cities =
                 File.ReadLines(@"C:\temp\Mel.log")
                     .Select(line => line.Split('\t'))
-                    .Select(line => new {State = line[2], City = line[1], Url = line[0]});
+                    .Select(line => new { State = line[2], City = line[1], Url = line[0] });
 
             foreach (var city in cities)
             {
@@ -259,6 +387,8 @@ namespace DataCollector
         static Regex cityPopulation = new Regex(@"<td>Population<sub> \(2013\)</sub></td><td>(<a href=""[^>]+>)?(?<value>[^<]+)(</a>)?", RegexOptions.Compiled);
         static Regex cityMaleFemale = new Regex(@"<td>Male/Female ratio</td><td>(<a href=""[^>]+>)?(?<value>[^<]+)(</a>)?", RegexOptions.Compiled);
 
+
+        static Regex lastNames = new Regex(@"<li>\s*<a href=""http://genealogy.familyeducation.com/surname-origin/[^""]+"">(?<name>[^<]*)");
 
         //race
         private static Regex cityRace = new Regex(@"(<tr><th>Race.+?</tr>)");

@@ -5,6 +5,7 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Metadata", "Metadata", "{3D53D132-A975-4D5F-9B32-16D7C69099D1}"
 	ProjectSection(SolutionItems) = preProject
+		metadata\familyNames.json = metadata\familyNames.json
 		metadata\geography.json = metadata\geography.json
 		metadata\names.json = metadata\names.json
 		metadata\rules.json = metadata\rules.json
