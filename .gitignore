@@ -43,3 +43,14 @@ Temporary Items
 .apdisk
 
 *.suo
+bin/Debug/*.*
+bin/Release/*.*
+obj/Debug/*.*
+obj/Release/*.*
+tools/DataCollector/bin/Debug/DataCollector.exe
+tools/DataCollector/bin/Debug/DataCollector.pdb
+tools/DataCollector/obj/Debug/DataCollector.csproj.FileListAbsolute.txt
+tools/DataCollector/obj/Debug/DataCollector.csprojResolveAssemblyReference.cache
+tools/DataCollector/obj/Debug/DataCollector.exe
+tools/DataCollector/obj/Debug/DataCollector.pdb
+tools/DataCollector/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
