@@ -6918,6 +6918,43 @@
           }
         ]
       }
+    },
+    {
+      "match": {
+        "common.geography.country.code": "USA",
+        "common.geography.state.code": "CT",
+        "common.geography.city.name": "Wilton Center"
+      },
+      "produce": {
+        "common.geography.city.population": "846",
+        "common.person.gender": {
+          "male": 60,
+          "female": 100
+        },
+        "common.person.race": [
+          {
+            "Caucasian": 7245
+          },
+          {
+            "African American": 2080
+          },
+          {
+            "Asian": 520
+          },
+          {
+            "American Indian": 0
+          },
+          {
+            "Native Hawaiian": 0
+          },
+          {
+            "Mixed race": 154
+          },
+          {
+            "Other race": 0
+          }
+        ]
+      }
     }
   ]
 }

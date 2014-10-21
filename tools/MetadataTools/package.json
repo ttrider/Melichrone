@@ -1,0 +1,10 @@
+{
+  "name": "MetadataTools",
+  "version": "0.0.0",
+  "description": "MetadataTools",
+  "main": "app.js",
+  "author": {
+    "name": "Vladimir",
+    "email": ""
+  }
+}

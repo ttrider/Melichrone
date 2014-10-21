@@ -68,6 +68,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "states", "states", "{7E6EB7
 		metadata\usa.WY.json = metadata\usa.WY.json
 	EndProjectSection
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "MetadataTools", "tools\MetadataTools\MetadataTools.njsproj", "{5C7E12A8-DAE5-4A70-9A29-70358C0BEDA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,6 +80,10 @@ Global
 		{012E4F73-5033-4820-BC7B-2EF6FD4BFF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{012E4F73-5033-4820-BC7B-2EF6FD4BFF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{012E4F73-5033-4820-BC7B-2EF6FD4BFF38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C7E12A8-DAE5-4A70-9A29-70358C0BEDA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7E12A8-DAE5-4A70-9A29-70358C0BEDA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7E12A8-DAE5-4A70-9A29-70358C0BEDA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7E12A8-DAE5-4A70-9A29-70358C0BEDA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
