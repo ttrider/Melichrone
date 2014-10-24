@@ -8,6 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Metadata", "Metadata", "{3D
 		metadata\familyNames.json = metadata\familyNames.json
 		metadata\geography.json = metadata\geography.json
 		metadata\names.json = metadata\names.json
+		metadata\races.json = metadata\races.json
 		metadata\rules.json = metadata\rules.json
 		metadata\usa.json = metadata\usa.json
 	EndProjectSection

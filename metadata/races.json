@@ -1,0 +1,64 @@
+{
+    "rules": [
+        {
+            "produce": [
+                "caucasian",
+                "african american",
+                "asian",
+                "american indian",
+                "hawaiian",
+                "arab",
+
+            ]
+
+        },
+        {
+            "match": {
+                "common.person.race": ""
+            },
+            "produce": {
+                "common.person.ethnicity": [
+                    "african",
+                    "american",
+                    "arabic",
+                    "armenian",
+                    "chinese",
+                    "dutch",
+                    "egyptian",
+                    "english",
+                    "french",
+                    "german",
+                    "greek",
+                    "hawaiian",
+                    "hungarian",
+                    "indian",
+                    "irish",
+                    "italian",
+                    "japanese",
+                    "jewish",
+                    "korean",
+                    "Lithuanian",
+                    "mongolian",
+                    "native",
+                    "american",
+                    "Norwegian",
+                    "persian",
+                    "polish",
+                    "portuguese",
+                    "russian",
+                    "scandinavian",
+                    "scottish",
+                    "slavic",
+                    "spanish",
+                    "swedish",
+                    "swiss",
+                    "thai",
+                    "turkish",
+                    "ukrainian",
+                    "vietnamese",
+                    "welsh"
+                ]
+            }
+        }
+    ]
+}
