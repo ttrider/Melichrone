@@ -1,10 +1,16 @@
 {
-  "name": "MetadataTools",
-  "version": "0.0.0",
-  "description": "MetadataTools",
-  "main": "app.js",
-  "author": {
-    "name": "Vladimir",
-    "email": ""
-  }
+    "name": "MetadataTools",
+    "version": "0.0.0",
+    "description": "MetadataTools",
+    "main": "app.js",
+    "author": {
+        "name": "Vladimir",
+        "email": ""
+    },
+    "dependencies": {
+        "file": "0.2.2",
+        "file-exists": "0.1.1",
+        "nconf": "0.6.9",
+        "readline": "0.0.4"
+    }
 }
