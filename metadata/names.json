@@ -3393,7 +3393,7 @@
     },
     {
       "match": {
-        "common.person.ethnicity": "aztec (nahuatl)",
+        "common.person.ethnicity": "aztec",
         "common.person.gender": "male"
       },
       "produce": {
@@ -3433,7 +3433,7 @@
     },
     {
       "match": {
-        "common.person.ethnicity": "aztec (nahuatl)",
+        "common.person.ethnicity": "aztec",
         "common.person.gender": "female"
       },
       "produce": {
@@ -8139,7 +8139,7 @@
     },
     {
       "match": {
-        "common.person.ethnicity": "hebrew",
+        "common.person.ethnicity": "jewish",
         "common.person.gender": "male"
       },
       "produce": {
@@ -8563,7 +8563,7 @@
     },
     {
       "match": {
-        "common.person.ethnicity": "hebrew",
+        "common.person.ethnicity": "jewish",
         "common.person.gender": "female"
       },
       "produce": {
@@ -9097,7 +9097,7 @@
     },
     {
       "match": {
-        "common.person.ethnicity": "indian (sanskrit)",
+        "common.person.ethnicity": "indian",
         "common.person.gender": "male"
       },
       "produce": {
@@ -9330,7 +9330,7 @@
     },
     {
       "match": {
-        "common.person.ethnicity": "indian (sanskrit)",
+        "common.person.ethnicity": "indian",
         "common.person.gender": "female"
       },
       "produce": {
