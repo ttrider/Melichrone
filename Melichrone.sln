@@ -9,7 +9,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Metadata", "Metadata", "{3D
 		metadata\geography.json = metadata\geography.json
 		metadata\names.json = metadata\names.json
 		metadata\races.json = metadata\races.json
-		metadata\rules.json = metadata\rules.json
+		metadata\usa.areacode_zip.json = metadata\usa.areacode_zip.json
+		metadata\usa.zip_areacode.json = metadata\usa.zip_areacode.json
+		metadata\usa.zipcode_info.json = metadata\usa.zipcode_info.json
+		metadata\usa.zipcodes.json = metadata\usa.zipcodes.json
+		metadata\zip_areacode.json = metadata\zip_areacode.json
 		metadata\usa.json = metadata\usa.json
 	EndProjectSection
 EndProject

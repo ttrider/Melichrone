@@ -1,0 +1,33 @@
+{
+    "rules": [
+        {
+            "match": {
+                "common.geography.country.name": "USA",
+                "common.geography.zip": "98052"
+            },
+            "produce": {
+                "common.geography.areacode": {
+                    "425": 1,
+                    "206": 1
+                },
+                "common.geography.state.code": "WA",
+                "common.geography.city.name": "Redmond"
+            }
+        },
+
+
+        {
+            "match": {
+                "common.geography.country.name": "USA",
+                "common.geography.areacode": "425"
+            },
+            "produce": {
+                "common.geography.zip": {
+                    "98052": "<population>"
+                }
+            }
+        }
+
+
+    ]
+}
